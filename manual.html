@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Socius Academy | Manual</title>
+
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/aula.css">
+</head>
+<body>
+
+  <div id="header"></div>
+
+  <main class="aula-layout">
+
+    <aside class="sidebar">
+      <h2 id="manual-tipo"></h2>
+      <p id="manual-contexto" class="sidebar-contexto"></p>
+
+      <div class="sidebar-bloco">
+        <h3>Detalhes</h3>
+        <div id="manual-meta"></div>
+      </div>
+
+      <div id="manual-indice" class="sidebar-bloco manual-indice">
+        <h3>Índice</h3>
+        <div id="manual-indice-list"></div>
+      </div>
+    </aside>
+
+    <section class="conteudo">
+      <article id="aula-conteudo" class="conteudo-box" aria-live="polite">
+        <p>Carregando manual...</p>
+      </article>
+    </section>
+
+  </main>
+
+  <div id="footer"></div>
+
+  <script src="assets/js/auth.js"></script>
+  <script src="assets/js/components.js"></script>
+  <script src="assets/js/manual.js"></script>
+
+  <script>
+    requireAuth();
+    loadUserInfo();
+
+    loadComponent("header", "header.html");
+    loadComponent("footer", "footer.html");
+  </script>
+
+</body>
+</html>
+
+
+

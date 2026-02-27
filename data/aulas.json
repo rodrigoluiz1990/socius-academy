@@ -1,0 +1,26 @@
+﻿{
+  "estabelecimento": {
+    "título": "Estabelecimento",
+    "aulas": [
+      { "id": "intro", "título": "Introdução", "conteudo": "<p>...</p>" }
+    ]
+  },
+
+  "atendimento": {
+    "título": "Atendimento",
+    "aulas": [
+      { "id": "fluxo", "título": "Fluxo de Atendimento", "conteudo": "<p>...</p>" }
+    ]
+  },
+
+  "vendas": {
+    "título": "Vendas",
+    "aulas": []
+  },
+
+  "financeiro": {
+    "título": "Financeiro",
+    "aulas": []
+  }
+}
+

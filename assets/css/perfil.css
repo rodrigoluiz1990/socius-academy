@@ -1,0 +1,108 @@
+﻿.perfil-layout {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 6px 16px 24px;
+}
+
+.perfil-page-title {
+  color: #1e3a8a;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 800;
+  margin: 8px 0 14px;
+}
+
+.perfil-card {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 22px;
+  box-shadow: 0 10px 24px rgba(15, 23, 42, .08);
+}
+
+.perfil-card h2 {
+  color: #1e3a8a;
+  margin-bottom: 14px;
+  text-align: center;
+}
+
+.perfil-form {
+  display: grid;
+  gap: 8px;
+}
+
+.perfil-form label {
+  font-size: 13px;
+  font-weight: 700;
+  color: #334155;
+  margin-top: 4px;
+}
+
+.perfil-form input {
+  width: 100%;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-size: 14px;
+  outline: none;
+}
+
+.perfil-form input:focus {
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, .18);
+}
+
+.perfil-form input[readonly] {
+  background: #f8fafc;
+  color: #64748b;
+}
+
+.perfil-actions {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.btn-cancelar {
+  background: #fff;
+  color: #334155;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  padding: 10px 16px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.btn-cancelar:hover {
+  background: #f8fafc;
+}
+
+.btn-salvar {
+  background: #1d4ed8;
+  color: #fff;
+  border: 1px solid #3b82f6;
+  border-radius: 10px;
+  padding: 10px 16px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.btn-salvar:hover {
+  background: #1e40af;
+}
+
+.perfil-msg {
+  min-height: 20px;
+  margin-top: 6px;
+  font-size: 13px;
+  color: #0f766e;
+}
+
+.perfil-msg.erro {
+  color: #b91c1c;
+}
+
+

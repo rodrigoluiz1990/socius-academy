@@ -1,0 +1,184 @@
+﻿[
+    {
+        "slug":  "menu-estabelecimento",
+        "nome_tela":  "Estabelecimento",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Estabelecimento",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-entidades",
+        "nome_tela":  "Entidades",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Entidades",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-atendimento",
+        "nome_tela":  "Atendimento",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Atendimento",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-titulos-de-socio",
+        "nome_tela":  "Títulos de sócio",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Títulos de sócio",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-vendas",
+        "nome_tela":  "Vendas",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Vendas",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-ingressos",
+        "nome_tela":  "Ingressos",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Ingressos",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-cartao-do-estabelecimento",
+        "nome_tela":  "Cartão do estabelecimento",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Cartão do estabelecimento",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-alimentacao",
+        "nome_tela":  "Alimentação",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Alimentação",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-aluguel",
+        "nome_tela":  "Aluguel",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Aluguel",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-acesso",
+        "nome_tela":  "Acesso",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Acesso",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-estacionamento",
+        "nome_tela":  "Estacionamento",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Estacionamento",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-financeiro",
+        "nome_tela":  "Financeiro",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Financeiro",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-fiscal",
+        "nome_tela":  "Fiscal",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Fiscal",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-sistema",
+        "nome_tela":  "Sistema",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Sistema",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-utilitarios",
+        "nome_tela":  "Utilitários",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Utilitários",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-relatorios",
+        "nome_tela":  "Relatórios",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Relatórios",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "menu-ajuda",
+        "nome_tela":  "Ajuda",
+        "menu":  "Menu",
+        "descrição":  "Menus do módulo Ajuda",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "acesso-rapido-acessos",
+        "nome_tela":  "Acessos",
+        "menu":  "Acesso rápido",
+        "descrição":  "Atalhos de Acessos",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "acesso-rapido-atendimento",
+        "nome_tela":  "Atendimento",
+        "menu":  "Acesso rápido",
+        "descrição":  "Atalhos de Atendimento",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "acesso-rapido-bilheteria",
+        "nome_tela":  "Bilheteria",
+        "menu":  "Acesso rápido",
+        "descrição":  "Atalhos de Bilheteria",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "acesso-rapido-caixas",
+        "nome_tela":  "Caixas",
+        "menu":  "Acesso rápido",
+        "descrição":  "Atalhos de Caixas",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "acesso-rapido-consumos",
+        "nome_tela":  "Consumos",
+        "menu":  "Acesso rápido",
+        "descrição":  "Atalhos de Consumos",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "acesso-rapido-dados-gerais",
+        "nome_tela":  "Dados gerais",
+        "menu":  "Acesso rápido",
+        "descrição":  "Atalhos de Dados gerais",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "acesso-rapido-emitir-titulo",
+        "nome_tela":  "Emitir título",
+        "menu":  "Acesso rápido",
+        "descrição":  "Atalhos de Emissão de título",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "acesso-rapido-estacionamento",
+        "nome_tela":  "Estacionamento",
+        "menu":  "Acesso rápido",
+        "descrição":  "Atalhos de Estacionamento",
+        "aplicacao":  "retaguarda"
+    },
+    {
+        "slug":  "acesso-rapido-pagar-fatura",
+        "nome_tela":  "Pagar fatura",
+        "menu":  "Acesso rápido",
+        "descrição":  "Atalhos de Pagamento de fatura",
+        "aplicacao":  "retaguarda"
+    }
+]

@@ -1,0 +1,1352 @@
+﻿[
+    {
+        "grupo_slug":  "acesso-rapido-acessos",
+        "slug":  "submenu-acesso-rapido-acessos",
+        "nome_tela":  "Acessos",
+        "menu":  "Acesso rápido",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-rapido-acessos.md"
+    },
+    {
+        "grupo_slug":  "acesso-rapido-atendimento",
+        "slug":  "submenu-acesso-rapido-atendimento",
+        "nome_tela":  "Atendimento",
+        "menu":  "Acesso rápido",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-rapido-atendimento.md"
+    },
+    {
+        "grupo_slug":  "acesso-rapido-bilheteria",
+        "slug":  "submenu-acesso-rapido-bilheteria",
+        "nome_tela":  "Bilheteria",
+        "menu":  "Acesso rápido",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-rapido-bilheteria.md"
+    },
+    {
+        "grupo_slug":  "acesso-rapido-caixas",
+        "slug":  "submenu-acesso-rapido-caixas",
+        "nome_tela":  "Caixas",
+        "menu":  "Acesso rápido",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-rapido-caixas.md"
+    },
+    {
+        "grupo_slug":  "acesso-rapido-consumos",
+        "slug":  "submenu-acesso-rapido-consumos",
+        "nome_tela":  "Consumos",
+        "menu":  "Acesso rápido",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-rapido-consumos.md"
+    },
+    {
+        "grupo_slug":  "acesso-rapido-dados-gerais",
+        "slug":  "submenu-acesso-rapido-dados-gerais",
+        "nome_tela":  "Dados gerais",
+        "menu":  "Acesso rápido",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-rapido-dados-gerais.md"
+    },
+    {
+        "grupo_slug":  "acesso-rapido-emitir-titulo",
+        "slug":  "submenu-acesso-rapido-emitir-titulo",
+        "nome_tela":  "Emitir título",
+        "menu":  "Acesso rápido",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-rapido-emitir-titulo.md"
+    },
+    {
+        "grupo_slug":  "acesso-rapido-estacionamento",
+        "slug":  "submenu-acesso-rapido-estacionamento",
+        "nome_tela":  "Estacionamento",
+        "menu":  "Acesso rápido",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-rapido-estacionamento.md"
+    },
+    {
+        "grupo_slug":  "acesso-rapido-pagar-fatura",
+        "slug":  "submenu-acesso-rapido-pagar-fatura",
+        "nome_tela":  "Pagar fatura",
+        "menu":  "Acesso rápido",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-rapido-pagar-fatura.md"
+    },
+    {
+        "grupo_slug":  "menu-acesso",
+        "slug":  "submenu-acesso-acessos",
+        "nome_tela":  "Acessos",
+        "menu":  "Acesso",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-acessos.md"
+    },
+    {
+        "grupo_slug":  "menu-acesso",
+        "slug":  "submenu-acesso-catraca-virtual",
+        "nome_tela":  "Catraca virtual",
+        "menu":  "Acesso",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-catraca-virtual.md"
+    },
+    {
+        "grupo_slug":  "menu-acesso",
+        "slug":  "submenu-acesso-catracas",
+        "nome_tela":  "Catracas",
+        "menu":  "Acesso",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-catracas.md"
+    },
+    {
+        "grupo_slug":  "menu-acesso",
+        "slug":  "submenu-acesso-leitor-facial",
+        "nome_tela":  "Leitor facial",
+        "menu":  "Acesso",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-leitor-facial.md"
+    },
+    {
+        "grupo_slug":  "menu-acesso",
+        "slug":  "submenu-acesso-locais-de-acesso",
+        "nome_tela":  "Locais de acesso",
+        "menu":  "Acesso",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-locais-de-acesso.md"
+    },
+    {
+        "grupo_slug":  "menu-acesso",
+        "slug":  "submenu-acesso-saida-de-entradas-pendentes",
+        "nome_tela":  "Saida de entradas pendentes",
+        "menu":  "Acesso",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-saida-de-entradas-pendentes.md"
+    },
+    {
+        "grupo_slug":  "menu-acesso",
+        "slug":  "submenu-acesso-tipos-de-entrada",
+        "nome_tela":  "Tipos de entrada",
+        "menu":  "Acesso",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-tipos-de-entrada.md"
+    },
+    {
+        "grupo_slug":  "menu-ajuda",
+        "slug":  "submenu-ajuda-historico-de-alteracoes",
+        "nome_tela":  "Historico de alteracoes",
+        "menu":  "Ajuda",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-ajuda-historico-de-alteracoes.md"
+    },
+    {
+        "grupo_slug":  "menu-ajuda",
+        "slug":  "submenu-ajuda-informacoes-autorais",
+        "nome_tela":  "Informações autorais",
+        "menu":  "Ajuda",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-ajuda-informacoes-autorais.md"
+    },
+    {
+        "grupo_slug":  "menu-ajuda",
+        "slug":  "submenu-ajuda-informacoes-do-ambiente",
+        "nome_tela":  "Informações do ambiente",
+        "menu":  "Ajuda",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-ajuda-informacoes-do-ambiente.md"
+    },
+    {
+        "grupo_slug":  "menu-ajuda",
+        "slug":  "submenu-ajuda-suporte",
+        "nome_tela":  "Suporte",
+        "menu":  "Ajuda",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-ajuda-suporte.md"
+    },
+    {
+        "grupo_slug":  "menu-alimentacao",
+        "slug":  "submenu-alimentacao-categorias-de-produto-de-consumo",
+        "nome_tela":  "Categorias de produto de consumo",
+        "menu":  "Alimentação",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-alimentacao-categorias-de-produto-de-consumo.md"
+    },
+    {
+        "grupo_slug":  "menu-alimentacao",
+        "slug":  "submenu-alimentacao-devolucao-de-item-de-consumo",
+        "nome_tela":  "Devolucao de item de consumo",
+        "menu":  "Alimentação",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-alimentacao-devolucao-de-item-de-consumo.md"
+    },
+    {
+        "grupo_slug":  "menu-alimentacao",
+        "slug":  "submenu-alimentacao-produtos-de-consumo",
+        "nome_tela":  "Produtos de consumo",
+        "menu":  "Alimentação",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-alimentacao-produtos-de-consumo.md"
+    },
+    {
+        "grupo_slug":  "menu-alimentacao",
+        "slug":  "submenu-alimentacao-venda-de-produtos-de-consumo",
+        "nome_tela":  "Venda de produtos de consumo",
+        "menu":  "Alimentação",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-alimentacao-venda-de-produtos-de-consumo.md"
+    },
+    {
+        "grupo_slug":  "menu-aluguel",
+        "slug":  "submenu-aluguel-aluguel",
+        "nome_tela":  "Aluguel",
+        "menu":  "Aluguel",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-aluguel-aluguel.md"
+    },
+    {
+        "grupo_slug":  "menu-aluguel",
+        "slug":  "submenu-aluguel-categorias-de-produto-de-aluguel",
+        "nome_tela":  "Categorias de produto de aluguel",
+        "menu":  "Aluguel",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-aluguel-categorias-de-produto-de-aluguel.md"
+    },
+    {
+        "grupo_slug":  "menu-aluguel",
+        "slug":  "submenu-aluguel-consulta-de-produto-de-aluguel",
+        "nome_tela":  "Consulta de produto de aluguel",
+        "menu":  "Aluguel",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-aluguel-consulta-de-produto-de-aluguel.md"
+    },
+    {
+        "grupo_slug":  "menu-aluguel",
+        "slug":  "submenu-aluguel-devolucao",
+        "nome_tela":  "Devolucao",
+        "menu":  "Aluguel",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-aluguel-devolucao.md"
+    },
+    {
+        "grupo_slug":  "menu-aluguel",
+        "slug":  "submenu-aluguel-perca",
+        "nome_tela":  "Perca",
+        "menu":  "Aluguel",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-aluguel-perca.md"
+    },
+    {
+        "grupo_slug":  "menu-aluguel",
+        "slug":  "submenu-aluguel-produtos-de-aluguel",
+        "nome_tela":  "Produtos de aluguel",
+        "menu":  "Aluguel",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-aluguel-produtos-de-aluguel.md"
+    },
+    {
+        "grupo_slug":  "menu-aluguel",
+        "slug":  "submenu-aluguel-troca",
+        "nome_tela":  "Troca",
+        "menu":  "Aluguel",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-aluguel-troca.md"
+    },
+    {
+        "grupo_slug":  "menu-atendimento",
+        "slug":  "submenu-atendimento-assuntos-de-atendimento",
+        "nome_tela":  "Assuntos de atendimento",
+        "menu":  "Atendimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-atendimento-assuntos-de-atendimento.md"
+    },
+    {
+        "grupo_slug":  "menu-atendimento",
+        "slug":  "submenu-atendimento-atendimentos",
+        "nome_tela":  "Atendimentos",
+        "menu":  "Atendimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-atendimento-atendimentos.md"
+    },
+    {
+        "grupo_slug":  "menu-atendimento",
+        "slug":  "submenu-atendimento-categorias-de-assunto-de-atendimento",
+        "nome_tela":  "Categorias de assunto de atendimento",
+        "menu":  "Atendimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-atendimento-categorias-de-assunto-de-atendimento.md"
+    },
+    {
+        "grupo_slug":  "menu-atendimento",
+        "slug":  "submenu-atendimento-formas-de-atendimento",
+        "nome_tela":  "Formas de atendimento",
+        "menu":  "Atendimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-atendimento-formas-de-atendimento.md"
+    },
+    {
+        "grupo_slug":  "menu-atendimento",
+        "slug":  "submenu-atendimento-locais-de-atendimento",
+        "nome_tela":  "Locais de atendimento",
+        "menu":  "Atendimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-atendimento-locais-de-atendimento.md"
+    },
+    {
+        "grupo_slug":  "menu-cartao-do-estabelecimento",
+        "slug":  "submenu-cartao-do-estabelecimento-ativacao-e-bloqueio-de-cartao-de-consumo",
+        "nome_tela":  "Ativacao e bloqueio de cartão de consumo",
+        "menu":  "Cartão do estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-cartao-do-estabelecimento-ativacao-e-bloqueio-de-cartao-de-consumo.md"
+    },
+    {
+        "grupo_slug":  "menu-cartao-do-estabelecimento",
+        "slug":  "submenu-cartao-do-estabelecimento-cartoes-de-consumo-e-carteirinhas-de-socio",
+        "nome_tela":  "Cartoes de consumo e carteirinhas de socio",
+        "menu":  "Cartão do estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-cartao-do-estabelecimento-cartoes-de-consumo-e-carteirinhas-de-socio.md"
+    },
+    {
+        "grupo_slug":  "menu-cartao-do-estabelecimento",
+        "slug":  "submenu-cartao-do-estabelecimento-controle-de-pensao",
+        "nome_tela":  "Controle de Pensao",
+        "menu":  "Cartão do estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-cartao-do-estabelecimento-controle-de-pensao.md"
+    },
+    {
+        "grupo_slug":  "menu-cartao-do-estabelecimento",
+        "slug":  "submenu-cartao-do-estabelecimento-devolucao-de-saldo",
+        "nome_tela":  "Devolucao de saldo",
+        "menu":  "Cartão do estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-cartao-do-estabelecimento-devolucao-de-saldo.md"
+    },
+    {
+        "grupo_slug":  "menu-cartao-do-estabelecimento",
+        "slug":  "submenu-cartao-do-estabelecimento-lotes-de-cartoes-de-consumo",
+        "nome_tela":  "Lotes de cartoes de consumo",
+        "menu":  "Cartão do estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-cartao-do-estabelecimento-lotes-de-cartoes-de-consumo.md"
+    },
+    {
+        "grupo_slug":  "menu-cartao-do-estabelecimento",
+        "slug":  "submenu-cartao-do-estabelecimento-lotes-de-cartoes-de-papa-fila",
+        "nome_tela":  "Lotes de cartoes de papa fila",
+        "menu":  "Cartão do estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-cartao-do-estabelecimento-lotes-de-cartoes-de-papa-fila.md"
+    },
+    {
+        "grupo_slug":  "menu-cartao-do-estabelecimento",
+        "slug":  "submenu-cartao-do-estabelecimento-pagamento-de-fatura",
+        "nome_tela":  "Pagamento de fatura",
+        "menu":  "Cartão do estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-cartao-do-estabelecimento-pagamento-de-fatura.md"
+    },
+    {
+        "grupo_slug":  "menu-cartao-do-estabelecimento",
+        "slug":  "submenu-cartao-do-estabelecimento-recarga",
+        "nome_tela":  "Recarga",
+        "menu":  "Cartão do estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-cartao-do-estabelecimento-recarga.md"
+    },
+    {
+        "grupo_slug":  "menu-cartao-do-estabelecimento",
+        "slug":  "submenu-cartao-do-estabelecimento-recarga-em-lote",
+        "nome_tela":  "Recarga em lote",
+        "menu":  "Cartão do estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-cartao-do-estabelecimento-recarga-em-lote.md"
+    },
+    {
+        "grupo_slug":  "menu-cartao-do-estabelecimento",
+        "slug":  "submenu-cartao-do-estabelecimento-tipos-de-cartao-do-estabelecimento",
+        "nome_tela":  "Tipos de cartão do estabelecimento",
+        "menu":  "Cartão do estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-cartao-do-estabelecimento-tipos-de-cartao-do-estabelecimento.md"
+    },
+    {
+        "grupo_slug":  "menu-cartao-do-estabelecimento",
+        "slug":  "submenu-cartao-do-estabelecimento-transferencia-de-pensao",
+        "nome_tela":  "Transferencia de pensao",
+        "menu":  "Cartão do estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-cartao-do-estabelecimento-transferencia-de-pensao.md"
+    },
+    {
+        "grupo_slug":  "menu-cartao-do-estabelecimento",
+        "slug":  "submenu-cartao-do-estabelecimento-transferencia-de-saldo",
+        "nome_tela":  "Transferencia de saldo",
+        "menu":  "Cartão do estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-cartao-do-estabelecimento-transferencia-de-saldo.md"
+    },
+    {
+        "grupo_slug":  "menu-entidades",
+        "slug":  "submenu-entidades-agencias",
+        "nome_tela":  "Agencias",
+        "menu":  "Entidades",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-entidades-agencias.md"
+    },
+    {
+        "grupo_slug":  "menu-entidades",
+        "slug":  "submenu-entidades-corretores",
+        "nome_tela":  "Corretores",
+        "menu":  "Entidades",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-entidades-corretores.md"
+    },
+    {
+        "grupo_slug":  "menu-entidades",
+        "slug":  "submenu-entidades-enderecos",
+        "nome_tela":  "Enderecos",
+        "menu":  "Entidades",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-entidades-enderecos.md"
+    },
+    {
+        "grupo_slug":  "menu-entidades",
+        "slug":  "submenu-entidades-pessoas-fisicas-e-juridicas",
+        "nome_tela":  "Pessoas fisicas e juridicas",
+        "menu":  "Entidades",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-entidades-pessoas-fisicas-e-juridicas.md"
+    },
+    {
+        "grupo_slug":  "menu-entidades",
+        "slug":  "submenu-entidades-vendedores",
+        "nome_tela":  "Vendedores",
+        "menu":  "Entidades",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-entidades-vendedores.md"
+    },
+    {
+        "grupo_slug":  "menu-estabelecimento",
+        "slug":  "submenu-categorias-de-produtos-do-clube",
+        "nome_tela":  "Categorias de produto do clube",
+        "menu":  "Estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-categorias-de-produtos-do-clube.md"
+    },
+    {
+        "grupo_slug":  "menu-estabelecimento",
+        "slug":  "submenu-dependencias-do-estabelecimento",
+        "nome_tela":  "Dependências do estabelecimento",
+        "menu":  "Estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-dependencias-do-estabelecimento.md"
+    },
+    {
+        "grupo_slug":  "menu-estabelecimento",
+        "slug":  "submenu-informacoes-do-estabelecimento",
+        "nome_tela":  "Informações do estabelecimento",
+        "menu":  "Estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-informacoes-do-estabelecimento.md"
+    },
+    {
+        "grupo_slug":  "menu-estabelecimento",
+        "slug":  "submenu-produtos-do-clube",
+        "nome_tela":  "Produtos do clube",
+        "menu":  "Estabelecimento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-produtos-do-clube.md"
+    },
+    {
+        "grupo_slug":  "menu-estacionamento",
+        "slug":  "submenu-estacionamento-baixa-manual-em-lote",
+        "nome_tela":  "Baixa manual em lote",
+        "menu":  "Estacionamento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-estacionamento-baixa-manual-em-lote.md"
+    },
+    {
+        "grupo_slug":  "menu-estacionamento",
+        "slug":  "submenu-estacionamento-cancela-virtual",
+        "nome_tela":  "Cancela virtual",
+        "menu":  "Estacionamento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-estacionamento-cancela-virtual.md"
+    },
+    {
+        "grupo_slug":  "menu-estacionamento",
+        "slug":  "submenu-estacionamento-cancelas",
+        "nome_tela":  "Cancelas",
+        "menu":  "Estacionamento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-estacionamento-cancelas.md"
+    },
+    {
+        "grupo_slug":  "menu-estacionamento",
+        "slug":  "submenu-estacionamento-consulta-de-estacionamento",
+        "nome_tela":  "Consulta de estacionamento",
+        "menu":  "Estacionamento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-estacionamento-consulta-de-estacionamento.md"
+    },
+    {
+        "grupo_slug":  "menu-estacionamento",
+        "slug":  "submenu-estacionamento-consulta-de-voucher-de-estacionamento",
+        "nome_tela":  "Consulta de voucher de estacionamento",
+        "menu":  "Estacionamento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-estacionamento-consulta-de-voucher-de-estacionamento.md"
+    },
+    {
+        "grupo_slug":  "menu-estacionamento",
+        "slug":  "submenu-estacionamento-consulta-resgate-de-estacionamento-com-voucher",
+        "nome_tela":  "Consulta resgate de estacionamento com voucher",
+        "menu":  "Estacionamento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-estacionamento-consulta-resgate-de-estacionamento-com-voucher.md"
+    },
+    {
+        "grupo_slug":  "menu-estacionamento",
+        "slug":  "submenu-estacionamento-estacionamentos",
+        "nome_tela":  "Estacionamentos",
+        "menu":  "Estacionamento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-estacionamento-estacionamentos.md"
+    },
+    {
+        "grupo_slug":  "menu-estacionamento",
+        "slug":  "submenu-estacionamento-historico-de-entradas",
+        "nome_tela":  "Historico de entradas",
+        "menu":  "Estacionamento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-estacionamento-historico-de-entradas.md"
+    },
+    {
+        "grupo_slug":  "menu-estacionamento",
+        "slug":  "submenu-estacionamento-historico-de-saidas",
+        "nome_tela":  "Historico de saidas",
+        "menu":  "Estacionamento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-estacionamento-historico-de-saidas.md"
+    },
+    {
+        "grupo_slug":  "menu-estacionamento",
+        "slug":  "submenu-estacionamento-lote-de-ticket-manual-de-estacionamento",
+        "nome_tela":  "Lote de ticket manual de estacionamento",
+        "menu":  "Estacionamento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-estacionamento-lote-de-ticket-manual-de-estacionamento.md"
+    },
+    {
+        "grupo_slug":  "menu-estacionamento",
+        "slug":  "submenu-estacionamento-pagamentos-de-estacionamento",
+        "nome_tela":  "Pagamentos de estacionamento",
+        "menu":  "Estacionamento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-estacionamento-pagamentos-de-estacionamento.md"
+    },
+    {
+        "grupo_slug":  "menu-estacionamento",
+        "slug":  "submenu-estacionamento-produtos-de-estacionamento",
+        "nome_tela":  "Produtos de estacionamento",
+        "menu":  "Estacionamento",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-estacionamento-produtos-de-estacionamento.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-caixa",
+        "nome_tela":  "Caixa",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-financeiro-caixa.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-cotas-de-titulos",
+        "nome_tela":  "Cotas de títulos",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-financeiro-cotas-de-titulos.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-debito-em-conta-corrente",
+        "nome_tela":  "Debito em conta corrente",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-financeiro-debito-em-conta-corrente.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-declaracao-de-quitacao-de-debitos",
+        "nome_tela":  "Declaracao de quitacao de debitos",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-financeiro-declaracao-de-quitacao-de-debitos.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-definicoes-bancarias",
+        "nome_tela":  "Definicoes bancarias",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-financeiro-definicoes-bancarias.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-mensalidades",
+        "nome_tela":  "Mensalidades",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-financeiro-mensalidades.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-modalidades-de-cobranca",
+        "nome_tela":  "Modalidades de cobranca",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-financeiro-modalidades-de-cobranca.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-operacoes-tef",
+        "nome_tela":  "Operacoes TEF",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-financeiro-operacoes-tef.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-taxas-de-cambio",
+        "nome_tela":  "Taxas de cambio",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-financeiro-taxas-de-cambio.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-titulos-de-cobranca",
+        "nome_tela":  "Títulos de cobranca",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-financeiro-titulos-de-cobranca.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-titulos-de-cobranca-bancaria",
+        "nome_tela":  "Títulos de cobranca bancaria",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-financeiro-titulos-de-cobranca-bancaria.md"
+    },
+    {
+        "grupo_slug":  "menu-fiscal",
+        "slug":  "submenu-fiscal-aliquota-cbs",
+        "nome_tela":  "Aliquota CBS",
+        "menu":  "Fiscal",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-fiscal-aliquota-cbs.md"
+    },
+    {
+        "grupo_slug":  "menu-fiscal",
+        "slug":  "submenu-fiscal-aliquota-ibs-municipio",
+        "nome_tela":  "Aliquota IBS Municipio",
+        "menu":  "Fiscal",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-fiscal-aliquota-ibs-municipio.md"
+    },
+    {
+        "grupo_slug":  "menu-fiscal",
+        "slug":  "submenu-fiscal-aliquota-ibs-uf",
+        "nome_tela":  "Aliquota IBS UF",
+        "menu":  "Fiscal",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-fiscal-aliquota-ibs-uf.md"
+    },
+    {
+        "grupo_slug":  "menu-fiscal",
+        "slug":  "submenu-fiscal-carta-de-correcao",
+        "nome_tela":  "Carta de Correcao",
+        "menu":  "Fiscal",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-fiscal-carta-de-correcao.md"
+    },
+    {
+        "grupo_slug":  "menu-fiscal",
+        "slug":  "submenu-fiscal-cf-e",
+        "nome_tela":  "CF-e",
+        "menu":  "Fiscal",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-fiscal-cf-e.md"
+    },
+    {
+        "grupo_slug":  "menu-fiscal",
+        "slug":  "submenu-fiscal-credito-presumido-ibs-cbs",
+        "nome_tela":  "Credito Presumido IBS/CBS",
+        "menu":  "Fiscal",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-fiscal-credito-presumido-ibs-cbs.md"
+    },
+    {
+        "grupo_slug":  "menu-fiscal",
+        "slug":  "submenu-fiscal-cst-ibs-cbs",
+        "nome_tela":  "CST IBS/CBS",
+        "menu":  "Fiscal",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-fiscal-cst-ibs-cbs.md"
+    },
+    {
+        "grupo_slug":  "menu-fiscal",
+        "slug":  "submenu-fiscal-exportar-documentos-fiscais",
+        "nome_tela":  "Exportar documentos fiscais",
+        "menu":  "Fiscal",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-fiscal-exportar-documentos-fiscais.md"
+    },
+    {
+        "grupo_slug":  "menu-fiscal",
+        "slug":  "submenu-fiscal-grupos-fiscais-de-produtos-de-consumo",
+        "nome_tela":  "Grupos fiscais de produtos de consumo",
+        "menu":  "Fiscal",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-fiscal-grupos-fiscais-de-produtos-de-consumo.md"
+    },
+    {
+        "grupo_slug":  "menu-fiscal",
+        "slug":  "submenu-fiscal-inutilizacao-de-numeracao",
+        "nome_tela":  "Inutilizacao de numeracao",
+        "menu":  "Fiscal",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-fiscal-inutilizacao-de-numeracao.md"
+    },
+    {
+        "grupo_slug":  "menu-fiscal",
+        "slug":  "submenu-fiscal-municipios-fiscais",
+        "nome_tela":  "Municipios Fiscais",
+        "menu":  "Fiscal",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-fiscal-municipios-fiscais.md"
+    },
+    {
+        "grupo_slug":  "menu-fiscal",
+        "slug":  "submenu-fiscal-nfce",
+        "nome_tela":  "NFCe",
+        "menu":  "Fiscal",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-fiscal-nfce.md"
+    },
+    {
+        "grupo_slug":  "menu-fiscal",
+        "slug":  "submenu-fiscal-nfe",
+        "nome_tela":  "NFe",
+        "menu":  "Fiscal",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-fiscal-nfe.md"
+    },
+    {
+        "grupo_slug":  "menu-fiscal",
+        "slug":  "submenu-fiscal-nfse",
+        "nome_tela":  "NFSe",
+        "menu":  "Fiscal",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-fiscal-nfse.md"
+    },
+    {
+        "grupo_slug":  "menu-ingressos",
+        "slug":  "submenu-ingressos-consulta-de-ingresso",
+        "nome_tela":  "Consulta de ingresso",
+        "menu":  "Ingressos",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-ingressos-consulta-de-ingresso.md"
+    },
+    {
+        "grupo_slug":  "menu-ingressos",
+        "slug":  "submenu-ingressos-consulta-de-voucher-de-ingresso",
+        "nome_tela":  "Consulta de voucher de ingresso",
+        "menu":  "Ingressos",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-ingressos-consulta-de-voucher-de-ingresso.md"
+    },
+    {
+        "grupo_slug":  "menu-ingressos",
+        "slug":  "submenu-ingressos-convidados-de-socio",
+        "nome_tela":  "Convidados de socio",
+        "menu":  "Ingressos",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-ingressos-convidados-de-socio.md"
+    },
+    {
+        "grupo_slug":  "menu-ingressos",
+        "slug":  "submenu-ingressos-ingresso-avulso",
+        "nome_tela":  "Ingresso avulso",
+        "menu":  "Ingressos",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-ingressos-ingresso-avulso.md"
+    },
+    {
+        "grupo_slug":  "menu-ingressos",
+        "slug":  "submenu-ingressos-lote-de-ingresso",
+        "nome_tela":  "Lote de ingresso",
+        "menu":  "Ingressos",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-ingressos-lote-de-ingresso.md"
+    },
+    {
+        "grupo_slug":  "menu-ingressos",
+        "slug":  "submenu-ingressos-modelo-de-impressao-de-lote-de-ingresso",
+        "nome_tela":  "Modelo de impressao de lote de ingresso",
+        "menu":  "Ingressos",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-ingressos-modelo-de-impressao-de-lote-de-ingresso.md"
+    },
+    {
+        "grupo_slug":  "menu-ingressos",
+        "slug":  "submenu-ingressos-resgate-de-ingresso-com-voucher",
+        "nome_tela":  "Resgate de ingresso com voucher",
+        "menu":  "Ingressos",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-ingressos-resgate-de-ingresso-com-voucher.md"
+    },
+    {
+        "grupo_slug":  "menu-ingressos",
+        "slug":  "submenu-ingressos-tipos-de-ingresso",
+        "nome_tela":  "Tipos de ingresso",
+        "menu":  "Ingressos",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-ingressos-tipos-de-ingresso.md"
+    },
+    {
+        "grupo_slug":  "menu-ingressos",
+        "slug":  "submenu-ingressos-visitas",
+        "nome_tela":  "Visitas",
+        "menu":  "Ingressos",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-ingressos-visitas.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-acesso",
+        "nome_tela":  "Acesso",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-acesso.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-aluguel",
+        "nome_tela":  "Aluguel",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-aluguel.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-atendimento",
+        "nome_tela":  "Atendimento",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-atendimento.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro",
+        "nome_tela":  "Cadastro",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento",
+        "nome_tela":  "Cartão do estabelecimento",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-dispositivo",
+        "nome_tela":  "Dispositivo",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-dispositivo.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-estacionamento",
+        "nome_tela":  "Estacionamento",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-estacionamento.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro",
+        "nome_tela":  "Financeiro",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-fiscal",
+        "nome_tela":  "Fiscal",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-fiscal.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-ingresso",
+        "nome_tela":  "Ingresso",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-ingresso.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-integracao",
+        "nome_tela":  "Integracao",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-integracao.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-tef",
+        "nome_tela":  "TEF",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-tef.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio",
+        "nome_tela":  "Título de sócio",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-valores-em-circulacao",
+        "nome_tela":  "Valores em circulacao",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-valores-em-circulacao.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda",
+        "nome_tela":  "Venda",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-venda.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-visita",
+        "nome_tela":  "Visita",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-relatorios-visita.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes",
+        "nome_tela":  "Configuracoes",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-dispositivos-de-acesso-ao-sistema",
+        "nome_tela":  "Dispositivos de acesso ao sistema",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-sistema-dispositivos-de-acesso-ao-sistema.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-dispositivos-de-consumo-pos",
+        "nome_tela":  "Dispositivos de consumo (POS)",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-sistema-dispositivos-de-consumo-pos.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-grupos-de-operadores-do-sistema",
+        "nome_tela":  "Grupos de operadores do sistema",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-sistema-grupos-de-operadores-do-sistema.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-locais-de-impressao",
+        "nome_tela":  "Locais de impressao",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-sistema-locais-de-impressao.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-lojas",
+        "nome_tela":  "Lojas",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-sistema-lojas.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-operadores-do-sistema",
+        "nome_tela":  "Operadores do sistema",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-sistema-operadores-do-sistema.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-sitef",
+        "nome_tela":  "SiTef",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-sistema-sitef.md"
+    },
+    {
+        "grupo_slug":  "menu-titulos-de-socio",
+        "slug":  "submenu-titulos-de-socio-baixa-de-comissoes",
+        "nome_tela":  "Baixa de comissões",
+        "menu":  "Títulos de sócio",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-baixa-de-comissoes.md"
+    },
+    {
+        "grupo_slug":  "menu-titulos-de-socio",
+        "slug":  "submenu-titulos-de-socio-cancelamentos-de-titulos-de-socio",
+        "nome_tela":  "Cancelamentos de títulos de sócio",
+        "menu":  "Títulos de sócio",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-cancelamentos-de-titulos-de-socio.md"
+    },
+    {
+        "grupo_slug":  "menu-titulos-de-socio",
+        "slug":  "submenu-titulos-de-socio-consulta-de-voucher-de-titulo",
+        "nome_tela":  "Consulta de voucher de título",
+        "menu":  "Títulos de sócio",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-consulta-de-voucher-de-titulo.md"
+    },
+    {
+        "grupo_slug":  "menu-titulos-de-socio",
+        "slug":  "submenu-titulos-de-socio-modelo-de-carteirinha-de-socio",
+        "nome_tela":  "Modelo de carteirinha de socio",
+        "menu":  "Títulos de sócio",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-modelo-de-carteirinha-de-socio.md"
+    },
+    {
+        "grupo_slug":  "menu-titulos-de-socio",
+        "slug":  "submenu-titulos-de-socio-talonarios",
+        "nome_tela":  "Talonários",
+        "menu":  "Títulos de sócio",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-talonarios.md"
+    },
+    {
+        "grupo_slug":  "menu-titulos-de-socio",
+        "slug":  "submenu-titulos-de-socio-tipos-de-licencas-de-uso",
+        "nome_tela":  "Tipos de licenças de uso",
+        "menu":  "Títulos de sócio",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-tipos-de-licencas-de-uso.md"
+    },
+    {
+        "grupo_slug":  "menu-titulos-de-socio",
+        "slug":  "submenu-titulos-de-socio-tipos-de-pendencias",
+        "nome_tela":  "Tipos de pendências",
+        "menu":  "Títulos de sócio",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-tipos-de-pendencias.md"
+    },
+    {
+        "grupo_slug":  "menu-titulos-de-socio",
+        "slug":  "submenu-titulos-de-socio-tipos-de-termos-de-pagamento",
+        "nome_tela":  "Tipos de termos de pagamento",
+        "menu":  "Títulos de sócio",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-tipos-de-termos-de-pagamento.md"
+    },
+    {
+        "grupo_slug":  "menu-titulos-de-socio",
+        "slug":  "submenu-titulos-de-socio-tipos-de-titulo-de-socio",
+        "nome_tela":  "Tipos de título de sócio",
+        "menu":  "Títulos de sócio",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-tipos-de-titulo-de-socio.md"
+    },
+    {
+        "grupo_slug":  "menu-titulos-de-socio",
+        "slug":  "submenu-titulos-de-socio-titulos-de-socio",
+        "nome_tela":  "Títulos de sócio",
+        "menu":  "Títulos de sócio",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-titulos-de-socio.md"
+    },
+    {
+        "grupo_slug":  "menu-titulos-de-socio",
+        "slug":  "submenu-titulos-de-socio-transferencias-de-titulo-de-socio",
+        "nome_tela":  "Transferências de título de sócio",
+        "menu":  "Títulos de sócio",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-transferencias-de-titulo-de-socio.md"
+    },
+    {
+        "grupo_slug":  "menu-utilitarios",
+        "slug":  "submenu-utilitarios-configuracao-de-cancela",
+        "nome_tela":  "Configuração de cancela",
+        "menu":  "Utilitários",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-utilitarios-configuracao-de-cancela.md"
+    },
+    {
+        "grupo_slug":  "menu-utilitarios",
+        "slug":  "submenu-utilitarios-configuracao-de-catraca",
+        "nome_tela":  "Configuração de catraca",
+        "menu":  "Utilitários",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-utilitarios-configuracao-de-catraca.md"
+    },
+    {
+        "grupo_slug":  "menu-utilitarios",
+        "slug":  "submenu-utilitarios-encerramento-forcado-de-atendimento",
+        "nome_tela":  "Encerramento forcado de atendimento",
+        "menu":  "Utilitários",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-utilitarios-encerramento-forcado-de-atendimento.md"
+    },
+    {
+        "grupo_slug":  "menu-utilitarios",
+        "slug":  "submenu-utilitarios-impressao-de-lote-de-ingresso-avulso",
+        "nome_tela":  "Impressao de lote de ingresso avulso",
+        "menu":  "Utilitários",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-utilitarios-impressao-de-lote-de-ingresso-avulso.md"
+    },
+    {
+        "grupo_slug":  "menu-utilitarios",
+        "slug":  "submenu-utilitarios-ler-codigos-nfc",
+        "nome_tela":  "Ler codigos NFC",
+        "menu":  "Utilitários",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-utilitarios-ler-codigos-nfc.md"
+    },
+    {
+        "grupo_slug":  "menu-utilitarios",
+        "slug":  "submenu-utilitarios-lista-de-e-mails-invalidos",
+        "nome_tela":  "Lista de e-mails invalidos",
+        "menu":  "Utilitários",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-utilitarios-lista-de-e-mails-invalidos.md"
+    },
+    {
+        "grupo_slug":  "menu-utilitarios",
+        "slug":  "submenu-utilitarios-trocar-senha-de-acesso-ao-sistema",
+        "nome_tela":  "Trocar senha de acesso ao sistema",
+        "menu":  "Utilitários",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-utilitarios-trocar-senha-de-acesso-ao-sistema.md"
+    },
+    {
+        "grupo_slug":  "menu-vendas",
+        "slug":  "submenu-vendas-campanhas-de-venda-internet",
+        "nome_tela":  "Campanhas de venda internet",
+        "menu":  "Vendas",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-vendas-campanhas-de-venda-internet.md"
+    },
+    {
+        "grupo_slug":  "menu-vendas",
+        "slug":  "submenu-vendas-combos-de-venda-internet",
+        "nome_tela":  "Combos de venda internet",
+        "menu":  "Vendas",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-vendas-combos-de-venda-internet.md"
+    },
+    {
+        "grupo_slug":  "menu-vendas",
+        "slug":  "submenu-vendas-cupom-de-desconto",
+        "nome_tela":  "Cupom de desconto",
+        "menu":  "Vendas",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-vendas-cupom-de-desconto.md"
+    },
+    {
+        "grupo_slug":  "menu-vendas",
+        "slug":  "submenu-vendas-planos-de-venda",
+        "nome_tela":  "Planos de venda",
+        "menu":  "Vendas",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-vendas-planos-de-venda.md"
+    },
+    {
+        "grupo_slug":  "menu-vendas",
+        "slug":  "submenu-vendas-venda-de-produtos-do-clube",
+        "nome_tela":  "Venda de produtos do clube",
+        "menu":  "Vendas",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-vendas-venda-de-produtos-do-clube.md"
+    }
+]

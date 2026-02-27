@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Socius Academy | Meus dados</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="stylesheet" href="assets/css/base.css" />
+  <link rel="stylesheet" href="assets/css/perfil.css" />
+</head>
+<body>
+
+  <div id="header"></div>
+
+  <main class="perfil-layout">
+    <h1 class="perfil-page-title">Meus dados</h1>
+
+    <section class="perfil-card">
+      <h2>Dados cadastrais</h2>
+
+      <form id="perfil-form" class="perfil-form" autocomplete="off">
+        <label for="perfil-nome">Nome completo</label>
+        <input id="perfil-nome" name="nome" type="text" required />
+
+        <label for="perfil-email">E-mail</label>
+        <input id="perfil-email" name="email" type="email" autocomplete="off" required />
+
+        <label for="perfil-senha">Nova senha (opcional)</label>
+        <input id="perfil-senha" name="senha" type="password" autocomplete="new-password" placeholder="Deixe em branco para manter a atual" />
+
+        <label for="perfil-confirmar">Confirmar nova senha</label>
+        <input id="perfil-confirmar" name="confirmarSenha" type="password" autocomplete="new-password" placeholder="Repita a nova senha" />
+
+        <div class="perfil-actions">
+          <button type="button" id="perfil-cancelar" class="btn-cancelar">Cancelar</button>
+          <button type="submit" class="btn-salvar">Salvar alterações</button>
+        </div>
+
+        <p id="perfil-msg" class="perfil-msg" aria-live="polite"></p>
+      </form>
+    </section>
+  </main>
+
+  <div id="footer"></div>
+
+  <script src="assets/js/auth.js"></script>
+  <script src="assets/js/components.js"></script>
+  <script src="assets/js/perfil.js"></script>
+
+  <script>
+    requireAuth();
+    loadUserInfo();
+
+    loadComponent("header", "header.html");
+    loadComponent("footer", "footer.html");
+  </script>
+</body>
+</html>

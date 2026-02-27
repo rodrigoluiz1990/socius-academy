@@ -1,0 +1,34 @@
+﻿<header class="header">
+  <h1 onclick="navigate('dashboard.html')">Socius Academy</h1>
+
+  <nav class="menu" id="quick-nav">
+  </nav>
+
+  <div class="header-actions">
+    <button id="btn-global-search" class="btn-header-action" type="button">
+      Pesquisa global
+    </button>
+    <div id="global-search-panel" class="global-search-panel" hidden>
+      <input
+        id="header-global-search-input"
+        type="search"
+        placeholder="Buscar por tela, processo, trilha ou aplicação..."
+        autocomplete="off"
+      />
+      <div id="header-global-search-results" class="global-search-results">
+        <p class="global-search-placeholder">Digite para pesquisar.</p>
+      </div>
+    </div>
+
+    <div class="user-menu" id="user-menu">
+      <button id="user-menu-trigger" class="btn-user-menu" type="button" aria-expanded="false">
+        <span id="user-name">Usuario</span>
+      </button>
+      <div id="user-menu-dropdown" class="user-menu-dropdown" hidden>
+        <button class="btn-user-action" onclick="navigate('perfil.html')">Meus dados</button>
+        <button class="btn-logout" onclick="logout()">Sair</button>
+      </div>
+    </div>
+  </div>
+</header>
+

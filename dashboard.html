@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Socius Academy</title>
+
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/dashboard.css">
+</head>
+
+<body>
+
+  <div id="header"></div>
+
+  <main class="dashboard">
+    <h2 class="dashboard-main-title">Biblioteca de manuais</h2>
+
+    <div class="courses-grid">
+      <div
+        class="course-card"
+        role="button"
+        tabindex="0"
+        onclick="navigate('biblioteca.html?tipo=tela')"
+        onkeydown="if(event.key==='Enter' || event.key===' '){ event.preventDefault(); navigate('biblioteca.html?tipo=tela'); }"
+      >
+        <div class="course-header">
+          <span class="course-icon">&#128421;&#65039;</span>
+          <h3 class="course-title">Manuais de telas</h3>
+        </div>
+        <p class="course-description">
+          Documentação por tela do Retaguarda.
+        </p>
+      </div>
+
+      <div
+        class="course-card"
+        role="button"
+        tabindex="0"
+        onclick="navigate('biblioteca.html?tipo=processo')"
+        onkeydown="if(event.key==='Enter' || event.key===' '){ event.preventDefault(); navigate('biblioteca.html?tipo=processo'); }"
+      >
+        <div class="course-header">
+          <span class="course-icon">&#128196;</span>
+          <h3 class="course-title">Manuais de processos</h3>
+        </div>
+        <p class="course-description">
+          Passo a passo de processos.
+        </p>
+      </div>
+
+      <div
+        class="course-card"
+        role="button"
+        tabindex="0"
+        onclick="navigate('biblioteca.html?tipo=trilha')"
+        onkeydown="if(event.key==='Enter' || event.key===' '){ event.preventDefault(); navigate('biblioteca.html?tipo=trilha'); }"
+      >
+        <div class="course-header">
+          <span class="course-icon">&#127919;</span>
+          <h3 class="course-title">Trilhas de aprendizado</h3>
+        </div>
+        <p class="course-description">
+          Rotas de conhecimento para treinamento de operadores.
+        </p>
+      </div>
+    </div>
+
+    <section class="search-section">
+      <h2>Localizar manuais, processos e trilhas</h2>
+      <p class="search-help">
+        Busque por descrição, menu, tela ou aplicação.
+      </p>
+      <div class="search-bar">
+        <input
+          id="global-search-input"
+          type="search"
+          placeholder="Ex.: venda, produto, campanha, nfe, operador..."
+          autocomplete="off"
+        />
+      </div>
+      <div id="global-search-results" class="search-results">
+        <p class="search-placeholder">Digite para pesquisar os conteúdos.</p>
+      </div>
+    </section>
+  </main>
+
+  <div id="footer"></div>
+
+  <script src="assets/js/auth.js"></script>
+  <script src="assets/js/components.js"></script>
+  <script src="assets/js/dashboard.js"></script>
+
+  <script>
+    requireAuth();
+    loadUserInfo();
+
+    loadComponent("header", "header.html");
+    loadComponent("footer", "footer.html");
+  </script>
+
+</body>
+
+</html>
+
+
+
+
+
+
