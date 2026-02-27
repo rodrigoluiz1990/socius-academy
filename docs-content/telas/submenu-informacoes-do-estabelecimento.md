@@ -9,73 +9,98 @@ slug: submenu-informacoes-do-estabelecimento
 
 ## Objetivo
 
-Documentar a operacao da tela **Informações do estabelecimento**, utilizada para cadastro e manutencao dos dados gerais da empresa no Retaguarda.
+Documentar a operação da tela **Informações do estabelecimento**, usada para manter os dados institucionais, endereço, configuração de TEF e conteúdo do autoatendimento.
 
-## Identificacao da tela
+## Identificação da tela
 
 - **Nome da tela:** Informações do estabelecimento
-- **Form:** InformaçõesEstabelecimentoForm
 - **Menu/Caminho:** Estabelecimento > Informações do estabelecimento
 - **Perfil de acesso sugerido:** Administrador / Gestor
 
-## Quando usar
+## Abas e campos da tela
 
-- No primeiro cadastro do ambiente.
-- Quando houver mudanca de dados cadastrais da empresa.
-- Para revisar informações fiscais e de contato antes de processos de faturamento e emissão fiscal.
+### Aba: Institucional
 
-## Campos principais
+- **Nome fantasia:** nome comercial exibido no sistema e em relatórios.
+- **Razão social:** nome jurídico da empresa.
+- **CNPJ:** documento fiscal do estabelecimento.
+- **IE:** inscrição estadual para controles fiscais.
+- **Telefone:** contato principal do estabelecimento.
+- **Website:** site oficial para divulgação e referência.
+- **E-mail:** e-mail principal para contato administrativo.
+- **Logomarca:** pré-visualização da imagem institucional atual.
+- **Botão Alterar:** seleciona e substitui a logomarca institucional.
 
-### Dados cadastrais
+### Aba: Endereço
 
-- **Razao social:** nome juridico da empresa.
-- **Nome fantasia:** nome comercial exibido no sistema e relatórios.
-- **CNPJ:** identificacao fiscal da empresa.
-- **Inscricao estadual / municipal:** dados fiscais conforme obrigatoriedade local.
+- **Logradouro:** nome da rua/avenida do estabelecimento.
+- **Número:** número do endereço.
+- **Bairro:** bairro do endereço cadastrado.
+- **Complemento:** informação adicional de localização.
+- **CEP:** código postal do endereço.
+- **País:** país para definição de regras de endereço.
+- **Província:** divisão regional usada quando aplicável (ex.: Argentina).
+- **Estado:** unidade federativa/província estadual.
+- **Cidade:** município do estabelecimento.
 
-### Endereco e contato
+### Aba: TEF
 
-- **CEP, logradouro, numero, complemento, bairro, cidade, UF**
-- **Telefone principal**
-- **E-mail principal**
+- **Chip/magnético:** gateway padrão para transações presenciais.
+- **Digitado (e-commerce):** gateway padrão para transações digitadas.
+- **Pix (e-commerce):** gateway padrão para pagamentos PIX.
 
-### Parametros operacionais
+### Aba: Autoatendimento
 
-- **Status do estabelecimento (ativo/inativo)**
-- **Configuracoes padrao de operacao** (quando disponivel no ambiente)
+- **Logomarca da tela inicial:** pré-visualização da imagem exibida no autoatendimento.
+- **Tamanho recomendado da imagem:** referência de proporção para melhor exibição (600x388).
+- **Botão Alterar:** seleciona e substitui a imagem da tela inicial.
+- **Mensagem da tela Bem-vindo (Português):** texto exibido em português no autoatendimento.
+- **Mensagem da tela Bem-vindo (Espanhol):** texto exibido em espanhol no autoatendimento.
+- **Mensagem da tela Bem-vindo (Inglês):** texto exibido em inglês no autoatendimento.
 
-## Regras de negocio importantes
+## Botões da tela
 
-- CNPJ deve estar em formato valido.
-- Campos obrigatorios nao podem ficar em branco (ex.: razao social, CNPJ, cidade, UF).
-- Alteracoes em dados fiscais podem impactar rotinas de emissão e integracoes.
-- Apenas usuarios com permissao devem alterar dados sensiveis.
+- **Salvar**
+- **Cancelar**
+- **Alterar** (na aba Institucional, para logomarca)
+- **Alterar** (na aba Autoatendimento, para logomarca da tela inicial)
 
-## Passo a passo (cadastro/atualizacao)
+## Regras e comportamentos importantes
 
-1. Acessar **Estabelecimento > Informações do estabelecimento**.
-2. Preencher ou revisar os dados cadastrais.
-3. Preencher endereco e contatos.
-4. Validar campos obrigatorios e formato dos documentos.
-5. Clicar em **Salvar**.
-6. Confirmar mensagem de sucesso e revisar os dados gravados.
+- As mensagens de Bem-vindo (PT/ES/EN) são limitadas a **54 caracteres**.
+- O campo **Província** só fica habilitado quando o país selecionado é Argentina.
+- Ao salvar, a cidade selecionada é vinculada ao cadastro do estabelecimento.
+- Após salvar com sucesso, as alterações entram em vigor após reinicialização do sistema.
 
-## Acoes da tela
+## Mensagens
 
-- **Salvar:** grava as alteracoes realizadas.
-- **Cancelar/Limpar:** desfaz alteracoes nao salvas (quando disponivel).
-- **Fechar/Voltar:** retorna para tela anterior sem novas alteracoes.
+### Fluxo de imagem
 
-## Mensagens e erros comuns
+- **Título do seletor:** `Selecionar imagem de logomarca`
+- **Erro:** `Falha ao ler imagem`
+- **Descrição do erro:** `O arquivo selecionado não pode ser interpretado como uma imagem.`
 
-- **CNPJ invalido:** conferir quantidade de digitos e formato.
-- **Campo obrigatorio nao informado:** preencher os campos destacados pela validacao.
-- **Sem permissao para alterar:** solicitar perfil adequado para o usuario.
-- **Falha ao salvar:** revisar conectividade e tentar novamente; se persistir, acionar suporte.
+### Fluxo de validação e salvamento
 
-## Validacao apos salvar
+- **Pré-processamento:** `Preparando formulário`
+- **Aviso de validação:** `Valores inválidos`
+- **Detalhe da validação:** `Os seguintes problemas foram encontrados:` + lista de validações
+- **Pré-salvamento:** `Salvando alterações`
+- **Erro ao salvar:** `Falha ao salvar`
+- **Descrição do erro ao salvar:** `Não foi possível concluir a ação no momento`
+- **Sucesso ao salvar:** `Alterações salvas`
+- **Descrição do sucesso:** `As informações do estabelecimento foram salvas com sucesso e entrarão em vigor após a reinicialização do sistema.`
 
-- Reabrir a tela e confirmar persistencia dos dados.
-- Conferir se nome fantasia e dados de contato aparecem corretamente nas telas relacionadas.
-- Em ambiente com fiscal/integracao, validar reflexo nas rotinas que usam dados do estabelecimento.
+### Fluxo de cancelamento
 
+- **Confirmação:** `Cancelar`
+- **Pergunta:** `Tem certeza de que deseja cancelar?`
+
+## Passo a passo recomendado
+
+1. Acesse **Estabelecimento > Informações do estabelecimento**.
+2. Preencha/atualize os dados da aba **Institucional**.
+3. Revise os dados da aba **Endereço**.
+4. Configure os gateways na aba **TEF** (quando aplicável).
+5. Atualize imagem e mensagens da aba **Autoatendimento** (quando aplicável).
+6. Clique em **Salvar** e confirme a mensagem de sucesso.

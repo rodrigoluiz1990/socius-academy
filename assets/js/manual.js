@@ -141,7 +141,6 @@ function preencherMeta(tipo, item) {
   if (tipo === "tela") {
     if (pick(item, "aplicacao", "aplicação", "modulo", "módulo")) linhas.push(`<div><strong>Aplicação:</strong> ${pick(item, "aplicacao", "aplicação", "modulo", "módulo")}</div>`);
     if (pick(item, "menu")) linhas.push(`<div><strong>Menu:</strong> ${pick(item, "menu")}</div>`);
-    if (pick(item, "codigo_form")) linhas.push(`<div><strong>Form:</strong> ${pick(item, "codigo_form")}</div>`);
   } else if (tipo === "processo") {
     if (pick(item, "area")) linhas.push(`<div><strong>Área:</strong> ${pick(item, "area")}</div>`);
     if (pick(item, "nivel")) linhas.push(`<div><strong>Nível:</strong> ${pick(item, "nivel")}</div>`);
@@ -249,4 +248,5 @@ function inlineMarkdown(text) {
 }
 
 loadManual();
+
 
