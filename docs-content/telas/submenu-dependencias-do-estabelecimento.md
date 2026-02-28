@@ -23,7 +23,7 @@ Documentar a operação da tela **Dependências do estabelecimento**, usada para
 - **Filtros:** permite informar os critérios de busca (ex.: descrição) para localizar os registros.
 - **Grid:** exibe os registros salvos com base nos filtros utilizados.
 
-### Tela: Cadastro/Edição de dependência
+### Tela: Novo/Editar dependência do estabelecimento
 
 - **Descrição:** define o nome da dependência (campo obrigatório).
 
@@ -36,7 +36,7 @@ Documentar a operação da tela **Dependências do estabelecimento**, usada para
 - **Editar selecionada:** abre o formulário para editar a dependência selecionada.
 - **Exibir detalhes:** abre a visualização da dependência selecionada em modo consulta.
 
-### Cadastro/Edição
+### Novo/Editar
 
 - **Salvar:** grava as alterações do cadastro.
 - **Cancelar:** fecha o formulário mediante confirmação.
