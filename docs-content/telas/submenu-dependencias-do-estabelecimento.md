@@ -71,8 +71,11 @@ Campos obrigatórios mínimos para salvar:
 
 ## Dependências entre telas
 
-- **Telas que utilizam os dados desta tela:** Dispositivo de acesso e Caixa.
-- **Relatórios que utilizam os dados desta tela como filtro:** Relatório consolidado de dispositivo, Relatório detalhado de dispositivo, Relatório caixa consolidado, Relatório detalhado de movimento de caixa, Relatório consolidado de ticket médio e Relatório consolidado de valores em circulação.
+- **Dispositivo de acesso:** utiliza as dependências para vincular o local do dispositivo no cadastro/edição.
+- **Dispositivo de consumo:** utiliza as dependências para vincular o local de operação do dispositivo.
+- **Caixa:** utiliza as dependências em filtros e contexto de abertura/consulta de caixa.
+- **Resultados (webapp):** utiliza a lista de dependências para composição de filtros e contexto dos relatórios exibidos.
+- **Relatórios:** utiliza dependências como filtro em relatórios operacionais e financeiros (ex.: Dispositivo, Caixa, Movimento de caixa, Ticket médio e Valores em circulação).
 - **Telas necessárias para realizar o cadastro desta tela:** não há dependência de cadastro prévio em outras telas.
 
 ## Passo a passo recomendado
