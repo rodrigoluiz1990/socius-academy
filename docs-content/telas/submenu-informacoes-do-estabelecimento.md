@@ -2,8 +2,7 @@
 tipo: tela
 nome_tela: Informações do estabelecimento
 menu: Estabelecimento
-módulo: Retaguarda
-versão_minima: 1.9.13
+aplicacao: Retaguarda
 slug: submenu-informacoes-do-estabelecimento
 ---
 
@@ -11,96 +10,98 @@ slug: submenu-informacoes-do-estabelecimento
 
 Documentar a operação da tela **Informações do estabelecimento**, usada para manter os dados institucionais, endereço, configuração de TEF e conteúdo do autoatendimento.
 
-## Identificação da tela
+## Detalhes
 
-- **Nome da tela:** Informações do estabelecimento
-- **Menu/Caminho:** Estabelecimento > Informações do estabelecimento
-- **Perfil de acesso sugerido:** Administrador / Gestor
+- **Aplicação:** Retaguarda
+- **Menu:** Estabelecimento
+- **Submenu:** Informações do estabelecimento
 
 ## Abas e campos da tela
 
 ### Aba: Institucional
 
-- **Nome fantasia:** nome comercial exibido no sistema e em relatórios.
-- **Razão social:** nome jurídico da empresa.
-- **CNPJ:** documento fiscal do estabelecimento.
-- **IE:** inscrição estadual para controles fiscais.
-- **Telefone:** contato principal do estabelecimento.
-- **Website:** site oficial para divulgação e referência.
-- **E-mail:** e-mail principal para contato administrativo.
-- **Logomarca:** pré-visualização da imagem institucional atual.
-- **Botão Alterar:** seleciona e substitui a logomarca institucional.
+- **Nome fantasia:** define o nome comercial exibido no sistema e em relatórios.
+- **Razão social:** informa o nome jurídico da empresa.
+- **CNPJ:** registra o documento fiscal do estabelecimento.
+- **IE:** informa a inscrição estadual para controles fiscais.
+- **Telefone:** mantém o contato principal do estabelecimento.
+- **Website:** registra o site oficial da empresa.
+- **E-mail:** mantém o e-mail administrativo principal.
+- **Logomarca:** exibe a imagem institucional atual.
+- **Alterar (logomarca):** permite selecionar e substituir a logomarca.
 
 ### Aba: Endereço
 
-- **Logradouro:** nome da rua/avenida do estabelecimento.
-- **Número:** número do endereço.
-- **Bairro:** bairro do endereço cadastrado.
-- **Complemento:** informação adicional de localização.
-- **CEP:** código postal do endereço.
-- **País:** país para definição de regras de endereço.
-- **Província:** divisão regional usada quando aplicável (ex.: Argentina).
-- **Estado:** unidade federativa/província estadual.
-- **Cidade:** município do estabelecimento.
+- **Logradouro:** informa a rua/avenida do estabelecimento.
+- **Número:** informa o número do endereço.
+- **Bairro:** informa o bairro do endereço.
+- **Complemento:** registra uma referência adicional de localização.
+- **CEP:** informa o código postal.
+- **País:** define o país do estabelecimento.
+- **Província:** define a província quando aplicável.
+- **Estado:** define a unidade federativa.
+- **Cidade:** define o município do estabelecimento.
 
 ### Aba: TEF
 
-- **Chip/magnético:** gateway padrão para transações presenciais.
-- **Digitado (e-commerce):** gateway padrão para transações digitadas.
-- **Pix (e-commerce):** gateway padrão para pagamentos PIX.
+- **Chip/magnético:** define o gateway padrão para operações presenciais.
+- **Digitado (e-commerce):** define o gateway padrão para transações digitadas.
+- **Pix (e-commerce):** define o gateway padrão para pagamentos PIX.
 
 ### Aba: Autoatendimento
 
-- **Logomarca da tela inicial:** pré-visualização da imagem exibida no autoatendimento.
-- **Tamanho recomendado da imagem:** referência de proporção para melhor exibição (600x388).
-- **Botão Alterar:** seleciona e substitui a imagem da tela inicial.
-- **Mensagem da tela Bem-vindo (Português):** texto exibido em português no autoatendimento.
-- **Mensagem da tela Bem-vindo (Espanhol):** texto exibido em espanhol no autoatendimento.
-- **Mensagem da tela Bem-vindo (Inglês):** texto exibido em inglês no autoatendimento.
+- **Logomarca da tela inicial:** exibe a imagem usada no autoatendimento.
+- **Tamanho recomendado da imagem:** orienta a proporção ideal da arte (600x388).
+- **Alterar (imagem inicial):** permite substituir a imagem da tela inicial.
+- **Mensagem da tela Bem-vindo (Português):** texto exibido em português.
+- **Mensagem da tela Bem-vindo (Espanhol):** texto exibido em espanhol.
+- **Mensagem da tela Bem-vindo (Inglês):** texto exibido em inglês.
 
 ## Botões da tela
 
-- **Salvar**
-- **Cancelar**
-- **Alterar** (na aba Institucional, para logomarca)
-- **Alterar** (na aba Autoatendimento, para logomarca da tela inicial)
+- **Salvar:** grava as alterações realizadas na tela.
+- **Cancelar:** fecha a tela mediante confirmação.
+- **Alterar (Institucional):** abre seletor de arquivo para troca da logomarca institucional.
+- **Alterar (Autoatendimento):** abre seletor de arquivo para troca da imagem inicial do autoatendimento.
 
 ## Regras e comportamentos importantes
 
-- As mensagens de Bem-vindo (PT/ES/EN) são limitadas a **54 caracteres**.
-- O campo **Província** só fica habilitado quando o país selecionado é Argentina.
-- Ao salvar, a cidade selecionada é vinculada ao cadastro do estabelecimento.
-- Após salvar com sucesso, as alterações entram em vigor após reinicialização do sistema.
+- As mensagens de boas-vindas (PT/ES/EN) são limitadas a **54 caracteres**.
+- O campo **Província** fica habilitado somente quando o país selecionado é Argentina.
+- Após salvar com sucesso, as alterações passam a valer após reinicialização do sistema.
+
+Campos obrigatórios mínimos para salvar:
+
+- **Nome fantasia**
+- **Razão social**
+- **CNPJ** (em formato válido)
+- **Logradouro**
+- **Bairro**
+- **Telefone**
+- **CEP**
+- **Cidade**
 
 ## Mensagens
 
-### Fluxo de imagem
-
-- **Título do seletor:** `Selecionar imagem de logomarca`
-- **Erro:** `Falha ao ler imagem`
-- **Descrição do erro:** `O arquivo selecionado não pode ser interpretado como uma imagem.`
-
-### Fluxo de validação e salvamento
-
-- **Pré-processamento:** `Preparando formulário`
-- **Aviso de validação:** `Valores inválidos`
-- **Detalhe da validação:** `Os seguintes problemas foram encontrados:` + lista de validações
-- **Pré-salvamento:** `Salvando alterações`
-- **Erro ao salvar:** `Falha ao salvar`
-- **Descrição do erro ao salvar:** `Não foi possível concluir a ação no momento`
-- **Sucesso ao salvar:** `Alterações salvas`
-- **Descrição do sucesso:** `As informações do estabelecimento foram salvas com sucesso e entrarão em vigor após a reinicialização do sistema.`
-
-### Fluxo de cancelamento
-
-- **Confirmação:** `Cancelar`
-- **Pergunta:** `Tem certeza de que deseja cancelar?`
+- **Selecionar imagem de logomarca**
+- **Falha ao ler imagem:** confirme se o arquivo é uma imagem válida (PNG/JPG) e tente novamente.
+- **O arquivo selecionado não pode ser interpretado como uma imagem:** selecione outro arquivo de imagem, preferencialmente em formato PNG ou JPG.
+- **Preparando formulário**
+- **Valores inválidos:** revise os campos obrigatórios e o formato dos dados antes de salvar.
+- **Os seguintes problemas foram encontrados:** + lista de validações. Corrija cada item listado e tente salvar novamente.
+- **Salvando alterações**
+- **Falha ao salvar:** verifique os dados preenchidos, confirme conexão com serviços do sistema e tente novamente.
+- **Não foi possível concluir a ação no momento:** aguarde alguns instantes e repita a operação; se persistir, acione o suporte.
+- **Alterações salvas**
+- **As informações do estabelecimento foram salvas com sucesso e entrarão em vigor após a reinicialização do sistema.**
+- **Cancelar**
+- **Tem certeza de que deseja cancelar?**
 
 ## Passo a passo recomendado
 
 1. Acesse **Estabelecimento > Informações do estabelecimento**.
-2. Preencha/atualize os dados da aba **Institucional**.
-3. Revise os dados da aba **Endereço**.
-4. Configure os gateways na aba **TEF** (quando aplicável).
-5. Atualize imagem e mensagens da aba **Autoatendimento** (quando aplicável).
-6. Clique em **Salvar** e confirme a mensagem de sucesso.
+2. Atualize os dados da aba **Institucional**.
+3. Revise as informações da aba **Endereço**.
+4. Configure os gateways da aba **TEF**, quando aplicável.
+5. Ajuste imagem e mensagens da aba **Autoatendimento**, quando necessário.
+6. Clique em **Salvar** e valide a mensagem de sucesso.
