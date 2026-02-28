@@ -97,6 +97,22 @@ Campos obrigatórios mínimos para salvar:
 - **Cancelar**
 - **Tem certeza de que deseja cancelar?**
 
+## Dependências entre telas
+
+- **Retaguarda (tela principal/configurações):** utiliza os dados para identificação do estabelecimento, configurações operacionais (ex.: e-mail) e integrações.
+- **Autoatendimento:** utiliza nome fantasia, logomarca e logomarca de autoatendimento na composição visual e fluxos de atendimento.
+- **Monitor de Acesso:** utiliza a logomarca do estabelecimento para identificação visual da aplicação.
+- **Monitor de Impressão:** utiliza nome fantasia e logomarca nas rotinas de impressão.
+- **Integrador CM:** utiliza nome fantasia e logomarca na identificação visual e na inicialização da aplicação.
+- **PDV:** utiliza os dados do estabelecimento na identificação da aplicação e em comprovantes/impressões operacionais.
+- **Portal do Sócio (webapp):** utiliza nome, contato, endereço e logomarca para exibição institucional ao usuário final.
+- **Meu Cartão (webapp):** utiliza dados institucionais, logomarca e parâmetros de apresentação do portal.
+- **Voucher (webapp):** utiliza os dados institucionais e de contato para apresentação da loja/clube.
+- **Resultados (webapp):** utiliza dados institucionais e logomarca para contexto e identificação dos relatórios.
+- **Relatórios:** utiliza os dados do estabelecimento para gerar o cabeçalho e identificação dos documentos.
+- **Documentos/comprovantes de impressão:** utiliza nome, endereço e demais dados institucionais para identificação do estabelecimento.
+- **Telas necessárias para realizar o cadastro desta tela:** País, Estado, Província, Cidade, Bairro e Estabelecimento TEF.
+
 ## Passo a passo recomendado
 
 1. Acesse **Estabelecimento > Informações do estabelecimento**.
