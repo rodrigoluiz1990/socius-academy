@@ -99,12 +99,17 @@ Campos obrigatórios mínimos para salvar:
 
 ## Dependências entre telas
 
+### Onde este cadastro é utilizado
+
 - **Categorias de produtos do clube:** utiliza as categorias para vincular cada produto no cadastro/edição.
 - **Venda de produtos do clube:** utiliza os produtos cadastrados nesta tela para operações de venda.
 - **Planos de venda:** utiliza produtos do clube como itens elegíveis em configurações de plano.
 - **Detalhes de cobrança:** utiliza o produto para detalhar itens financeiros vinculados à cobrança.
 - **Relatórios:** utiliza os produtos como base de filtro e composição em relatórios de produto do clube e vendas de produto do clube.
-- **Telas necessárias para realizar o cadastro desta tela:** Categorias de produtos do clube.
+
+### Cadastros necessários para preencher esta tela
+
+- **Categorias de produtos do clube:** é necessário para vincular a categoria no cadastro/edição de produto.
 
 ## Passo a passo recomendado
 

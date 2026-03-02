@@ -99,6 +99,8 @@ Campos obrigatórios mínimos para salvar:
 
 ## Dependências entre telas
 
+### Onde este cadastro é utilizado
+
 - **Retaguarda (tela principal/configurações):** utiliza os dados para identificação do estabelecimento, configurações operacionais (ex.: e-mail) e integrações.
 - **Autoatendimento:** utiliza nome fantasia, logomarca e logomarca de autoatendimento na composição visual e fluxos de atendimento.
 - **Monitor de Acesso:** utiliza a logomarca do estabelecimento para identificação visual da aplicação.
@@ -111,7 +113,11 @@ Campos obrigatórios mínimos para salvar:
 - **Resultados (webapp):** utiliza dados institucionais e logomarca para contexto e identificação dos relatórios.
 - **Relatórios:** utiliza os dados do estabelecimento para gerar o cabeçalho e identificação dos documentos.
 - **Documentos/comprovantes de impressão:** utiliza nome, endereço e demais dados institucionais para identificação do estabelecimento.
-- **Telas necessárias para realizar o cadastro desta tela:** País, Estado, Província, Cidade, Bairro e Estabelecimento TEF.
+
+### Cadastros necessários para preencher esta tela
+
+- **Endereços (País, Província, Estado, Cidade e Bairro):** é necessário manter previamente cadastradas as telas de endereço para permitir preenchimento e manutenção correta da aba **Endereço** do estabelecimento.
+- **Estabelecimento TEF:** deve estar configurado para uso dos parâmetros da aba **TEF**.
 
 ## Passo a passo recomendado
 

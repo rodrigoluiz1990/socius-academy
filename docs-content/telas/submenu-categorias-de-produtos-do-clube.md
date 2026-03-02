@@ -85,9 +85,14 @@ Campos obrigatórios mínimos para salvar:
 
 ## Dependências entre telas
 
+### Onde este cadastro é utilizado
+
 - **Produtos do clube:** utiliza as categorias para classificar os produtos no cadastro/edição.
 - **Relatórios:** utiliza as categorias como base de filtro e agrupamento em relatórios de produtos do clube e vendas de produtos do clube.
-- **Telas necessárias para realizar o cadastro desta tela:** não há dependência de cadastro prévio em outras telas.
+
+### Cadastros necessários para preencher esta tela
+
+Não há dependência de cadastro prévio em outras telas.
 
 ## Passo a passo recomendado
 

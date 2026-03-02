@@ -53,6 +53,34 @@ Documentar a operação da tela **Agências**, usada para consultar, cadastrar, 
 
 - **Grid de anexos (Nome do arquivo, Data do upload, Tamanho):** lista os arquivos anexados ao cadastro.
 
+### Subtela: Buscar cidade
+
+- **País:** base do vínculo geográfico; define o conjunto de províncias disponíveis.
+- **Província:** depende do país selecionado e define os estados disponíveis.
+- **Estado:** quando houver província, depende da província selecionada; quando não houver, fica vinculado diretamente ao país. Define as cidades disponíveis.
+- **Cidade:** depende do estado selecionado; ao escolher, é vinculada na naturalidade da agência.
+
+### Subtela: Nova informação de contato
+
+- **Tipo de informação:** define o tipo do contato (ex.: telefone, e-mail e outros tipos configurados).
+- **Valor:** informa o conteúdo da informação de contato.
+- **País:** habilitado quando o tipo de informação se refere a telefone.
+
+### Subtela: Novo endereço
+
+- **Tipo:** define o tipo de endereço a ser cadastrado.
+- **CEP:** informa o CEP e permite busca automática de endereço.
+- **País:** define o país do endereço.
+- **Província:** define a província do endereço.
+- **Estado:** define o estado do endereço.
+- **Cidade:** define a cidade do endereço.
+- **Bairro:** define o bairro do endereço.
+- **Logradouro:** informa rua/avenida do endereço.
+- **Número:** informa o número do endereço.
+- **Complemento:** informa complemento quando necessário.
+- **Referência:** informa ponto de referência para facilitar localização.
+- **Principal:** define se o endereço é o principal da agência.
+
 ### Tela: Detalhes da agência
 
 - Exibe os mesmos dados do cadastro (informações básicas, contatos, endereços e anexos) em modo de consulta.
@@ -79,6 +107,17 @@ Documentar a operação da tela **Agências**, usada para consultar, cadastrar, 
 - **Exibir detalhes (endereço):** abre os detalhes do endereço selecionado.
 - **Adicionar anexo:** envia arquivo e vincula ao cadastro.
 - **Remover selecionado (anexo):** remove o anexo selecionado após confirmação.
+
+### Subtelas de Novo/Editar agência
+
+- **Buscar cidade > Utilizar:** confirma a cidade selecionada e aplica na naturalidade da agência.
+- **Buscar cidade > Cancelar:** fecha a seleção de cidade mediante confirmação.
+- **Nova informação de contato > Adicionar:** inclui a informação de contato no cadastro da agência.
+- **Nova informação de contato > Cancelar:** fecha a subtela mediante confirmação.
+- **Novo endereço > Buscar (CEP):** consulta o CEP e preenche os dados disponíveis automaticamente.
+- **Novo endereço > Novo bairro:** permite cadastrar bairro quando não existir na cidade selecionada.
+- **Novo endereço > Adicionar:** inclui o endereço no cadastro da agência.
+- **Novo endereço > Cancelar:** fecha a subtela mediante confirmação.
 
 ### Detalhes da agência
 
@@ -133,12 +172,21 @@ Campos obrigatórios mínimos para salvar:
 - **Remover anexo - Tem certeza de que deseja remover o anexo selecionado?:** confirma a remoção do anexo.
 - **Falha ao recuperar arquivo:** tente salvar o anexo novamente; se persistir, acione o suporte.
 - **Arquivo salvo em disco com sucesso:** exportação do anexo concluída.
+- **Valor inválido - O valor da informação de contato não pode ser vazio:** informe o valor e tente adicionar novamente.
+- **Nenhum CEP informado - Informe um CEP para o endereço:** preencha o CEP antes de usar a busca automática.
+- **Atenção - CEP inválido.:** revise o CEP informado e tente novamente.
+- **Falha ao buscar endereço - Endereço não encontrado para o CEP informado:** valide o CEP ou preencha o endereço manualmente.
 
 ## Dependências entre telas
 
+### Onde este cadastro é utilizado
+
 - **NFSe em lote por resgate de voucher por agência:** usa o cadastro de agências para selecionar a agência no filtro de emissão.
 - **Relatório detalhado de agências:** usa os dados de agências para geração do relatório analítico.
-- **Telas necessárias para realizar o cadastro desta tela:** não há dependência obrigatória de cadastro prévio em outros submenus; a naturalidade pode ser vinculada via seleção de cidade quando necessário.
+
+### Cadastros necessários para preencher esta tela
+
+- **Endereços (País, Província, Estado, Cidade e Bairro):** é necessário para o preenchimento dos campos de naturalidade, telefone e endereço.
 
 ## Passo a passo recomendado
 
