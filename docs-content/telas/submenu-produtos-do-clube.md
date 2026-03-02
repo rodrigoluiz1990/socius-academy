@@ -81,7 +81,7 @@ Campos obrigatórios mínimos para salvar:
 - **Ação realizada com sucesso:** status do produto alterado corretamente.
 - **Falha ao salvar. Tente novamente.:** revise os dados e tente novamente.
 - **Não foi possível clonar o produto:** tente novamente; se persistir, acione o suporte.
-- **Descrição inválida:** informe uma descrição para o produto.
+- **Descrição inválida:** verifique a descrição do produto e tente salvar novamente.
 - **Nenhuma descrição foi informada para o produto do clube:** preencha o campo **Descrição**.
 - **Descrição repetida:** informe uma descrição diferente da já cadastrada.
 - **A descrição já está em uso por outro produto:** altere para um nome único.
@@ -102,9 +102,7 @@ Campos obrigatórios mínimos para salvar:
 - **Categorias de produtos do clube:** utiliza as categorias para vincular cada produto no cadastro/edição.
 - **Venda de produtos do clube:** utiliza os produtos cadastrados nesta tela para operações de venda.
 - **Planos de venda:** utiliza produtos do clube como itens elegíveis em configurações de plano.
-- **Combos de venda internet:** utiliza produtos do clube na composição dos combos.
-- **Campanhas de venda internet:** utiliza produtos do clube nas regras e itens de campanha.
-- **Caixa (detalhes de movimento):** utiliza o produto para detalhar movimentos financeiros vinculados à operação.
+- **Detalhes de cobrança:** utiliza o produto para detalhar itens financeiros vinculados à cobrança.
 - **Relatórios:** utiliza os produtos como base de filtro e composição em relatórios de produto do clube e vendas de produto do clube.
 - **Telas necessárias para realizar o cadastro desta tela:** Categorias de produtos do clube.
 
