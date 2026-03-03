@@ -229,6 +229,7 @@ Campos obrigatórios mínimos para salvar:
 ### Cadastros necessários para preencher esta tela
 
 - **Endereços (País, Província, Estado, Cidade e Bairro):** é necessário para o preenchimento dos campos de naturalidade, telefone e endereço.
+- **Armazenamento de arquivos:** necessária para habilitar o envio e a manutenção de **anexos**.
 
 ## Passo a passo recomendado
 
