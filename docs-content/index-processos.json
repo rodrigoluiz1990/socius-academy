@@ -1,13 +1,20 @@
 ﻿[
-  {
-    "codigo": "processo-venda-consumo",
-    "slug": "venda-consumo",
-    "nome": "Venda de produto de consumo",
-    "area": "Vendas",
-    "nivel": "operacional",
-    "versão_minima": "1.9.12",
-    "path": "docs-content/processos/exemplo-processo-venda-consumo.md"
-  }
+    {
+        "codigo":  "processo-venda-consumo",
+        "slug":  "venda-consumo",
+        "nome":  "Venda de produto de consumo",
+        "area":  "Vendas",
+        "nivel":  "operacional",
+        "versão_minima":  "1.9.12",
+        "path":  "docs-content/processos/exemplo-processo-venda-consumo.md"
+    },
+    {
+        "codigo":  "processo-venda-ingresso-bilheteria",
+        "slug":  "venda-ingresso-bilheteria",
+        "nome":  "Venda de ingresso na bilheteria",
+        "area":  "Vendas",
+        "nivel":  "operacional",
+        "path":  "docs-content/processos/venda-ingresso-bilheteria.md",
+        "versão_minima":  "1.9.13"
+    }
 ]
-
-
