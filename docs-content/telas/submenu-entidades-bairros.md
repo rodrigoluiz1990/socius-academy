@@ -14,7 +14,7 @@ Documentar a operação da tela **Bairros**, usada para consultar, cadastrar, ed
 
 - **Aplicação:** Retaguarda
 - **Menu:** Entidades
-- **Submenu:** Bairros
+- **Submenu:** Endereços > Bairros
 
 ## Abas e campos da tela
 
@@ -92,7 +92,7 @@ Campos obrigatórios mínimos para salvar:
 
 ## Passo a passo recomendado
 
-1. Acesse **Entidades > Bairros**.
+1. Acesse **Entidades > Endereços > Bairros**.
 2. Use o **Filtro** para localizar um cadastro existente, se necessário.
 3. Clique em **Novo bairro** para cadastrar, ou selecione um registro e clique em **Editar bairro**.
 4. Selecione **País**, **Província** (quando aplicável), **Estado** e **Cidade** e informe **Nome** e **CEP**.
