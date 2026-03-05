@@ -8,7 +8,7 @@ slug: submenu-entidades-bairros
 
 ## Objetivo
 
-Documentar a operação da tela **Bairros**, usada para consultar, cadastrar, editar, ativar/desativar e detalhar bairros no Retaguarda.
+Documentar a operação da tela **Bairros**, usada para consultar, cadastrar, editar e detalhar bairros no Retaguarda.
 
 ## Detalhes
 
@@ -20,27 +20,30 @@ Documentar a operação da tela **Bairros**, usada para consultar, cadastrar, ed
 
 ### Tela: Bairros (principal)
 
-- **Filtros:** permite pesquisar por Nome, Cidade e Situação.
-- **Grid:** exibe os registros salvos com base nos filtros utilizados (Nome, Cidade, Estado e Situação).
+- **Filtros:** permite pesquisar por Nome, CEP e Cidade.
+- **Grid:** exibe os registros salvos com base nos filtros utilizados (Nome, CEP, Cidade e Estado).
 
 ### Tela: Novo/Editar bairro
 
 ### Aba: Informações básicas
 
+- **País:** define o país para a seleção de província, estado e cidade.
+- **Província:** define a província (quando aplicável) para filtrar estados e cidades.
+- **Estado:** define o estado para filtrar cidades.
 - **Cidade:** vincula o bairro à cidade selecionada.
-- **Nome do bairro:** define o nome do bairro.
+- **Nome:** define o nome do bairro.
+- **CEP:** define o CEP do bairro.
 
 ### Tela: Detalhes do bairro
 
-- Exibe os mesmos dados do cadastro (cidade e nome do bairro) em modo de consulta.
+- Exibe os mesmos dados do cadastro (país, província, estado, cidade, nome e CEP) em modo de consulta.
 
 ## Botões da tela
 
 ### Tela principal
 
-- **Nova bairro:** abre o formulário para cadastro de um novo bairro.
-- **Editar selecionado:** abre o formulário para edição do bairro selecionado.
-- **Desativar ou ativar:** altera a situação (ativo/inativo) do bairro selecionado.
+- **Novo bairro:** abre o formulário para cadastro de um novo bairro.
+- **Editar bairro:** abre o formulário para edição do bairro selecionado.
 - **Exibir detalhes:** abre a tela de detalhes do bairro selecionado.
 
 ### Novo/Editar bairro
@@ -50,26 +53,28 @@ Documentar a operação da tela **Bairros**, usada para consultar, cadastrar, ed
 
 ## Regras e comportamentos importantes
 
-- Para **editar**, **ativar/desativar** ou **exibir detalhes**, é necessário selecionar um bairro no grid.
-- **Cidade** e **Nome do bairro** são obrigatórios para salvar.
+- Para **editar** ou **exibir detalhes**, é necessário selecionar um bairro no grid.
+- **Cidade**, **Nome** e **CEP** são obrigatórios para salvar.
 - Não é permitido salvar bairro com o **mesmo nome** dentro da mesma cidade.
 
 Campos obrigatórios mínimos para salvar:
 
+- **País**
+- **Estado**
 - **Cidade**
-- **Nome do bairro**
+- **Nome**
+- **CEP**
 
 ## Mensagens
 
-- **Nenhum bairro selecionado:** selecione um registro para continuar.
-- **Selecione um registro para continuar:** clique em um item antes de executar a ação.
-- **Desativar ou ativar:** confirma a alteração de status do bairro selecionado.
-- **Ação realizada com sucesso.:** alteração de status concluída.
-- **Informações inválidas - O preenchimento do nome do bairro é obrigatório:** preencha o nome e tente salvar novamente.
-- **Informações inválidas - Selecione a cidade:** selecione uma cidade e tente salvar novamente.
-- **Bairro já cadastrado:** informe outro nome ou cidade.
-- **Falha ao salvar:** revise os dados informados e tente novamente.
-- **Bairro salvo com sucesso:** confirma o salvamento.
+- **Falha ao iniciar busca:** entre em contato com o suporte para maiores informações.
+- **Nenhum bairro selecionado:** selecione um bairro na tabela e tente novamente.
+- **Nenhum nome informado:** informe um nome para o bairro.
+- **Nenhum CEP informado:** informe um CEP para o bairro.
+- **Nenhuma cidade selecionada:** selecione uma cidade e tente novamente.
+- **Nome duplicado:** o nome informado já está em uso por outro bairro na cidade selecionada.
+- **Falha ao salvar o bairro:** verifique os dados informados e tente novamente.
+- **Bairro salvo:** confirma o salvamento.
 - **Cancelar - Tem certeza de que deseja cancelar?:** confirma o cancelamento do cadastro/edição.
 
 ## Dependências entre telas
@@ -89,7 +94,7 @@ Campos obrigatórios mínimos para salvar:
 
 1. Acesse **Entidades > Bairros**.
 2. Use o **Filtro** para localizar um cadastro existente, se necessário.
-3. Clique em **Novo bairro** para cadastrar, ou selecione um registro e clique em **Editar selecionado**.
-4. Selecione a **Cidade** e informe o **Nome do bairro**.
+3. Clique em **Novo bairro** para cadastrar, ou selecione um registro e clique em **Editar bairro**.
+4. Selecione **País**, **Província** (quando aplicável), **Estado** e **Cidade** e informe **Nome** e **CEP**.
 5. Clique em **Salvar** para concluir.
 6. Para consulta sem edição, selecione o item e clique em **Exibir detalhes**.

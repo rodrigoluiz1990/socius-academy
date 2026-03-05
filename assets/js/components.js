@@ -15,7 +15,11 @@ function navigate(page) {
 }
 
 function norm(value) {
-  return (value || "").toString().toLowerCase();
+  return (value || "")
+    .toString()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
 }
 
 function debounce(fn, delay) {
@@ -297,3 +301,4 @@ function initHeader() {
 }
 
 window.navigate = navigate;
+
