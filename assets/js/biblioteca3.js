@@ -32,7 +32,8 @@ function renderCard(container, item) {
 
   const titulo = pick(item, "nome_tela", "nome", "slug");
   const descricao = pick(item, "descricao", "descrição", "menu");
-  const iconText = "\u{1F5A5}\uFE0F";
+  const isFolder = (pick(item, "tipo") || "").toLowerCase() === "pasta" || pick(item, "subgrupo_slug");
+  const iconText = isFolder ? "\u{1F5C2}\uFE0F" : "\u{1F5A5}\uFE0F";
 
   card.innerHTML = `
     <div class="course-header">
@@ -43,6 +44,15 @@ function renderCard(container, item) {
   `;
 
   const openManual = () => {
+    if (isFolder) {
+      const nextGrupo = pick(item, "subgrupo_slug") || item.slug;
+      const params = new URLSearchParams({
+        tipo: "tela",
+        grupo: nextGrupo
+      });
+      window.location.href = "biblioteca3.html?" + params.toString();
+      return;
+    }
     window.location.href = "manual.html?tipo=tela&slug=" + encodeURIComponent(item.slug);
   };
 
@@ -74,13 +84,19 @@ async function loadBibliotecaNivel3() {
     const grupos = await fetchJson("docs-content/index-telas-grupos.json");
     const submenus = await fetchJson("docs-content/index-telas-submenus.json");
 
-    const grupoItem = grupos.find(g => g.slug === grupo);
+    const grupoItem = grupos.find(g => g.slug === grupo) || submenus.find(s => s.slug === grupo);
     if (titleEl) {
       const nomeGrupo = grupoItem ? pick(grupoItem, "nome_tela", "nome") : grupo;
       titleEl.textContent = `Telas de ${nomeGrupo}`;
     }
 
-    const itens = submenus.filter(s => s.grupo_slug === grupo);
+    const itens = submenus.filter(s => {
+      const parent = pick(s, "parent_slug");
+      if (parent) {
+        return parent === grupo;
+      }
+      return s.grupo_slug === grupo;
+    });
     container.innerHTML = "";
 
     if (!itens.length) {

@@ -128,8 +128,9 @@ async function loadGlobalSearch() {
       fetchJson("docs-content/index-trilhas.json").catch(() => [])
     ]);
 
+    const telasFiltradas = telas.filter(item => item.path && (pick(item, "tipo") || "").toLowerCase() !== "pasta");
     const items = [
-      ...telas.map(mapTelaItem),
+      ...telasFiltradas.map(mapTelaItem),
       ...processos.map(mapProcessoItem),
       ...trilhas.map(mapTrilhaItem)
     ];

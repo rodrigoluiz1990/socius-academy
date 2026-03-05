@@ -1,5 +1,68 @@
 ﻿[
     {
+        "grupo_slug":  "menu-acesso",
+        "slug":  "submenu-acesso-acessos",
+        "nome_tela":  "Acessos",
+        "menu":  "Acesso",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-acessos.md"
+    },
+    {
+        "grupo_slug":  "menu-acesso",
+        "slug":  "submenu-acesso-catraca-virtual",
+        "nome_tela":  "Catraca virtual",
+        "menu":  "Acesso",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-catraca-virtual.md"
+    },
+    {
+        "grupo_slug":  "menu-acesso",
+        "slug":  "submenu-acesso-catracas",
+        "nome_tela":  "Catracas",
+        "menu":  "Acesso",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-catracas.md"
+    },
+    {
+        "grupo_slug":  "menu-acesso",
+        "slug":  "submenu-acesso-leitor-facial",
+        "nome_tela":  "Leitor facial",
+        "menu":  "Acesso",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-leitor-facial.md"
+    },
+    {
+        "grupo_slug":  "menu-acesso",
+        "slug":  "submenu-acesso-locais-de-acesso",
+        "nome_tela":  "Locais de acesso",
+        "menu":  "Acesso",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-locais-de-acesso.md"
+    },
+    {
+        "grupo_slug":  "menu-acesso",
+        "slug":  "submenu-acesso-saida-de-entradas-pendentes",
+        "nome_tela":  "Saída de entradas pendentes",
+        "menu":  "Acesso",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-saida-de-entradas-pendentes.md"
+    },
+    {
+        "grupo_slug":  "menu-acesso",
+        "slug":  "submenu-acesso-tipos-de-entrada",
+        "nome_tela":  "Tipos de entrada",
+        "menu":  "Acesso",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "path":  "docs-content/telas/submenu-acesso-tipos-de-entrada.md"
+    },
+    {
         "grupo_slug":  "acesso-rapido-acessos",
         "slug":  "submenu-acesso-rapido-acessos",
         "nome_tela":  "Acessos",
@@ -81,72 +144,9 @@
         "path":  "docs-content/telas/submenu-acesso-rapido-pagar-fatura.md"
     },
     {
-        "grupo_slug":  "menu-acesso",
-        "slug":  "submenu-acesso-acessos",
-        "nome_tela":  "Acessos",
-        "menu":  "Acesso",
-        "módulo":  "Retaguarda",
-        "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-acesso-acessos.md"
-    },
-    {
-        "grupo_slug":  "menu-acesso",
-        "slug":  "submenu-acesso-catraca-virtual",
-        "nome_tela":  "Catraca virtual",
-        "menu":  "Acesso",
-        "módulo":  "Retaguarda",
-        "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-acesso-catraca-virtual.md"
-    },
-    {
-        "grupo_slug":  "menu-acesso",
-        "slug":  "submenu-acesso-catracas",
-        "nome_tela":  "Catracas",
-        "menu":  "Acesso",
-        "módulo":  "Retaguarda",
-        "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-acesso-catracas.md"
-    },
-    {
-        "grupo_slug":  "menu-acesso",
-        "slug":  "submenu-acesso-leitor-facial",
-        "nome_tela":  "Leitor facial",
-        "menu":  "Acesso",
-        "módulo":  "Retaguarda",
-        "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-acesso-leitor-facial.md"
-    },
-    {
-        "grupo_slug":  "menu-acesso",
-        "slug":  "submenu-acesso-locais-de-acesso",
-        "nome_tela":  "Locais de acesso",
-        "menu":  "Acesso",
-        "módulo":  "Retaguarda",
-        "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-acesso-locais-de-acesso.md"
-    },
-    {
-        "grupo_slug":  "menu-acesso",
-        "slug":  "submenu-acesso-saida-de-entradas-pendentes",
-        "nome_tela":  "Saida de entradas pendentes",
-        "menu":  "Acesso",
-        "módulo":  "Retaguarda",
-        "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-acesso-saida-de-entradas-pendentes.md"
-    },
-    {
-        "grupo_slug":  "menu-acesso",
-        "slug":  "submenu-acesso-tipos-de-entrada",
-        "nome_tela":  "Tipos de entrada",
-        "menu":  "Acesso",
-        "módulo":  "Retaguarda",
-        "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-acesso-tipos-de-entrada.md"
-    },
-    {
         "grupo_slug":  "menu-ajuda",
         "slug":  "submenu-ajuda-historico-de-alteracoes",
-        "nome_tela":  "Historico de alteracoes",
+        "nome_tela":  "Histórico de alterações",
         "menu":  "Ajuda",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -191,7 +191,7 @@
     {
         "grupo_slug":  "menu-alimentacao",
         "slug":  "submenu-alimentacao-devolucao-de-item-de-consumo",
-        "nome_tela":  "Devolucao de item de consumo",
+        "nome_tela":  "Devolução de item de consumo",
         "menu":  "Alimentação",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -245,7 +245,7 @@
     {
         "grupo_slug":  "menu-aluguel",
         "slug":  "submenu-aluguel-devolucao",
-        "nome_tela":  "Devolucao",
+        "nome_tela":  "Devolução",
         "menu":  "Aluguel",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -326,7 +326,7 @@
     {
         "grupo_slug":  "menu-cartao-do-estabelecimento",
         "slug":  "submenu-cartao-do-estabelecimento-ativacao-e-bloqueio-de-cartao-de-consumo",
-        "nome_tela":  "Ativacao e bloqueio de cartão de consumo",
+        "nome_tela":  "Ativação e bloqueio de cartão de consumo",
         "menu":  "Cartão do estabelecimento",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -335,7 +335,7 @@
     {
         "grupo_slug":  "menu-cartao-do-estabelecimento",
         "slug":  "submenu-cartao-do-estabelecimento-cartoes-de-consumo-e-carteirinhas-de-socio",
-        "nome_tela":  "Cartoes de consumo e carteirinhas de socio",
+        "nome_tela":  "Cartões de consumo e carteirinhas de sócio",
         "menu":  "Cartão do estabelecimento",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -344,7 +344,7 @@
     {
         "grupo_slug":  "menu-cartao-do-estabelecimento",
         "slug":  "submenu-cartao-do-estabelecimento-controle-de-pensao",
-        "nome_tela":  "Controle de Pensao",
+        "nome_tela":  "Controle de Pensão",
         "menu":  "Cartão do estabelecimento",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -353,7 +353,7 @@
     {
         "grupo_slug":  "menu-cartao-do-estabelecimento",
         "slug":  "submenu-cartao-do-estabelecimento-devolucao-de-saldo",
-        "nome_tela":  "Devolucao de saldo",
+        "nome_tela":  "Devolução de saldo",
         "menu":  "Cartão do estabelecimento",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -362,7 +362,7 @@
     {
         "grupo_slug":  "menu-cartao-do-estabelecimento",
         "slug":  "submenu-cartao-do-estabelecimento-lotes-de-cartoes-de-consumo",
-        "nome_tela":  "Lotes de cartoes de consumo",
+        "nome_tela":  "Lotes de cartões de consumo",
         "menu":  "Cartão do estabelecimento",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -371,7 +371,7 @@
     {
         "grupo_slug":  "menu-cartao-do-estabelecimento",
         "slug":  "submenu-cartao-do-estabelecimento-lotes-de-cartoes-de-papa-fila",
-        "nome_tela":  "Lotes de cartoes de papa fila",
+        "nome_tela":  "Lotes de cartões de papa fila",
         "menu":  "Cartão do estabelecimento",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -416,7 +416,7 @@
     {
         "grupo_slug":  "menu-cartao-do-estabelecimento",
         "slug":  "submenu-cartao-do-estabelecimento-transferencia-de-pensao",
-        "nome_tela":  "Transferencia de pensao",
+        "nome_tela":  "Transferência de pensão",
         "menu":  "Cartão do estabelecimento",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -425,7 +425,7 @@
     {
         "grupo_slug":  "menu-cartao-do-estabelecimento",
         "slug":  "submenu-cartao-do-estabelecimento-transferencia-de-saldo",
-        "nome_tela":  "Transferencia de saldo",
+        "nome_tela":  "Transferência de saldo",
         "menu":  "Cartão do estabelecimento",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -434,11 +434,31 @@
     {
         "grupo_slug":  "menu-entidades",
         "slug":  "submenu-entidades-agencias",
-        "nome_tela":  "Agencias",
+        "nome_tela":  "Agências",
         "menu":  "Entidades",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
         "path":  "docs-content/telas/submenu-entidades-agencias.md"
+    },
+    {
+        "grupo_slug":  "menu-entidades",
+        "slug":  "submenu-entidades-bairros",
+        "nome_tela":  "Bairros",
+        "menu":  "Entidades",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-entidades-enderecos",
+        "path":  "docs-content/telas/submenu-entidades-bairros.md"
+    },
+    {
+        "grupo_slug":  "menu-entidades",
+        "slug":  "submenu-entidades-enderecos-cidades",
+        "nome_tela":  "Cidades",
+        "menu":  "Entidades",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-entidades-enderecos",
+        "path":  "docs-content/telas/submenu-entidades-enderecos-cidades.md"
     },
     {
         "grupo_slug":  "menu-entidades",
@@ -451,21 +471,42 @@
     },
     {
         "grupo_slug":  "menu-entidades",
-        "slug":  "submenu-entidades-enderecos",
-        "nome_tela":  "Enderecos",
+        "slug":  "submenu-entidades-enderecos-estados",
+        "nome_tela":  "Estados",
         "menu":  "Entidades",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-entidades-enderecos.md"
+        "parent_slug":  "submenu-entidades-enderecos",
+        "path":  "docs-content/telas/submenu-entidades-enderecos-estados.md"
+    },
+    {
+        "grupo_slug":  "menu-entidades",
+        "slug":  "submenu-entidades-enderecos-paises",
+        "nome_tela":  "Países",
+        "menu":  "Entidades",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-entidades-enderecos",
+        "path":  "docs-content/telas/submenu-entidades-enderecos-paises.md"
     },
     {
         "grupo_slug":  "menu-entidades",
         "slug":  "submenu-entidades-pessoas-fisicas-e-juridicas",
-        "nome_tela":  "Pessoas fisicas e juridicas",
+        "nome_tela":  "Pessoas físicas e jurídicas",
         "menu":  "Entidades",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
         "path":  "docs-content/telas/submenu-entidades-pessoas-fisicas-e-juridicas.md"
+    },
+    {
+        "grupo_slug":  "menu-entidades",
+        "slug":  "submenu-entidades-enderecos-provincias",
+        "nome_tela":  "Províncias",
+        "menu":  "Entidades",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-entidades-enderecos",
+        "path":  "docs-content/telas/submenu-entidades-enderecos-provincias.md"
     },
     {
         "grupo_slug":  "menu-entidades",
@@ -578,7 +619,7 @@
     {
         "grupo_slug":  "menu-estacionamento",
         "slug":  "submenu-estacionamento-historico-de-entradas",
-        "nome_tela":  "Historico de entradas",
+        "nome_tela":  "Histórico de entradas",
         "menu":  "Estacionamento",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -587,7 +628,7 @@
     {
         "grupo_slug":  "menu-estacionamento",
         "slug":  "submenu-estacionamento-historico-de-saidas",
-        "nome_tela":  "Historico de saidas",
+        "nome_tela":  "Histórico de saídas",
         "menu":  "Estacionamento",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -622,35 +663,38 @@
     },
     {
         "grupo_slug":  "menu-financeiro",
-        "slug":  "submenu-financeiro-caixa",
-        "nome_tela":  "Caixa",
+        "slug":  "submenu-financeiro-definicoes-bancarias-carteiras-e-convenios-bancarios",
+        "nome_tela":  "Carteiras e convênios bancários",
         "menu":  "Financeiro",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-financeiro-caixa.md"
+        "parent_slug":  "submenu-financeiro-definicoes-bancarias",
+        "path":  "docs-content/telas/submenu-financeiro-definicoes-bancarias-carteiras-e-convenios-bancarios.md"
     },
     {
         "grupo_slug":  "menu-financeiro",
-        "slug":  "submenu-financeiro-cotas-de-titulos",
-        "nome_tela":  "Cotas de títulos",
+        "slug":  "submenu-financeiro-caixa-consulta",
+        "nome_tela":  "Consulta",
         "menu":  "Financeiro",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-financeiro-cotas-de-titulos.md"
+        "parent_slug":  "submenu-financeiro-caixa",
+        "path":  "docs-content/telas/submenu-financeiro-caixa-consulta.md"
     },
     {
         "grupo_slug":  "menu-financeiro",
-        "slug":  "submenu-financeiro-debito-em-conta-corrente",
-        "nome_tela":  "Debito em conta corrente",
+        "slug":  "submenu-financeiro-cotas-de-titulos-consultar-cotas-emitidas",
+        "nome_tela":  "Consultar cotas emitidas",
         "menu":  "Financeiro",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-financeiro-debito-em-conta-corrente.md"
+        "parent_slug":  "submenu-financeiro-cotas-de-titulos",
+        "path":  "docs-content/telas/submenu-financeiro-cotas-de-titulos-consultar-cotas-emitidas.md"
     },
     {
         "grupo_slug":  "menu-financeiro",
         "slug":  "submenu-financeiro-declaracao-de-quitacao-de-debitos",
-        "nome_tela":  "Declaracao de quitacao de debitos",
+        "nome_tela":  "Declaração de quitação de débitos",
         "menu":  "Financeiro",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -658,26 +702,88 @@
     },
     {
         "grupo_slug":  "menu-financeiro",
-        "slug":  "submenu-financeiro-definicoes-bancarias",
-        "nome_tela":  "Definicoes bancarias",
+        "slug":  "submenu-financeiro-cotas-de-titulos-desconsiderar-periodos-de-emissao-de-cotas",
+        "nome_tela":  "Desconsiderar períodos de emissão de cotas",
         "menu":  "Financeiro",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-financeiro-definicoes-bancarias.md"
+        "parent_slug":  "submenu-financeiro-cotas-de-titulos",
+        "path":  "docs-content/telas/submenu-financeiro-cotas-de-titulos-desconsiderar-periodos-de-emissao-de-cotas.md"
     },
     {
         "grupo_slug":  "menu-financeiro",
-        "slug":  "submenu-financeiro-mensalidades",
-        "nome_tela":  "Mensalidades",
+        "slug":  "submenu-financeiro-cotas-de-titulos-emitir-cotas-de-titulos",
+        "nome_tela":  "Emitir cotas de títulos",
         "menu":  "Financeiro",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-financeiro-mensalidades.md"
+        "parent_slug":  "submenu-financeiro-cotas-de-titulos",
+        "path":  "docs-content/telas/submenu-financeiro-cotas-de-titulos-emitir-cotas-de-titulos.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-cotas-de-titulos-emitir-previsao-de-cotas-de-titulos",
+        "nome_tela":  "Emitir previsão de cotas de títulos",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-financeiro-cotas-de-titulos",
+        "path":  "docs-content/telas/submenu-financeiro-cotas-de-titulos-emitir-previsao-de-cotas-de-titulos.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-debito-em-conta-corrente-erros-de-retorno",
+        "nome_tela":  "Erros de retorno",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-financeiro-debito-em-conta-corrente",
+        "path":  "docs-content/telas/submenu-financeiro-debito-em-conta-corrente-erros-de-retorno.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-titulos-de-cobranca-bancaria-erros-de-retorno",
+        "nome_tela":  "Erros de retorno",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-financeiro-titulos-de-cobranca-bancaria",
+        "path":  "docs-content/telas/submenu-financeiro-titulos-de-cobranca-bancaria-erros-de-retorno.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-caixa-meios-de-movimento",
+        "nome_tela":  "Meios de movimento",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-financeiro-caixa",
+        "path":  "docs-content/telas/submenu-financeiro-caixa-meios-de-movimento.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-mensalidades-emitir-mensalidades-padrao",
+        "nome_tela":  "Mensalidades padrão",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-financeiro-mensalidades-emitir",
+        "path":  "docs-content/telas/submenu-financeiro-mensalidades-emitir-mensalidades-padrao.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-mensalidades-enviar-por-e-mail-mensalidades-padrao",
+        "nome_tela":  "Mensalidades padrão",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-financeiro-mensalidades-enviar-por-e-mail",
+        "path":  "docs-content/telas/submenu-financeiro-mensalidades-enviar-por-e-mail-mensalidades-padrao.md"
     },
     {
         "grupo_slug":  "menu-financeiro",
         "slug":  "submenu-financeiro-modalidades-de-cobranca",
-        "nome_tela":  "Modalidades de cobranca",
+        "nome_tela":  "Modalidades de cobrança",
         "menu":  "Financeiro",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -685,8 +791,18 @@
     },
     {
         "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-definicoes-bancarias-modelos-de-titulo-bancario",
+        "nome_tela":  "Modelos de título bancário",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-financeiro-definicoes-bancarias",
+        "path":  "docs-content/telas/submenu-financeiro-definicoes-bancarias-modelos-de-titulo-bancario.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
         "slug":  "submenu-financeiro-operacoes-tef",
-        "nome_tela":  "Operacoes TEF",
+        "nome_tela":  "Operações TEF",
         "menu":  "Financeiro",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -694,8 +810,88 @@
     },
     {
         "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-mensalidades-emitir-outros-tipos-de-mensalidades",
+        "nome_tela":  "Outros tipos de mensalidades",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-financeiro-mensalidades-emitir",
+        "path":  "docs-content/telas/submenu-financeiro-mensalidades-emitir-outros-tipos-de-mensalidades.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-mensalidades-enviar-por-e-mail-outros-tipos-de-mensalidades",
+        "nome_tela":  "Outros tipos de mensalidades",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-financeiro-mensalidades-enviar-por-e-mail",
+        "path":  "docs-content/telas/submenu-financeiro-mensalidades-enviar-por-e-mail-outros-tipos-de-mensalidades.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-titulos-de-cobranca-pagamento-de-titulo-de-cobranca",
+        "nome_tela":  "Pagamento de título de cobrança",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-financeiro-titulos-de-cobranca",
+        "path":  "docs-content/telas/submenu-financeiro-titulos-de-cobranca-pagamento-de-titulo-de-cobranca.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-mensalidades-pagamentos-de-mensalidade",
+        "nome_tela":  "Pagamentos de mensalidade",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-financeiro-mensalidades",
+        "path":  "docs-content/telas/submenu-financeiro-mensalidades-pagamentos-de-mensalidade.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-debito-em-conta-corrente-remessas",
+        "nome_tela":  "Remessas",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-financeiro-debito-em-conta-corrente",
+        "path":  "docs-content/telas/submenu-financeiro-debito-em-conta-corrente-remessas.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-titulos-de-cobranca-bancaria-remessas",
+        "nome_tela":  "Remessas",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-financeiro-titulos-de-cobranca-bancaria",
+        "path":  "docs-content/telas/submenu-financeiro-titulos-de-cobranca-bancaria-remessas.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-debito-em-conta-corrente-retornos",
+        "nome_tela":  "Retornos",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-financeiro-debito-em-conta-corrente",
+        "path":  "docs-content/telas/submenu-financeiro-debito-em-conta-corrente-retornos.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
+        "slug":  "submenu-financeiro-titulos-de-cobranca-bancaria-retornos",
+        "nome_tela":  "Retornos ",
+        "menu":  "Financeiro",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-financeiro-titulos-de-cobranca-bancaria",
+        "path":  "docs-content/telas/submenu-financeiro-titulos-de-cobranca-bancaria-retornos.md"
+    },
+    {
+        "grupo_slug":  "menu-financeiro",
         "slug":  "submenu-financeiro-taxas-de-cambio",
-        "nome_tela":  "Taxas de cambio",
+        "nome_tela":  "Taxas de câmbio",
         "menu":  "Financeiro",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -703,26 +899,18 @@
     },
     {
         "grupo_slug":  "menu-financeiro",
-        "slug":  "submenu-financeiro-titulos-de-cobranca",
-        "nome_tela":  "Títulos de cobranca",
+        "slug":  "submenu-financeiro-debito-em-conta-corrente-titulos-de-debito-em-conta",
+        "nome_tela":  "Títulos de débito em conta",
         "menu":  "Financeiro",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-financeiro-titulos-de-cobranca.md"
-    },
-    {
-        "grupo_slug":  "menu-financeiro",
-        "slug":  "submenu-financeiro-titulos-de-cobranca-bancaria",
-        "nome_tela":  "Títulos de cobranca bancaria",
-        "menu":  "Financeiro",
-        "módulo":  "Retaguarda",
-        "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-financeiro-titulos-de-cobranca-bancaria.md"
+        "parent_slug":  "submenu-financeiro-debito-em-conta-corrente",
+        "path":  "docs-content/telas/submenu-financeiro-debito-em-conta-corrente-titulos-de-debito-em-conta.md"
     },
     {
         "grupo_slug":  "menu-fiscal",
         "slug":  "submenu-fiscal-aliquota-cbs",
-        "nome_tela":  "Aliquota CBS",
+        "nome_tela":  "Alíquota CBS",
         "menu":  "Fiscal",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -731,7 +919,7 @@
     {
         "grupo_slug":  "menu-fiscal",
         "slug":  "submenu-fiscal-aliquota-ibs-municipio",
-        "nome_tela":  "Aliquota IBS Municipio",
+        "nome_tela":  "Alíquota IBS Município",
         "menu":  "Fiscal",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -740,20 +928,11 @@
     {
         "grupo_slug":  "menu-fiscal",
         "slug":  "submenu-fiscal-aliquota-ibs-uf",
-        "nome_tela":  "Aliquota IBS UF",
+        "nome_tela":  "Alíquota IBS UF",
         "menu":  "Fiscal",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
         "path":  "docs-content/telas/submenu-fiscal-aliquota-ibs-uf.md"
-    },
-    {
-        "grupo_slug":  "menu-fiscal",
-        "slug":  "submenu-fiscal-carta-de-correcao",
-        "nome_tela":  "Carta de Correcao",
-        "menu":  "Fiscal",
-        "módulo":  "Retaguarda",
-        "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-fiscal-carta-de-correcao.md"
     },
     {
         "grupo_slug":  "menu-fiscal",
@@ -767,7 +946,7 @@
     {
         "grupo_slug":  "menu-fiscal",
         "slug":  "submenu-fiscal-credito-presumido-ibs-cbs",
-        "nome_tela":  "Credito Presumido IBS/CBS",
+        "nome_tela":  "Crédito Presumido IBS/CBS",
         "menu":  "Fiscal",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -803,7 +982,7 @@
     {
         "grupo_slug":  "menu-fiscal",
         "slug":  "submenu-fiscal-inutilizacao-de-numeracao",
-        "nome_tela":  "Inutilizacao de numeracao",
+        "nome_tela":  "Inutilização de numeração",
         "menu":  "Fiscal",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -812,7 +991,7 @@
     {
         "grupo_slug":  "menu-fiscal",
         "slug":  "submenu-fiscal-municipios-fiscais",
-        "nome_tela":  "Municipios Fiscais",
+        "nome_tela":  "Municípios Fiscais",
         "menu":  "Fiscal",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -825,7 +1004,8 @@
         "menu":  "Fiscal",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-fiscal-nfce.md"
+        "path":  "docs-content/telas/submenu-fiscal-nfce.md",
+        "parent_slug":  "submenu-fiscal-carta-de-correcao"
     },
     {
         "grupo_slug":  "menu-fiscal",
@@ -834,7 +1014,8 @@
         "menu":  "Fiscal",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-fiscal-nfe.md"
+        "path":  "docs-content/telas/submenu-fiscal-nfe.md",
+        "parent_slug":  "submenu-fiscal-carta-de-correcao"
     },
     {
         "grupo_slug":  "menu-fiscal",
@@ -865,21 +1046,22 @@
     },
     {
         "grupo_slug":  "menu-ingressos",
-        "slug":  "submenu-ingressos-convidados-de-socio",
-        "nome_tela":  "Convidados de socio",
-        "menu":  "Ingressos",
-        "módulo":  "Retaguarda",
-        "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-ingressos-convidados-de-socio.md"
-    },
-    {
-        "grupo_slug":  "menu-ingressos",
         "slug":  "submenu-ingressos-ingresso-avulso",
         "nome_tela":  "Ingresso avulso",
         "menu":  "Ingressos",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
         "path":  "docs-content/telas/submenu-ingressos-ingresso-avulso.md"
+    },
+    {
+        "grupo_slug":  "menu-ingressos",
+        "slug":  "submenu-ingressos-convidados-de-socio-ingressos-de-convidado-de-socio",
+        "nome_tela":  "Ingressos de convidado de sócio",
+        "menu":  "Ingressos",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-ingressos-convidados-de-socio",
+        "path":  "docs-content/telas/submenu-ingressos-convidados-de-socio-ingressos-de-convidado-de-socio.md"
     },
     {
         "grupo_slug":  "menu-ingressos",
@@ -893,7 +1075,7 @@
     {
         "grupo_slug":  "menu-ingressos",
         "slug":  "submenu-ingressos-modelo-de-impressao-de-lote-de-ingresso",
-        "nome_tela":  "Modelo de impressao de lote de ingresso",
+        "nome_tela":  "Modelo de impressão de lote de ingresso",
         "menu":  "Ingressos",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -919,107 +1101,1638 @@
     },
     {
         "grupo_slug":  "menu-ingressos",
-        "slug":  "submenu-ingressos-visitas",
-        "nome_tela":  "Visitas",
+        "slug":  "submenu-ingressos-convidados-de-socio-tipos-de-ingresso-de-convidado",
+        "nome_tela":  "Tipos de ingresso de convidado",
         "menu":  "Ingressos",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-ingressos-visitas.md"
+        "parent_slug":  "submenu-ingressos-convidados-de-socio",
+        "path":  "docs-content/telas/submenu-ingressos-convidados-de-socio-tipos-de-ingresso-de-convidado.md"
+    },
+    {
+        "grupo_slug":  "menu-ingressos",
+        "slug":  "submenu-ingressos-visitas-tipos-de-visita",
+        "nome_tela":  "Tipos de visita",
+        "menu":  "Ingressos",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-ingressos-visitas",
+        "path":  "docs-content/telas/submenu-ingressos-visitas-tipos-de-visita.md"
     },
     {
         "grupo_slug":  "menu-relatorios",
-        "slug":  "submenu-relatorios-acesso",
-        "nome_tela":  "Acesso",
+        "slug":  "submenu-relatorios-acesso-acessos-diarios",
+        "nome_tela":  "Acessos diários",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-relatorios-acesso.md"
+        "parent_slug":  "submenu-relatorios-acesso",
+        "path":  "docs-content/telas/submenu-relatorios-acesso-acessos-diarios.md"
     },
     {
         "grupo_slug":  "menu-relatorios",
-        "slug":  "submenu-relatorios-aluguel",
-        "nome_tela":  "Aluguel",
+        "slug":  "submenu-relatorios-cadastro-entidades-agencias",
+        "nome_tela":  "Agências",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-relatorios-aluguel.md"
+        "parent_slug":  "submenu-relatorios-cadastro-entidades",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-entidades-agencias.md"
     },
     {
         "grupo_slug":  "menu-relatorios",
-        "slug":  "submenu-relatorios-atendimento",
-        "nome_tela":  "Atendimento",
+        "slug":  "submenu-relatorios-venda-voucher-ingresso-internet-b2b",
+        "nome_tela":  "B2B",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-relatorios-atendimento.md"
+        "parent_slug":  "submenu-relatorios-venda-voucher-ingresso-internet",
+        "path":  "docs-content/telas/submenu-relatorios-venda-voucher-ingresso-internet-b2b.md"
     },
     {
         "grupo_slug":  "menu-relatorios",
-        "slug":  "submenu-relatorios-cadastro",
-        "nome_tela":  "Cadastro",
+        "slug":  "submenu-relatorios-cadastro-produtos-produtos-de-aluguel-codigo-de-barras",
+        "nome_tela":  "Código de barras",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-relatorios-cadastro.md"
+        "parent_slug":  "submenu-relatorios-cadastro-produtos-produtos-de-aluguel",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-produtos-produtos-de-aluguel-codigo-de-barras.md"
     },
     {
         "grupo_slug":  "menu-relatorios",
-        "slug":  "submenu-relatorios-cartao-do-estabelecimento",
-        "nome_tela":  "Cartão do estabelecimento",
+        "slug":  "submenu-relatorios-cadastro-produtos-produtos-de-consumo-codigo-de-barras",
+        "nome_tela":  "Código de barras",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento.md"
+        "parent_slug":  "submenu-relatorios-cadastro-produtos-produtos-de-consumo",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-produtos-produtos-de-consumo-codigo-de-barras.md"
     },
     {
         "grupo_slug":  "menu-relatorios",
-        "slug":  "submenu-relatorios-dispositivo",
-        "nome_tela":  "Dispositivo",
+        "slug":  "submenu-relatorios-financeiro-receita-diaria-configuracao",
+        "nome_tela":  "Configuração",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-relatorios-dispositivo.md"
+        "parent_slug":  "submenu-relatorios-financeiro-receita-diaria",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-receita-diaria-configuracao.md"
     },
     {
         "grupo_slug":  "menu-relatorios",
-        "slug":  "submenu-relatorios-estacionamento",
-        "nome_tela":  "Estacionamento",
+        "slug":  "submenu-relatorios-acesso-acessos-por-ponto-de-acesso-consolidado",
+        "nome_tela":  "Consolidado",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-relatorios-estacionamento.md"
+        "parent_slug":  "submenu-relatorios-acesso-acessos-por-ponto-de-acesso",
+        "path":  "docs-content/telas/submenu-relatorios-acesso-acessos-por-ponto-de-acesso-consolidado.md"
     },
     {
         "grupo_slug":  "menu-relatorios",
-        "slug":  "submenu-relatorios-financeiro",
-        "nome_tela":  "Financeiro",
+        "slug":  "submenu-relatorios-acesso-negados-por-motivo-consolidado",
+        "nome_tela":  "Consolidado",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-relatorios-financeiro.md"
+        "parent_slug":  "submenu-relatorios-acesso-negados-por-motivo",
+        "path":  "docs-content/telas/submenu-relatorios-acesso-negados-por-motivo-consolidado.md"
     },
     {
         "grupo_slug":  "menu-relatorios",
-        "slug":  "submenu-relatorios-fiscal",
-        "nome_tela":  "Fiscal",
+        "slug":  "submenu-relatorios-acesso-situacao-geral-consolidado",
+        "nome_tela":  "Consolidado",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-relatorios-fiscal.md"
+        "parent_slug":  "submenu-relatorios-acesso-situacao-geral",
+        "path":  "docs-content/telas/submenu-relatorios-acesso-situacao-geral-consolidado.md"
     },
     {
         "grupo_slug":  "menu-relatorios",
-        "slug":  "submenu-relatorios-ingresso",
-        "nome_tela":  "Ingresso",
+        "slug":  "submenu-relatorios-aluguel-alugueis-consolidado",
+        "nome_tela":  "Consolidado",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-relatorios-ingresso.md"
+        "parent_slug":  "submenu-relatorios-aluguel-alugueis",
+        "path":  "docs-content/telas/submenu-relatorios-aluguel-alugueis-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-aluguel-devolucoes-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-aluguel-devolucoes",
+        "path":  "docs-content/telas/submenu-relatorios-aluguel-devolucoes-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-aluguel-percas-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-aluguel-percas",
+        "path":  "docs-content/telas/submenu-relatorios-aluguel-percas-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-aluguel-trocas-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-aluguel-trocas",
+        "path":  "docs-content/telas/submenu-relatorios-aluguel-trocas-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-atendimento-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-atendimento",
+        "path":  "docs-content/telas/submenu-relatorios-atendimento-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro-produtos-produtos-de-aluguel-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cadastro-produtos-produtos-de-aluguel",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-produtos-produtos-de-aluguel-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro-produtos-produtos-de-clube-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cadastro-produtos-produtos-de-clube",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-produtos-produtos-de-clube-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro-produtos-produtos-de-consumo-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cadastro-produtos-produtos-de-consumo",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-produtos-produtos-de-consumo-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro-produtos-produtos-de-consumo-dados-fiscais-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cadastro-produtos-produtos-de-consumo-dados-fiscais",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-produtos-produtos-de-consumo-dados-fiscais-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro-sistema-loja-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cadastro-sistema-loja",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-sistema-loja-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro-sistema-operador-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cadastro-sistema-operador",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-sistema-operador-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-ativacoes-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-ativacoes",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-ativacoes-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-cartoes-do-estabelecimento-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-cartoes-do-estabelecimento",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-cartoes-do-estabelecimento-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-devolucao-de-saldo-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-devolucao-de-saldo",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-devolucao-de-saldo-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-lote-de-cartoes-de-papa-fila-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-lote-de-cartoes-de-papa-fila",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-lote-de-cartoes-de-papa-fila-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-recargas-e-pagamentos-de-fatura-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-recargas-e-pagamentos-de-fatura",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-recargas-e-pagamentos-de-fatura-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-saldo-de-cartoes-do-estabelecimento-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-saldo-de-cartoes-do-estabelecimento",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-saldo-de-cartoes-do-estabelecimento-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-transferencia-de-saldo-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-transferencia-de-saldo",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-transferencia-de-saldo-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-dispositivo-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-dispositivo",
+        "path":  "docs-content/telas/submenu-relatorios-dispositivo-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-estacionamento-entradas-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-estacionamento-entradas",
+        "path":  "docs-content/telas/submenu-relatorios-estacionamento-entradas-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-estacionamento-pagamentos-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-estacionamento-pagamentos",
+        "path":  "docs-content/telas/submenu-relatorios-estacionamento-pagamentos-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-estacionamento-saidas-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-estacionamento-saidas",
+        "path":  "docs-content/telas/submenu-relatorios-estacionamento-saidas-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-caixa-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-caixa",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-caixa-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-cheques-recebidos-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-cheques-recebidos",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-cheques-recebidos-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-estorno-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-estorno",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-estorno-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-mensalidade-mensalidade-carteirinha-de-socio-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-mensalidade-mensalidade-carteirinha-de-socio",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-mensalidade-mensalidade-carteirinha-de-socio-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-mensalidade-mensalidade-padrao-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-mensalidade-mensalidade-padrao",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-mensalidade-mensalidade-padrao-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-movimento-de-caixa-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-movimento-de-caixa",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-movimento-de-caixa-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-previsao-de-receita-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-previsao-de-receita",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-previsao-de-receita-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-receita-aluguel-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-receita-aluguel",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-receita-aluguel-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-receita-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-receita",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-receita-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-receita-estacionamento-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-receita-estacionamento",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-receita-estacionamento-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-receita-ingressos-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-receita-ingressos",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-receita-ingressos-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-titulo-de-cobranca-bancaria-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-titulo-de-cobranca-bancaria",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-titulo-de-cobranca-bancaria-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-titulo-de-cobranca-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-titulo-de-cobranca",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-titulo-de-cobranca-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-titulo-de-debito-em-conta-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-titulo-de-debito-em-conta",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-titulo-de-debito-em-conta-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-fiscal-nfce-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-fiscal-nfce",
+        "path":  "docs-content/telas/submenu-relatorios-fiscal-nfce-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-fiscal-nfe-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-fiscal-nfe",
+        "path":  "docs-content/telas/submenu-relatorios-fiscal-nfe-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-fiscal-nfse-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-fiscal-nfse",
+        "path":  "docs-content/telas/submenu-relatorios-fiscal-nfse-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-ingresso-comissoes-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-ingresso-comissoes",
+        "path":  "docs-content/telas/submenu-relatorios-ingresso-comissoes-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-ingresso-lotes-de-ingresso-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-ingresso-lotes-de-ingresso",
+        "path":  "docs-content/telas/submenu-relatorios-ingresso-lotes-de-ingresso-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-ingresso-previsao-de-vouchers-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-ingresso-previsao-de-vouchers",
+        "path":  "docs-content/telas/submenu-relatorios-ingresso-previsao-de-vouchers-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-ingresso-resgate-de-ingresso-internet-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-ingresso-resgate-de-ingresso-internet",
+        "path":  "docs-content/telas/submenu-relatorios-ingresso-resgate-de-ingresso-internet-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-tef-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-tef",
+        "path":  "docs-content/telas/submenu-relatorios-tef-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-acessos-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-acessos",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-acessos-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-cancelamento-de-titulo-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-cancelamento-de-titulo",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-cancelamento-de-titulo-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-comissoes-baixas-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-comissoes-baixas",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-comissoes-baixas-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-concessao-e-devolucao-de-credito-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-concessao-e-devolucao-de-credito",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-concessao-e-devolucao-de-credito-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-geral-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-geral",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-geral-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-perfil-de-faixa-etaria-de-socios-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-perfil-de-faixa-etaria-de-socios",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-perfil-de-faixa-etaria-de-socios-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-socios-por-estados-e-por-cidades-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-socios-por-estados-e-por-cidades",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-socios-por-estados-e-por-cidades-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-talonario-lote-de-talonario-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-talonario-lote-de-talonario",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-talonario-lote-de-talonario-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-talonario-talonario-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-talonario-talonario",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-talonario-talonario-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-titulos-de-socio-com-pendencias-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-titulos-de-socio-com-pendencias",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-titulos-de-socio-com-pendencias-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-transferencia-de-titulo-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-transferencia-de-titulo",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-transferencia-de-titulo-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-valores-em-circulacao-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-valores-em-circulacao",
+        "path":  "docs-content/telas/submenu-relatorios-valores-em-circulacao-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-campanhas-de-venda-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-campanhas-de-venda",
+        "path":  "docs-content/telas/submenu-relatorios-venda-campanhas-de-venda-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-ingresso-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-ingresso",
+        "path":  "docs-content/telas/submenu-relatorios-venda-ingresso-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-produto-de-consumo-ticket-medio-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-produto-de-consumo-ticket-medio",
+        "path":  "docs-content/telas/submenu-relatorios-venda-produto-de-consumo-ticket-medio-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-produto-de-consumo-vendas-por-loja-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-produto-de-consumo-vendas-por-loja",
+        "path":  "docs-content/telas/submenu-relatorios-venda-produto-de-consumo-vendas-por-loja-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-produto-de-consumo-vendas-por-produto-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-produto-de-consumo-vendas-por-produto",
+        "path":  "docs-content/telas/submenu-relatorios-venda-produto-de-consumo-vendas-por-produto-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-produto-do-clube-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-produto-do-clube",
+        "path":  "docs-content/telas/submenu-relatorios-venda-produto-do-clube-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-titulos-de-socio-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-titulos-de-socio",
+        "path":  "docs-content/telas/submenu-relatorios-venda-titulos-de-socio-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-titulos-de-socio-por-plano-de-venda-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-titulos-de-socio-por-plano-de-venda",
+        "path":  "docs-content/telas/submenu-relatorios-venda-titulos-de-socio-por-plano-de-venda-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-voucher-ingresso-internet-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-voucher-ingresso-internet",
+        "path":  "docs-content/telas/submenu-relatorios-venda-voucher-ingresso-internet-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-visita-consolidado",
+        "nome_tela":  "Consolidado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-visita",
+        "path":  "docs-content/telas/submenu-relatorios-visita-consolidado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-fiscal-cfe-consolidado-tributos",
+        "nome_tela":  "Consolidado (tributos)",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-fiscal-cfe",
+        "path":  "docs-content/telas/submenu-relatorios-fiscal-cfe-consolidado-tributos.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-pensao-consumacao-por-restaurante-por-dia",
+        "nome_tela":  "Consumação por restaurante por dia",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-pensao",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-pensao-consumacao-por-restaurante-por-dia.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-produto-de-consumo-consumos-por-loja-dia",
+        "nome_tela":  "Consumos por loja/dia",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-produto-de-consumo",
+        "path":  "docs-content/telas/submenu-relatorios-venda-produto-de-consumo-consumos-por-loja-dia.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-produto-de-consumo-consumos-por-loja-hora",
+        "nome_tela":  "Consumos por loja/hora",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-produto-de-consumo",
+        "path":  "docs-content/telas/submenu-relatorios-venda-produto-de-consumo-consumos-por-loja-hora.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro-entidades-corretores",
+        "nome_tela":  "Corretores",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cadastro-entidades",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-entidades-corretores.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-pensao-creditos-pensao",
+        "nome_tela":  "Créditos Pensão",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-pensao",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-pensao-creditos-pensao.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-voucher-de-desconto-descontos-aplicados-por-ativacao-de-cartao-de-consumo",
+        "nome_tela":  "Descontos aplicados por ativação de cartão de consumo",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-voucher-de-desconto",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-voucher-de-desconto-descontos-aplicados-por-ativacao-de-cartao-de-consumo.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-acesso-acessos-por-ponto-de-acesso-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-acesso-acessos-por-ponto-de-acesso",
+        "path":  "docs-content/telas/submenu-relatorios-acesso-acessos-por-ponto-de-acesso-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-acesso-acessos-unicos-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-acesso-acessos-unicos",
+        "path":  "docs-content/telas/submenu-relatorios-acesso-acessos-unicos-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-acesso-negados-por-motivo-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-acesso-negados-por-motivo",
+        "path":  "docs-content/telas/submenu-relatorios-acesso-negados-por-motivo-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-acesso-situacao-geral-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-acesso-situacao-geral",
+        "path":  "docs-content/telas/submenu-relatorios-acesso-situacao-geral-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-aluguel-alugueis-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-aluguel-alugueis",
+        "path":  "docs-content/telas/submenu-relatorios-aluguel-alugueis-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-aluguel-devolucoes-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-aluguel-devolucoes",
+        "path":  "docs-content/telas/submenu-relatorios-aluguel-devolucoes-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-aluguel-percas-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-aluguel-percas",
+        "path":  "docs-content/telas/submenu-relatorios-aluguel-percas-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-aluguel-trocas-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-aluguel-trocas",
+        "path":  "docs-content/telas/submenu-relatorios-aluguel-trocas-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-atendimento-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-atendimento",
+        "path":  "docs-content/telas/submenu-relatorios-atendimento-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro-produtos-produtos-de-aluguel-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cadastro-produtos-produtos-de-aluguel",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-produtos-produtos-de-aluguel-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro-produtos-produtos-de-clube-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cadastro-produtos-produtos-de-clube",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-produtos-produtos-de-clube-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro-produtos-produtos-de-consumo-dados-fiscais-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cadastro-produtos-produtos-de-consumo-dados-fiscais",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-produtos-produtos-de-consumo-dados-fiscais-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro-produtos-produtos-de-consumo-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cadastro-produtos-produtos-de-consumo",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-produtos-produtos-de-consumo-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro-produtos-produtos-de-estacionamento-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cadastro-produtos-produtos-de-estacionamento",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-produtos-produtos-de-estacionamento-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro-sistema-loja-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cadastro-sistema-loja",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-sistema-loja-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro-sistema-operador-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cadastro-sistema-operador",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-sistema-operador-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-ativacoes-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-ativacoes",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-ativacoes-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-cartoes-do-estabelecimento-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-cartoes-do-estabelecimento",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-cartoes-do-estabelecimento-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-devolucao-de-saldo-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-devolucao-de-saldo",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-devolucao-de-saldo-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-lote-de-cartoes-de-papa-fila-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-lote-de-cartoes-de-papa-fila",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-lote-de-cartoes-de-papa-fila-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-recargas-e-pagamentos-de-fatura-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-recargas-e-pagamentos-de-fatura",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-recargas-e-pagamentos-de-fatura-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-saldo-de-cartoes-do-estabelecimento-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-saldo-de-cartoes-do-estabelecimento",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-saldo-de-cartoes-do-estabelecimento-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-transferencia-de-saldo-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-transferencia-de-saldo",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-transferencia-de-saldo-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-voucher-de-desconto-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-voucher-de-desconto",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-voucher-de-desconto-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-dispositivo-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-dispositivo",
+        "path":  "docs-content/telas/submenu-relatorios-dispositivo-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-estacionamento-entradas-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-estacionamento-entradas",
+        "path":  "docs-content/telas/submenu-relatorios-estacionamento-entradas-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-estacionamento-pagamentos-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-estacionamento-pagamentos",
+        "path":  "docs-content/telas/submenu-relatorios-estacionamento-pagamentos-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-estacionamento-saidas-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-estacionamento-saidas",
+        "path":  "docs-content/telas/submenu-relatorios-estacionamento-saidas-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-caixa-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-caixa",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-caixa-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-cheques-recebidos-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-cheques-recebidos",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-cheques-recebidos-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-cotas-de-titulos-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-cotas-de-titulos",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-cotas-de-titulos-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-mensalidade-mensalidade-carteirinha-de-socio-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-mensalidade-mensalidade-carteirinha-de-socio",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-mensalidade-mensalidade-carteirinha-de-socio-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-mensalidade-mensalidade-padrao-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-mensalidade-mensalidade-padrao",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-mensalidade-mensalidade-padrao-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-movimento-de-caixa-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-movimento-de-caixa",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-movimento-de-caixa-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-previsao-de-receita-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-previsao-de-receita",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-previsao-de-receita-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-receita-aluguel-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-receita-aluguel",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-receita-aluguel-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-receita-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-receita",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-receita-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-receita-diaria-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-receita-diaria",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-receita-diaria-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-receita-estacionamento-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-receita-estacionamento",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-receita-estacionamento-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-receita-ingressos-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-receita-ingressos",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-receita-ingressos-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-titulo-de-cobranca-bancaria-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-titulo-de-cobranca-bancaria",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-titulo-de-cobranca-bancaria-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-titulo-de-cobranca-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-titulo-de-cobranca",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-titulo-de-cobranca-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-titulo-de-debito-em-conta-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-titulo-de-debito-em-conta",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-titulo-de-debito-em-conta-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-fiscal-cfe-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-fiscal-cfe",
+        "path":  "docs-content/telas/submenu-relatorios-fiscal-cfe-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-fiscal-nfce-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-fiscal-nfce",
+        "path":  "docs-content/telas/submenu-relatorios-fiscal-nfce-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-fiscal-nfe-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-fiscal-nfe",
+        "path":  "docs-content/telas/submenu-relatorios-fiscal-nfe-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-fiscal-nfse-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-fiscal-nfse",
+        "path":  "docs-content/telas/submenu-relatorios-fiscal-nfse-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-ingresso-comissoes-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-ingresso-comissoes",
+        "path":  "docs-content/telas/submenu-relatorios-ingresso-comissoes-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-ingresso-lotes-de-ingresso-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-ingresso-lotes-de-ingresso",
+        "path":  "docs-content/telas/submenu-relatorios-ingresso-lotes-de-ingresso-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-ingresso-previsao-de-vouchers-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-ingresso-previsao-de-vouchers",
+        "path":  "docs-content/telas/submenu-relatorios-ingresso-previsao-de-vouchers-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-ingresso-resgate-de-ingresso-internet-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-ingresso-resgate-de-ingresso-internet",
+        "path":  "docs-content/telas/submenu-relatorios-ingresso-resgate-de-ingresso-internet-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-tef-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-tef",
+        "path":  "docs-content/telas/submenu-relatorios-tef-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-acessos-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-acessos",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-acessos-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-aniversario-de-socios-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-aniversario-de-socios",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-aniversario-de-socios-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-cancelamento-de-titulo-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-cancelamento-de-titulo",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-cancelamento-de-titulo-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-comissoes-baixas-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-comissoes-baixas",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-comissoes-baixas-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-concessao-e-devolucao-de-credito-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-concessao-e-devolucao-de-credito",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-concessao-e-devolucao-de-credito-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-geral-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-geral",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-geral-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-talonario-lote-de-talonario-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-talonario-lote-de-talonario",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-talonario-lote-de-talonario-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-talonario-talonario-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-talonario-talonario",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-talonario-talonario-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-titulos-de-socio-com-pendencias-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-titulos-de-socio-com-pendencias",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-titulos-de-socio-com-pendencias-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-transferencia-de-titulo-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-transferencia-de-titulo",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-transferencia-de-titulo-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-valores-em-circulacao-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-valores-em-circulacao",
+        "path":  "docs-content/telas/submenu-relatorios-valores-em-circulacao-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-campanhas-de-venda-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-campanhas-de-venda",
+        "path":  "docs-content/telas/submenu-relatorios-venda-campanhas-de-venda-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-cupom-de-desconto-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-cupom-de-desconto",
+        "path":  "docs-content/telas/submenu-relatorios-venda-cupom-de-desconto-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-ingresso-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-ingresso",
+        "path":  "docs-content/telas/submenu-relatorios-venda-ingresso-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-ingressos-de-socio-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-ingressos-de-socio",
+        "path":  "docs-content/telas/submenu-relatorios-venda-ingressos-de-socio-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-produto-de-consumo-ticket-medio-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-produto-de-consumo-ticket-medio",
+        "path":  "docs-content/telas/submenu-relatorios-venda-produto-de-consumo-ticket-medio-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-produto-de-consumo-vendas-por-loja-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-produto-de-consumo-vendas-por-loja",
+        "path":  "docs-content/telas/submenu-relatorios-venda-produto-de-consumo-vendas-por-loja-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-produto-de-consumo-vendas-por-produto-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-produto-de-consumo-vendas-por-produto",
+        "path":  "docs-content/telas/submenu-relatorios-venda-produto-de-consumo-vendas-por-produto-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-produto-do-clube-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-produto-do-clube",
+        "path":  "docs-content/telas/submenu-relatorios-venda-produto-do-clube-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-titulos-de-socio-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-titulos-de-socio",
+        "path":  "docs-content/telas/submenu-relatorios-venda-titulos-de-socio-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-titulos-de-socio-por-plano-de-venda-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-titulos-de-socio-por-plano-de-venda",
+        "path":  "docs-content/telas/submenu-relatorios-venda-titulos-de-socio-por-plano-de-venda-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-voucher-estacionamento-internet-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-voucher-estacionamento-internet",
+        "path":  "docs-content/telas/submenu-relatorios-venda-voucher-estacionamento-internet-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-voucher-ingresso-internet-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-voucher-ingresso-internet",
+        "path":  "docs-content/telas/submenu-relatorios-venda-voucher-ingresso-internet-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-visita-detalhado",
+        "nome_tela":  "Detalhado",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-visita",
+        "path":  "docs-content/telas/submenu-relatorios-visita-detalhado.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-fiscal-cfe-detalhado-tributos",
+        "nome_tela":  "Detalhado (tributos)",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-fiscal-cfe",
+        "path":  "docs-content/telas/submenu-relatorios-fiscal-cfe-detalhado-tributos.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-extrato-de-cartao-do-estabelecimento",
+        "nome_tela":  "Extrato de cartão do estabelecimento",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-extrato-de-cartao-do-estabelecimento.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-saldo-de-cartoes-do-estabelecimento-geral",
+        "nome_tela":  "Geral",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-saldo-de-cartoes-do-estabelecimento",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-saldo-de-cartoes-do-estabelecimento-geral.md"
     },
     {
         "grupo_slug":  "menu-relatorios",
         "slug":  "submenu-relatorios-integracao",
-        "nome_tela":  "Integracao",
+        "nome_tela":  "Integração",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -1027,57 +2740,293 @@
     },
     {
         "grupo_slug":  "menu-relatorios",
-        "slug":  "submenu-relatorios-tef",
-        "nome_tela":  "TEF",
+        "slug":  "submenu-relatorios-fiscal-inutilizacao-de-numeracao",
+        "nome_tela":  "Inutilização de numeração",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-relatorios-tef.md"
+        "parent_slug":  "submenu-relatorios-fiscal",
+        "path":  "docs-content/telas/submenu-relatorios-fiscal-inutilizacao-de-numeracao.md"
     },
     {
         "grupo_slug":  "menu-relatorios",
-        "slug":  "submenu-relatorios-titulo-de-socio",
-        "nome_tela":  "Título de sócio",
+        "slug":  "submenu-relatorios-fiscal-nf-x-consumos",
+        "nome_tela":  "NF x Consumos",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio.md"
+        "parent_slug":  "submenu-relatorios-fiscal",
+        "path":  "docs-content/telas/submenu-relatorios-fiscal-nf-x-consumos.md"
     },
     {
         "grupo_slug":  "menu-relatorios",
-        "slug":  "submenu-relatorios-valores-em-circulacao",
-        "nome_tela":  "Valores em circulacao",
+        "slug":  "submenu-relatorios-fiscal-carta-de-correcao-nfce",
+        "nome_tela":  "NFCe",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-relatorios-valores-em-circulacao.md"
+        "parent_slug":  "submenu-relatorios-fiscal-carta-de-correcao",
+        "path":  "docs-content/telas/submenu-relatorios-fiscal-carta-de-correcao-nfce.md"
     },
     {
         "grupo_slug":  "menu-relatorios",
-        "slug":  "submenu-relatorios-venda",
-        "nome_tela":  "Venda",
+        "slug":  "submenu-relatorios-fiscal-carta-de-correcao-nfe",
+        "nome_tela":  "NFe",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-relatorios-venda.md"
+        "parent_slug":  "submenu-relatorios-fiscal-carta-de-correcao",
+        "path":  "docs-content/telas/submenu-relatorios-fiscal-carta-de-correcao-nfe.md"
     },
     {
         "grupo_slug":  "menu-relatorios",
-        "slug":  "submenu-relatorios-visita",
-        "nome_tela":  "Visita",
+        "slug":  "submenu-relatorios-fiscal-nfse-x-servicos",
+        "nome_tela":  "NFSe x Serviços",
         "menu":  "Relatórios",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-relatorios-visita.md"
+        "parent_slug":  "submenu-relatorios-fiscal",
+        "path":  "docs-content/telas/submenu-relatorios-fiscal-nfse-x-servicos.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cadastro-entidades-pessoas",
+        "nome_tela":  "Pessoas",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cadastro-entidades",
+        "path":  "docs-content/telas/submenu-relatorios-cadastro-entidades-pessoas.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-quadro-de-socios",
+        "nome_tela":  "Quadro de sócios",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-quadro-de-socios.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-recebiveis-por-titulo-de-socio",
+        "nome_tela":  "Recebíveis por título de sócio",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-recebiveis-por-titulo-de-socio.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-ingresso-relacao-de-clientes-adquirentes",
+        "nome_tela":  "Relação de clientes adquirentes",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-ingresso",
+        "path":  "docs-content/telas/submenu-relatorios-ingresso-relacao-de-clientes-adquirentes.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-financeiro-receita-diaria-riviera",
+        "nome_tela":  "Riviera",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-financeiro-receita-diaria",
+        "path":  "docs-content/telas/submenu-relatorios-financeiro-receita-diaria-riviera.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-cartao-do-estabelecimento-saldo-de-cartoes-do-estabelecimento-saldo-e-movimentacoes",
+        "nome_tela":  "Saldo e movimentações",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-cartao-do-estabelecimento-saldo-de-cartoes-do-estabelecimento",
+        "path":  "docs-content/telas/submenu-relatorios-cartao-do-estabelecimento-saldo-de-cartoes-do-estabelecimento-saldo-e-movimentacoes.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-titulo-de-socio-comissoes-situacao",
+        "nome_tela":  "Situação",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-titulo-de-socio-comissoes",
+        "path":  "docs-content/telas/submenu-relatorios-titulo-de-socio-comissoes-situacao.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-produto-de-consumo-vendas-por-ativacao-de-cartao-de-consumo",
+        "nome_tela":  "Vendas por ativação de cartão de consumo",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-produto-de-consumo",
+        "path":  "docs-content/telas/submenu-relatorios-venda-produto-de-consumo-vendas-por-ativacao-de-cartao-de-consumo.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-produto-de-consumo-vendas-por-consumo",
+        "nome_tela":  "Vendas por consumo",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-produto-de-consumo",
+        "path":  "docs-content/telas/submenu-relatorios-venda-produto-de-consumo-vendas-por-consumo.md"
+    },
+    {
+        "grupo_slug":  "menu-relatorios",
+        "slug":  "submenu-relatorios-venda-produto-de-consumo-vendas-por-tipo-de-cartao",
+        "nome_tela":  "Vendas por tipo de cartão",
+        "menu":  "Relatórios",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-relatorios-venda-produto-de-consumo",
+        "path":  "docs-content/telas/submenu-relatorios-venda-produto-de-consumo-vendas-por-tipo-de-cartao.md"
     },
     {
         "grupo_slug":  "menu-sistema",
-        "slug":  "submenu-sistema-configuracoes",
-        "nome_tela":  "Configuracoes",
+        "slug":  "submenu-sistema-configuracoes-acesso-acesso-e-capacidade-do-estabelecimento",
+        "nome_tela":  "Acesso e capacidade do estabelecimento",
         "menu":  "Sistema",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-sistema-configuracoes.md"
+        "parent_slug":  "submenu-sistema-configuracoes-acesso",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-acesso-acesso-e-capacidade-do-estabelecimento.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-background-agendador-de-tarefas",
+        "nome_tela":  "Agendador de tarefas",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-background",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-background-agendador-de-tarefas.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-integracao-allpoints",
+        "nome_tela":  "Allpoints",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-integracao",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-integracao-allpoints.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-integracao-api",
+        "nome_tela":  "API",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-integracao",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-integracao-api.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-background-armazenamento-de-arquivos",
+        "nome_tela":  "Armazenamento de arquivos",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-background",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-background-armazenamento-de-arquivos.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-titulo-de-socio-biometria",
+        "nome_tela":  "Biometria",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-titulo-de-socio",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-titulo-de-socio-biometria.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-integracao-chopp-flux",
+        "nome_tela":  "Chopp Flux",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-integracao",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-integracao-chopp-flux.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-titulo-de-socio-comissao-de-titulo",
+        "nome_tela":  "Comissão de título",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-titulo-de-socio",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-titulo-de-socio-comissao-de-titulo.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-entidades-configuracao-cadastro-pessoa",
+        "nome_tela":  "Configuração cadastro pessoa",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-entidades",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-entidades-configuracao-cadastro-pessoa.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-background-configuracao-de-data-limite",
+        "nome_tela":  "Configuração de data limite",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-background",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-background-configuracao-de-data-limite.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-cartao-de-consumo-configuracoes-de-pensao",
+        "nome_tela":  "Configurações de pensão",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-cartao-de-consumo",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-cartao-de-consumo-configuracoes-de-pensao.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-titulo-de-socio-declaracao-de-quitacao-de-debitos",
+        "nome_tela":  "Declaração de quitação de débitos",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-titulo-de-socio",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-titulo-de-socio-declaracao-de-quitacao-de-debitos.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-produto-de-consumo-devolucao-de-produtos-de-consumo",
+        "nome_tela":  "Devolução de produtos de consumo",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-produto-de-consumo",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-produto-de-consumo-devolucao-de-produtos-de-consumo.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-cartao-de-consumo-devolucao-de-saldo-do-cartao-de-consumo",
+        "nome_tela":  "Devolução de saldo do cartão de consumo",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-cartao-de-consumo",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-cartao-de-consumo-devolucao-de-saldo-do-cartao-de-consumo.md"
     },
     {
         "grupo_slug":  "menu-sistema",
@@ -1099,6 +3048,86 @@
     },
     {
         "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-fiscal-nota-fiscal-eletronica-notas-fiscais-de-servicos-emissao",
+        "nome_tela":  "Emissão",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-fiscal-nota-fiscal-eletronica-notas-fiscais-de-servicos",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-fiscal-nota-fiscal-eletronica-notas-fiscais-de-servicos-emissao.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-fiscal-nota-fiscal-eletronica-emissao-automatica-cfe",
+        "nome_tela":  "Emissão automática CFe",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-fiscal-nota-fiscal-eletronica",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-fiscal-nota-fiscal-eletronica-emissao-automatica-cfe.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-fiscal-nota-fiscal-eletronica-emissao-automatica-nfce",
+        "nome_tela":  "Emissão automática NFCe",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-fiscal-nota-fiscal-eletronica",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-fiscal-nota-fiscal-eletronica-emissao-automatica-nfce.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-fiscal-nota-fiscal-eletronica-emissao-automatica-nfe",
+        "nome_tela":  "Emissão automática NFe",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-fiscal-nota-fiscal-eletronica",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-fiscal-nota-fiscal-eletronica-emissao-automatica-nfe.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-background-envio-de-e-mail",
+        "nome_tela":  "Envio de e-mail",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-background",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-background-envio-de-e-mail.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-background-estabelecimentos-e-gateways-tef",
+        "nome_tela":  "Estabelecimentos e gateways TEF",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-background",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-background-estabelecimentos-e-gateways-tef.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-fiscal-estabelecimentos-fiscais",
+        "nome_tela":  "Estabelecimentos fiscais",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-fiscal",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-fiscal-estabelecimentos-fiscais.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-titulo-de-socio-formas-de-pagamento-de-talonario",
+        "nome_tela":  "Formas de pagamento de talonário",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-titulo-de-socio",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-titulo-de-socio-formas-de-pagamento-de-talonario.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
         "slug":  "submenu-sistema-grupos-de-operadores-do-sistema",
         "nome_tela":  "Grupos de operadores do sistema",
         "menu":  "Sistema",
@@ -1108,12 +3137,32 @@
     },
     {
         "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-cartao-de-consumo-limites-de-operacoes-com-cartao-de-consumo",
+        "nome_tela":  "Limites de operações com cartão de consumo",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-cartao-de-consumo",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-cartao-de-consumo-limites-de-operacoes-com-cartao-de-consumo.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
         "slug":  "submenu-sistema-locais-de-impressao",
-        "nome_tela":  "Locais de impressao",
+        "nome_tela":  "Locais de impressão",
         "menu":  "Sistema",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
         "path":  "docs-content/telas/submenu-sistema-locais-de-impressao.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-background-logs",
+        "nome_tela":  "Logs",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-background",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-background-logs.md"
     },
     {
         "grupo_slug":  "menu-sistema",
@@ -1126,6 +3175,36 @@
     },
     {
         "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-titulo-de-socio-mensalidades-de-titulo-de-socio",
+        "nome_tela":  "Mensalidades de título de sócio",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-titulo-de-socio",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-titulo-de-socio-mensalidades-de-titulo-de-socio.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-sitef-menu-gerencial-sitef",
+        "nome_tela":  "Menu gerencial SiTef",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-sitef",
+        "path":  "docs-content/telas/submenu-sistema-sitef-menu-gerencial-sitef.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-cartao-de-consumo-modo-de-desconto-automatico-do-cartao-de-consumo",
+        "nome_tela":  "Modo de desconto automático do cartão de consumo",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-cartao-de-consumo",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-cartao-de-consumo-modo-de-desconto-automatico-do-cartao-de-consumo.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
         "slug":  "submenu-sistema-operadores-do-sistema",
         "nome_tela":  "Operadores do sistema",
         "menu":  "Sistema",
@@ -1135,12 +3214,113 @@
     },
     {
         "grupo_slug":  "menu-sistema",
-        "slug":  "submenu-sistema-sitef",
-        "nome_tela":  "SiTef",
+        "slug":  "submenu-sistema-configuracoes-financeiro-parcelamento-padrao",
+        "nome_tela":  "Parcelamento padrão",
         "menu":  "Sistema",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-sistema-sitef.md"
+        "parent_slug":  "submenu-sistema-configuracoes-financeiro",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-financeiro-parcelamento-padrao.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-paginas-online-portal-do-socio",
+        "nome_tela":  "Portal do sócio",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-paginas-online",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-paginas-online-portal-do-socio.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-background-servico-de-documentos-fiscais",
+        "nome_tela":  "Serviço de documentos fiscais",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-background",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-background-servico-de-documentos-fiscais.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-fiscal-nota-fiscal-eletronica-notas-fiscais-de-servicos-sincronizacao-automatica",
+        "nome_tela":  "Sincronização automática",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-fiscal-nota-fiscal-eletronica-notas-fiscais-de-servicos",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-fiscal-nota-fiscal-eletronica-notas-fiscais-de-servicos-sincronizacao-automatica.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-background-sincronizacao-com-servidor-de-banco-de-dados",
+        "nome_tela":  "Sincronização com servidor de banco de dados",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-background",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-background-sincronizacao-com-servidor-de-banco-de-dados.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-integracao-smartlocker",
+        "nome_tela":  "SmartLocker",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-integracao",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-integracao-smartlocker.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-paginas-online-socius-meu-cartao",
+        "nome_tela":  "Socius Meu Cartão",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-paginas-online",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-paginas-online-socius-meu-cartao.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-sitef-testar-comunicacao-com-o-sitef",
+        "nome_tela":  "Testar comunicação com o SiTef",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-sitef",
+        "path":  "docs-content/telas/submenu-sistema-sitef-testar-comunicacao-com-o-sitef.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-sitef-token-tls",
+        "nome_tela":  "Token TLS",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-sitef",
+        "path":  "docs-content/telas/submenu-sistema-sitef-token-tls.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-paginas-online-venda-pela-internet",
+        "nome_tela":  "Venda pela internet",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-paginas-online",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-paginas-online-venda-pela-internet.md"
+    },
+    {
+        "grupo_slug":  "menu-sistema",
+        "slug":  "submenu-sistema-configuracoes-integracao-vmpay",
+        "nome_tela":  "VmPay",
+        "menu":  "Sistema",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-sistema-configuracoes-integracao",
+        "path":  "docs-content/telas/submenu-sistema-configuracoes-integracao-vmpay.md"
     },
     {
         "grupo_slug":  "menu-titulos-de-socio",
@@ -1150,6 +3330,26 @@
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
         "path":  "docs-content/telas/submenu-titulos-de-socio-baixa-de-comissoes.md"
+    },
+    {
+        "grupo_slug":  "menu-titulos-de-socio",
+        "slug":  "submenu-titulos-de-socio-talonarios-baixa-manual-de-talonarios",
+        "nome_tela":  "Baixa manual de talonários",
+        "menu":  "Títulos de sócio",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-titulos-de-socio-talonarios",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-talonarios-baixa-manual-de-talonarios.md"
+    },
+    {
+        "grupo_slug":  "menu-titulos-de-socio",
+        "slug":  "submenu-titulos-de-socio-talonarios-cancelamentos-de-talonarios",
+        "nome_tela":  "Cancelamentos de talonários",
+        "menu":  "Títulos de sócio",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-titulos-de-socio-talonarios",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-talonarios-cancelamentos-de-talonarios.md"
     },
     {
         "grupo_slug":  "menu-titulos-de-socio",
@@ -1163,7 +3363,7 @@
     {
         "grupo_slug":  "menu-titulos-de-socio",
         "slug":  "submenu-titulos-de-socio-consulta-de-voucher-de-titulo",
-        "nome_tela":  "Consulta de voucher de título",
+        "nome_tela":  "Consulta de voucher de título ",
         "menu":  "Títulos de sócio",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -1171,8 +3371,18 @@
     },
     {
         "grupo_slug":  "menu-titulos-de-socio",
+        "slug":  "submenu-titulos-de-socio-talonarios-lote-de-talonario",
+        "nome_tela":  "Lote de talonário",
+        "menu":  "Títulos de sócio",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-titulos-de-socio-talonarios",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-talonarios-lote-de-talonario.md"
+    },
+    {
+        "grupo_slug":  "menu-titulos-de-socio",
         "slug":  "submenu-titulos-de-socio-modelo-de-carteirinha-de-socio",
-        "nome_tela":  "Modelo de carteirinha de socio",
+        "nome_tela":  "Modelo de carteirinha de sócio",
         "menu":  "Títulos de sócio",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -1180,12 +3390,13 @@
     },
     {
         "grupo_slug":  "menu-titulos-de-socio",
-        "slug":  "submenu-titulos-de-socio-talonarios",
-        "nome_tela":  "Talonários",
+        "slug":  "submenu-titulos-de-socio-talonarios-motivos-de-cancelamento",
+        "nome_tela":  "Motivos de cancelamento",
         "menu":  "Títulos de sócio",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
-        "path":  "docs-content/telas/submenu-titulos-de-socio-talonarios.md"
+        "parent_slug":  "submenu-titulos-de-socio-talonarios",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-talonarios-motivos-de-cancelamento.md"
     },
     {
         "grupo_slug":  "menu-titulos-de-socio",
@@ -1204,6 +3415,16 @@
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
         "path":  "docs-content/telas/submenu-titulos-de-socio-tipos-de-pendencias.md"
+    },
+    {
+        "grupo_slug":  "menu-titulos-de-socio",
+        "slug":  "submenu-titulos-de-socio-talonarios-tipos-de-talonario",
+        "nome_tela":  "Tipos de talonário",
+        "menu":  "Títulos de sócio",
+        "módulo":  "Retaguarda",
+        "versão_minima":  "1.9.13",
+        "parent_slug":  "submenu-titulos-de-socio-talonarios",
+        "path":  "docs-content/telas/submenu-titulos-de-socio-talonarios-tipos-de-talonario.md"
     },
     {
         "grupo_slug":  "menu-titulos-de-socio",
@@ -1262,7 +3483,7 @@
     {
         "grupo_slug":  "menu-utilitarios",
         "slug":  "submenu-utilitarios-encerramento-forcado-de-atendimento",
-        "nome_tela":  "Encerramento forcado de atendimento",
+        "nome_tela":  "Encerramento forçado de atendimento",
         "menu":  "Utilitários",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -1271,7 +3492,7 @@
     {
         "grupo_slug":  "menu-utilitarios",
         "slug":  "submenu-utilitarios-impressao-de-lote-de-ingresso-avulso",
-        "nome_tela":  "Impressao de lote de ingresso avulso",
+        "nome_tela":  "Impressão de lote de ingresso avulso",
         "menu":  "Utilitários",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -1280,7 +3501,7 @@
     {
         "grupo_slug":  "menu-utilitarios",
         "slug":  "submenu-utilitarios-ler-codigos-nfc",
-        "nome_tela":  "Ler codigos NFC",
+        "nome_tela":  "Ler códigos NFC",
         "menu":  "Utilitários",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
@@ -1289,7 +3510,7 @@
     {
         "grupo_slug":  "menu-utilitarios",
         "slug":  "submenu-utilitarios-lista-de-e-mails-invalidos",
-        "nome_tela":  "Lista de e-mails invalidos",
+        "nome_tela":  "Lista de e-mails inválidos",
         "menu":  "Utilitários",
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",

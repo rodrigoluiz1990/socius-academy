@@ -180,8 +180,9 @@ function wireGlobalSearchButton() {
       fetchJson("docs-content/index-processos.json").catch(() => []),
       fetchJson("docs-content/index-trilhas.json").catch(() => [])
     ]);
+    const telasFiltradas = telas.filter(item => item.path && (pick(item, "tipo") || "").toLowerCase() !== "pasta");
     itemsCache = [
-      ...telas.map(mapTelaItem),
+      ...telasFiltradas.map(mapTelaItem),
       ...processos.map(mapProcessoItem),
       ...trilhas.map(mapTrilhaItem)
     ];
