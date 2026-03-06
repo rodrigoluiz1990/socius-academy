@@ -76,10 +76,10 @@ Campos obrigatórios mínimos para salvar:
 
 ### Onde este cadastro é utilizado
 
-- **Atendimento (início/encerramento):** utiliza a forma de atendimento ao registrar o atendimento.
+- **Atendimento:** utiliza a forma de atendimento como filtro.
+- **Encerrar atendimento:** utiliza a forma de atendimento na finalização do atendimento.
 - **Assuntos de atendimento:** utiliza a forma de atendimento para vincular o assunto.
-- **Histórico de atendimento:** utiliza a forma de atendimento como filtro.
-- **Relatórios de atendimento (consolidado/detalhado):** utiliza a forma de atendimento como filtro.
+- **Relatório de atendimento (consolidado/detalhado):** utiliza a forma de atendimento como filtro.
 - **Fechamento forçado de atendimento:** utiliza a forma de atendimento para finalizar atendimentos pendentes.
 
 ### Cadastros necessários para preencher esta tela
