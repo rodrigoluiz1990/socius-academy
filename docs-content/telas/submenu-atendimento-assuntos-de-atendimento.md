@@ -79,11 +79,11 @@ Campos obrigatórios mínimos para salvar:
 
 ### Onde este cadastro é utilizado
 
-- **Atendimento (início/encerramento):** utiliza o assunto de atendimento ao registrar o atendimento.
-- **Histórico de atendimento:** utiliza o assunto de atendimento como filtro.
+- **Atendimento:** utiliza o assunto de atendimento como filtro.
+- **Encerrar atendimento:** utiliza o assunto de atendimento na finalização do atendimento.
 - **Relatórios de atendimento (consolidado/detalhado):** utiliza o assunto de atendimento como filtro.
 - **Fechamento forçado de atendimento:** utiliza o assunto de atendimento para finalizar atendimentos pendentes.
-- **Convites (lote de convite):** utiliza o assunto de atendimento no vínculo do atendimento do lote.
+- **Novo ingresso de convidado de sócio em lote:** utiliza o assunto de atendimento no vínculo do atendimento do ingresso.
 
 ### Cadastros necessários para preencher esta tela
 
