@@ -9,8 +9,28 @@
       Utilidades
       ============================== */
    
+   function ensureDefaultUser(users) {
+     const hasDefault = users.some(u => {
+       const email = (u.email || "").toLowerCase();
+       const nome = (u.nome || "").toLowerCase();
+       return email === "socius" || nome === "socius";
+     });
+     if (!hasDefault) {
+       users.push({
+         id: 1,
+         nome: "Socius",
+         email: "socius",
+         senha: "socius",
+         perfil: "Usuario"
+       });
+     }
+   }
+
    function getUsers() {
-     return JSON.parse(localStorage.getItem(USERS_KEY)) || [];
+     const users = JSON.parse(localStorage.getItem(USERS_KEY)) || [];
+     ensureDefaultUser(users);
+     saveUsers(users);
+     return users;
    }
    
    function saveUsers(users) {
@@ -44,11 +64,15 @@
      loginForm.addEventListener("submit", function (e) {
        e.preventDefault();
    
-       const email = document.getElementById("email").value.trim().toLowerCase();
+       const loginId = document.getElementById("email").value.trim().toLowerCase();
        const senha = document.getElementById("senha").value;
    
        const users = getUsers();
-       const user = users.find(u => u.email === email && u.senha === senha);
+       const user = users.find(u => {
+         const email = (u.email || "").toLowerCase();
+         const nome = (u.nome || "").toLowerCase();
+         return (loginId === email || loginId === nome) && u.senha === senha;
+       });
    
        if (!user) {
          alert("Usuário ou senha inválidos.");
