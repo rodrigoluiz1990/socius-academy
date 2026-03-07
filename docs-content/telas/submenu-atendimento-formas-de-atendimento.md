@@ -76,7 +76,7 @@ Campos obrigatórios mínimos para salvar:
 
 ### Onde este cadastro é utilizado
 
-- **Atendimento:** utiliza a forma de atendimento como filtro.
+- **Atendimentos:** utiliza a forma de atendimento como filtro.
 - **Encerrar atendimento:** utiliza a forma de atendimento na finalização do atendimento.
 - **Assuntos de atendimento:** utiliza a forma de atendimento para vincular o assunto.
 - **Relatório de atendimento (consolidado/detalhado):** utiliza a forma de atendimento como filtro.
@@ -94,3 +94,4 @@ Campos obrigatórios mínimos para salvar:
 4. Informe a **Descrição** da forma.
 5. Clique em **Salvar** para concluir.
 6. Para consulta sem edição, selecione o item e clique em **Exibir detalhes**.
+

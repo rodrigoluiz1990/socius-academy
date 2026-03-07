@@ -223,7 +223,6 @@ Campos obrigatórios mínimos para salvar:
 ### Onde este cadastro é utilizado
 
 - **Emissão de título (Título de sócio):** utiliza a pessoa como titular/dependente/agregado no cadastro do título.
-- **Controle de acesso (Leitor facial):** utiliza a pessoa e sua foto para envio e validação nos leitores.
 - **Relatórios de títulos e pessoas:** utiliza dados cadastrais para filtros e identificação.
 - **Autoatendimento:** utiliza nome e documento do portador em telas de pagamento, recarga, extrato e comprovantes.
 - **PDV:** utiliza dados do portador do cartão (nome, documento e e-mail) em consumo, recarga, estorno, devolução, extrato e impressões.
@@ -233,14 +232,14 @@ Campos obrigatórios mínimos para salvar:
 - **Monitor de Acesso (desktop):** utiliza pessoa, títulos e foto/biometria na validação de acesso.
 - **Monitor de Acesso (web):** utiliza pessoa/hóspede nas telas de entrada e check-in.
 - **Monitor de Impressão:** utiliza o nome da pessoa em comandas e estornos.
-- **Atendimento (Retaguarda):** utiliza a pessoa para iniciar atendimento, cadastrar convites e consultar dados do sócio.
-- **Visitas (Retaguarda):** utiliza a pessoa como visitante.
-- **Cartão de consumo (Retaguarda):** utiliza a pessoa na ativação e edição de cartões.
-- **Título de sócio (Retaguarda):** utiliza a pessoa em emissão, transferência e manutenção de dependentes/agregados.
-- **Fiscal (Retaguarda):** utiliza a pessoa como tomador/transportadora em NF-e, NFC-e, NFS-e e CFe.
-- **Financeiro (Retaguarda):** utiliza a pessoa na cobrança e pagamento de títulos.
-- **Ingressos (Retaguarda):** utiliza a pessoa em convites e alteração de convidados.
-- **Relatórios (Retaguarda):** utiliza dados de pessoas em relatórios detalhados de entidades, títulos e vendas.
+- **Atendimento ao sócio (Iniciar atendimento ao sócio):** utiliza a pessoa para iniciar atendimento, cadastrar convites e consultar dados do sócio.
+- **Visitas:** utiliza a pessoa como visitante.
+- **Ativação e bloqueio de cartão de consumo:** utiliza a pessoa na ativação e edição de cartões.
+- **Títulos de sócio:** utiliza a pessoa em emissão, transferência e manutenção de dependentes/agregados.
+- **NF-e / NFC-e / NFS-e / CF-e:** utiliza a pessoa como tomador/transportadora nos documentos fiscais.
+- **Títulos de cobrança:** utiliza a pessoa na cobrança e pagamento de títulos.
+- **Alteração de convidados (Detalhes do ingresso de convidado de sócio):** utiliza a pessoa em convites e alteração de convidados.
+- **Relatórios detalhados de entidades, títulos e vendas:** utiliza dados de pessoas para filtros e identificação.
 
 ### Cadastros necessários para preencher esta tela
 

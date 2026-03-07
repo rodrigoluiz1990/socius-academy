@@ -76,7 +76,6 @@ Campos obrigatórios mínimos para salvar:
 ### Onde este cadastro é utilizado
 
 - **Dispositivos de atendimento:** utiliza o local para vincular o dispositivo ao ponto de atendimento.
-- **Atendimento (início do atendimento):** utiliza o local vinculado ao dispositivo na identificação do atendimento.
 - **Relatórios de atendimento (consolidado):** utiliza o local como filtro de relatório.
 - **Relatórios de caixa (consolidado):** utiliza o local como filtro de relatório.
 - **Relatórios de valores em circulação:** utiliza o local como filtro de relatório.

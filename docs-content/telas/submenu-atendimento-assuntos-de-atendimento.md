@@ -79,7 +79,7 @@ Campos obrigatórios mínimos para salvar:
 
 ### Onde este cadastro é utilizado
 
-- **Atendimento:** utiliza o assunto de atendimento como filtro.
+- **Atendimentos:** utiliza o assunto de atendimento como filtro.
 - **Encerrar atendimento:** utiliza o assunto de atendimento na finalização do atendimento.
 - **Relatórios de atendimento (consolidado/detalhado):** utiliza o assunto de atendimento como filtro.
 - **Fechamento forçado de atendimento:** utiliza o assunto de atendimento para finalizar atendimentos pendentes.
