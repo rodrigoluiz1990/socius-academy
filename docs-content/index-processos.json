@@ -16,5 +16,14 @@
         "nivel":  "operacional",
         "path":  "docs-content/processos/venda-ingresso-bilheteria.md",
         "versão_minima":  "1.9.13"
+    },
+    {
+        "codigo":  "processo-envio-foto-leitor-facial",
+        "slug":  "envio-foto-leitor-facial",
+        "nome":  "Envio de foto no leitor facial",
+        "area":  "Controle de acesso",
+        "nivel":  "operacional",
+        "versao_minima":  "1.9.12",
+        "path":  "docs-content/processos/envio-foto-leitor-facial.md"
     }
 ]
