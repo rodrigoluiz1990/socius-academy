@@ -66,7 +66,7 @@ Documentar a operação da tela **Tipos de licenças de uso**, usada para consul
 Campos obrigatórios mínimos para salvar:
 
 - **Descrição**
-- **Pelo menos um item em "Tipos de título que podem utilizar a licença"**
+- Pelo menos um item em **"Tipos de título que podem utilizar a licença"**
 
 ## Mensagens
 
