@@ -3569,5 +3569,14 @@
         "módulo":  "Retaguarda",
         "versão_minima":  "1.9.13",
         "path":  "docs-content/telas/submenu-vendas-venda-de-produtos-do-clube.md"
+    },
+    {
+        "grupo_slug":  "menu-portal-do-socio",
+        "slug":  "submenu-portal-do-socio-visao-geral-da-aplicacao",
+        "nome_tela":  "Visão geral da aplicação",
+        "menu":  "Portal do Sócio",
+        "módulo":  "Portal do Sócio",
+        "versão_minima":  "1.9.12",
+        "path":  "docs-content/telas/submenu-portal-do-socio-visao-geral-da-aplicacao.md"
     }
 ]

@@ -1,13 +1,58 @@
 ﻿[
-  { "slug": "autoatendimento", "nome": "Autoatendimento", "descricao": "Manuais e telas da aplicação Autoatendimento" },
-  { "slug": "integracao-cm", "nome": "Integração Cm", "descricao": "Manuais e telas da aplicação Integração Cm" },
-  { "slug": "meu-cartao", "nome": "Meu Cartão", "descricao": "Manuais e telas da aplicação Meu Cartão" },
-  { "slug": "monitor-de-acesso", "nome": "Monitor de Acesso", "descricao": "Manuais e telas da aplicação Monitor de Acesso" },
-  { "slug": "monitor-de-impressao", "nome": "Monitor de Impressão", "descricao": "Manuais e telas da aplicação Monitor de Impressão" },
-  { "slug": "pdv", "nome": "PDV", "descricao": "Manuais e telas da aplicação PDV" },
-  { "slug": "portal-do-socio", "nome": "Portal do Sócio", "descricao": "Manuais e telas da aplicação Portal do Sócio" },
-  { "slug": "socius-go", "nome": "Socius GO", "descricao": "Manuais e telas da aplicação Socius GO" },
-  { "slug": "resultados", "nome": "Resultados", "descricao": "Manuais e telas da aplicação Resultados" },
-  { "slug": "retaguarda", "nome": "Retaguarda", "descricao": "Menus e acessos rápidos do sistema Retaguarda" },
-  { "slug": "voucher", "nome": "Voucher", "descricao": "Manuais e telas da aplicação Voucher" }
+    {
+        "slug":  "autoatendimento",
+        "nome":  "Autoatendimento",
+        "descricao":  "Manuais e telas da aplicação Autoatendimento"
+    },
+    {
+        "slug":  "integracao-cm",
+        "nome":  "Integração Cm",
+        "descricao":  "Manuais e telas da aplicação Integração Cm"
+    },
+    {
+        "slug":  "meu-cartao",
+        "nome":  "Meu Cartão",
+        "descricao":  "Manuais e telas da aplicação Meu Cartão"
+    },
+    {
+        "slug":  "monitor-de-acesso",
+        "nome":  "Monitor de Acesso",
+        "descricao":  "Manuais e telas da aplicação Monitor de Acesso"
+    },
+    {
+        "slug":  "monitor-de-impressao",
+        "nome":  "Monitor de Impressão",
+        "descricao":  "Manuais e telas da aplicação Monitor de Impressão"
+    },
+    {
+        "slug":  "pdv",
+        "nome":  "PDV",
+        "descricao":  "Manuais e telas da aplicação PDV"
+    },
+    {
+        "slug":  "portal-do-socio",
+        "nome":  "Portal do Sócio",
+        "descricao":  "Manuais e telas da aplicação Portal do Sócio",
+        "manual_slug":  "submenu-portal-do-socio-visao-geral-da-aplicacao"
+    },
+    {
+        "slug":  "socius-go",
+        "nome":  "Socius GO",
+        "descricao":  "Manuais e telas da aplicação Socius GO"
+    },
+    {
+        "slug":  "resultados",
+        "nome":  "Resultados",
+        "descricao":  "Manuais e telas da aplicação Resultados"
+    },
+    {
+        "slug":  "retaguarda",
+        "nome":  "Retaguarda",
+        "descricao":  "Menus e acessos rápidos do sistema Retaguarda"
+    },
+    {
+        "slug":  "voucher",
+        "nome":  "Voucher",
+        "descricao":  "Manuais e telas da aplicação Voucher"
+    }
 ]

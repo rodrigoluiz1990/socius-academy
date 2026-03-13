@@ -91,6 +91,12 @@ async function loadBiblioteca() {
 
       const openItem = () => {
         if (tipo === "tela") {
+          const manualSlug = pick(item, "manual_slug", "manualSlug");
+          if (manualSlug) {
+            window.location.href =
+              "manual.html?tipo=tela&slug=" + encodeURIComponent(manualSlug);
+            return;
+          }
           window.location.href = "biblioteca2.html?tipo=tela&aplicacao=" + encodeURIComponent(item.slug);
           return;
         }
