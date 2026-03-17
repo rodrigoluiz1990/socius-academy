@@ -3578,5 +3578,14 @@
         "módulo":  "Portal do Sócio",
         "versão_minima":  "1.9.12",
         "path":  "docs-content/telas/submenu-portal-do-socio-visao-geral-da-aplicacao.md"
+    },
+    {
+        "grupo_slug":  "menu-meu-cartao",
+        "slug":  "submenu-meu-cartao-visao-geral-da-aplicacao",
+        "nome_tela":  "Visão geral da aplicação",
+        "menu":  "Meu Cartão",
+        "módulo":  "Meu Cartão",
+        "versão_minima":  "1.9.12",
+        "path":  "docs-content/telas/submenu-meu-cartao-visao-geral-da-aplicacao.md"
     }
 ]

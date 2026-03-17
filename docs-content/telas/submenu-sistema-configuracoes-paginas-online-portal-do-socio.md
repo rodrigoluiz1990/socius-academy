@@ -10,6 +10,18 @@ slug: submenu-sistema-configuracoes-paginas-online-portal-do-socio
 
 Documentar a operação da tela **Portal do sócio**, usada para definir quais recursos ficarão disponíveis para o sócio no portal web.
 
+## Contexto geral
+
+Esta tela existe para o operador definir, de forma centralizada, o que o sócio poderá visualizar e editar no **Portal do Sócio**.
+
+O uso dessa configuração evita liberações indevidas, reduz dúvidas no atendimento e garante que o comportamento do portal siga as regras do estabelecimento.
+
+Para o operador, esta tela é o ponto de controle para:
+
+- Habilitar ou ocultar funcionalidades do portal.
+- Permitir ou bloquear edição de dados pelo sócio.
+- Controlar recursos sensíveis, como **Alterar foto** e **Pagamento de contas**.
+
 ## Detalhes
 
 - **Aplicação:** Retaguarda
@@ -20,7 +32,7 @@ Documentar a operação da tela **Portal do sócio**, usada para definir quais r
 
 ### Tela: Configurações do portal do sócio (principal)
 
-#### Seção: Título
+### Seção: Título
 
 - **Sócios:** habilita a consulta de sócios no portal.
 - **Informações de contato:** habilita consulta das informações de contato.
@@ -33,19 +45,19 @@ Documentar a operação da tela **Portal do sócio**, usada para definir quais r
 - **Segunda via de contrato:** habilita emissão/consulta da segunda via de contrato.
 - **Ingressos do sócio:** habilita consulta de ingressos do sócio.
 
-#### Seção: Financeiro
+### Seção: Financeiro
 
 - **Contas pendentes:** habilita consulta de contas pendentes.
 - **Contas pagas:** habilita consulta de contas pagas.
 - **Contas renegociadas:** habilita consulta de contas renegociadas.
 - **Pagamento de contas:** habilita pagamento de contas pendentes no portal.
 
-#### Seção: Histórico
+### Seção: Histórico
 
 - **Acessos ao estabelecimento:** habilita consulta de histórico de acessos.
 - **Extrato de carteirinha:** habilita consulta do extrato de carteirinha.
 
-#### Seção: Privacidade
+### Seção: Privacidade
 
 - **Alterar senha:** habilita alteração de senha do portal pelo sócio.
 

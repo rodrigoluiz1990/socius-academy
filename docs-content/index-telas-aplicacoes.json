@@ -12,7 +12,8 @@
     {
         "slug":  "meu-cartao",
         "nome":  "Meu Cartão",
-        "descricao":  "Manuais e telas da aplicação Meu Cartão"
+        "descricao":  "Manuais e telas da aplicação Meu Cartão",
+        "manual_slug":  "submenu-meu-cartao-visao-geral-da-aplicacao"
     },
     {
         "slug":  "monitor-de-acesso",

@@ -50,7 +50,7 @@ function buildIndice() {
   const indiceEl = document.getElementById("manual-indice");
   if (!contentEl || !indiceListEl || !indiceEl) return;
 
-  const headings = Array.from(contentEl.querySelectorAll("h2, h3"));
+  const headings = Array.from(contentEl.querySelectorAll("h2, h3, h4"));
   indiceListEl.innerHTML = "";
 
   if (!headings.length) {
@@ -71,6 +71,8 @@ function buildIndice() {
     link.textContent = heading.textContent;
     if (heading.tagName.toLowerCase() === "h3") {
       link.classList.add("nivel-3");
+    } else if (heading.tagName.toLowerCase() === "h4") {
+      link.classList.add("nivel-4");
     }
     indiceListEl.appendChild(link);
   });
@@ -198,6 +200,13 @@ function renderMarkdown(md) {
 
     if (!line) {
       closeList();
+      return;
+    }
+
+    if (line.startsWith("#### ")) {
+      closeList();
+      const text = line.slice(5).trim();
+      out.push(`<h4>${inlineMarkdown(text)}</h4>`);
       return;
     }
 

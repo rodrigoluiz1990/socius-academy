@@ -10,6 +10,14 @@ slug: submenu-portal-do-socio-visao-geral-da-aplicacao
 
 Documentar a visão geral da aplicação **Portal do Sócio**, incluindo acesso, seções disponíveis ao sócio e relação com as configurações do Retaguarda.
 
+## Contexto geral
+
+O **Portal do Sócio** é uma aplicação web usada pelo **sócio do título** para acessar informações do seu cadastro e realizar ações de autoatendimento sem precisar ir ao atendimento presencial.
+
+Quem acessa essa aplicação é o próprio sócio, usando as credenciais do título. Nesse ambiente, ele consulta dados do título, situação financeira, histórico e informações de carteirinha, conforme permissões liberadas pelo estabelecimento.
+
+Este manual existe para mostrar ao time interno como a aplicação funciona do ponto de vista do sócio, facilitando orientação em dúvidas de acesso, navegação e uso das funcionalidades disponíveis no portal.
+
 ## Detalhes
 
 - **Aplicação:** Portal do Sócio
