@@ -12,7 +12,7 @@ Documentar a visão geral da aplicação **Voucher**, incluindo acesso, fluxos p
 
 ## Contexto geral
 
-O **Voucher** é uma aplicação web para venda online de produtos do **estabelecimento**, com foco em emissão de ingressos e títulos, além de itens complementares como combos e estacionamento quando habilitados.
+O **Voucher** é uma aplicação web para venda online de produtos do estabelecimento, com foco em emissão de ingressos e títulos, além de itens complementares como combos e estacionamento quando habilitados.
 
 Quem utiliza a aplicação é o cliente final (sócio ou não sócio, conforme regras da venda), realizando cadastro/login, seleção de produtos, pagamento e confirmação diretamente pelo navegador.
 
@@ -34,7 +34,7 @@ Este manual orienta o time interno sobre o funcionamento da aplicação para apo
 
 ### Tela: Recuperar senha
 
-- **E-mail:** envia link para redefinição de senha.
+- **E-mail:** informa o e-mail cadastrado para solicitar a recuperação de senha.
 - **Enviar:** dispara o processo de recuperação.
 
 ## Seções da aplicação
@@ -44,7 +44,7 @@ Este manual orienta o time interno sobre o funcionamento da aplicação para apo
 - **Ingressos:** fluxo de seleção de campanha/dia/produto, termos, pagamento e confirmação.
 - **Títulos:** fluxo de seleção de campanha/plano de venda, termos/contrato, pagamento e confirmação.
 - **Combos:** itens de combo vinculados à campanha de venda, quando configurados.
-- **Estacionamento:** produtos de estacionamento vinculados ao fluxo de compra, quando disponíveis.
+- **Estacionamento:** produtos de estacionamento vinculados a campanha de venda, quando configurados.
 - **Carrinho:** consolida itens selecionados para seguir ao pagamento.
 
 ### Seção: Pagamento
@@ -79,16 +79,18 @@ Este manual orienta o time interno sobre o funcionamento da aplicação para apo
 
 - **Venda pela internet:** configurações gerais da venda online ativas no Retaguarda.
 - **Planos de venda:** definição dos produtos e regras de comercialização.
-- **Campanhas de venda internet:** janelas e regras comerciais da venda online.
+- **Campanhas de venda internet:** definição dos **planos de venda**, **combos** e **produtos de estacionamento** da venda online.
 - **Combos de venda internet:** composição dos combos quando esse recurso estiver habilitado.
 - **Produtos de estacionamento:** cadastro necessário para oferta de estacionamento no fluxo online.
 - **Configurações de e-mail:** necessárias para recuperação de senha e notificações do processo de compra.
 
 ## Passo a passo recomendado
 
-1. Acesse a URL da aplicação **Voucher**.
-2. Escolha entre **cadastrar** nova conta ou **entrar** com credenciais existentes.
-3. Selecione o fluxo de compra desejado (**Ingressos** ou **Títulos**).
-4. Adicione os itens (e complementos, quando disponíveis) e avance para o **Carrinho**.
-5. Realize o **Pagamento** e conclua a compra.
-6. Use **Meus Dados** para consultar compras e manter dados cadastrais atualizados.
+1. Acesse a URL configurada em uma das **campanhas de venda internet**.
+2. Quando a URL for de **ingresso**: selecione a data que deseja ir ao estabelecimento, adicione os ingressos que deseja adquirir e siga para a próxima etapa.
+3. Quando a URL for de **título**: selecione o título que deseja adquirir e siga para a próxima etapa.
+4. Adicione itens complementares, quando disponíveis, e avance para a próxima etapa.
+5. Escolha entre cadastrar nova conta ou entrar com credenciais existentes.
+6. Aceite os termos do estabelecimento.
+7. Realize o pagamento e conclua a compra.
+8. Use **Meus Dados** para consultar compras e manter dados cadastrais atualizados.
