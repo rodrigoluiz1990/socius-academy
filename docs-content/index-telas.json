@@ -3614,5 +3614,14 @@
         "módulo":  "Autoatendimento",
         "versão_minima":  "1.9.12",
         "path":  "docs-content/telas/submenu-autoatendimento-visao-geral-da-aplicacao.md"
+    },
+    {
+        "grupo_slug":  "menu-monitor-de-acesso",
+        "slug":  "submenu-monitor-de-acesso-visao-geral-da-aplicacao",
+        "nome_tela":  "Visão geral da aplicação",
+        "menu":  "Monitor de Acesso",
+        "módulo":  "Monitor de Acesso",
+        "versão_minima":  "1.9.12",
+        "path":  "docs-content/telas/submenu-monitor-de-acesso-visao-geral-da-aplicacao.md"
     }
 ]

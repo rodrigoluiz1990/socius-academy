@@ -19,7 +19,8 @@
     {
         "slug":  "monitor-de-acesso",
         "nome":  "Monitor de Acesso",
-        "descricao":  "Manuais e telas da aplicação Monitor de Acesso"
+        "descricao":  "Manuais e telas da aplicação Monitor de Acesso",
+        "manual_slug":  "submenu-monitor-de-acesso-visao-geral-da-aplicacao"
     },
     {
         "slug":  "monitor-de-impressao",
