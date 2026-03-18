@@ -3596,5 +3596,14 @@
         "módulo":  "Resultados",
         "versão_minima":  "1.9.12",
         "path":  "docs-content/telas/submenu-resultados-visao-geral-da-aplicacao.md"
+    },
+    {
+        "grupo_slug":  "menu-voucher",
+        "slug":  "submenu-voucher-visao-geral-da-aplicacao",
+        "nome_tela":  "Visão geral da aplicação",
+        "menu":  "Voucher",
+        "módulo":  "Voucher",
+        "versão_minima":  "1.9.12",
+        "path":  "docs-content/telas/submenu-voucher-visao-geral-da-aplicacao.md"
     }
 ]

@@ -55,6 +55,7 @@
     {
         "slug":  "voucher",
         "nome":  "Voucher",
-        "descricao":  "Manuais e telas da aplicação Voucher"
+        "descricao":  "Manuais e telas da aplicação Voucher",
+        "manual_slug":  "submenu-voucher-visao-geral-da-aplicacao"
     }
 ]
