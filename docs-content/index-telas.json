@@ -3587,5 +3587,14 @@
         "módulo":  "Meu Cartão",
         "versão_minima":  "1.9.12",
         "path":  "docs-content/telas/submenu-meu-cartao-visao-geral-da-aplicacao.md"
+    },
+    {
+        "grupo_slug":  "menu-resultados",
+        "slug":  "submenu-resultados-visao-geral-da-aplicacao",
+        "nome_tela":  "Visão geral da aplicação",
+        "menu":  "Resultados",
+        "módulo":  "Resultados",
+        "versão_minima":  "1.9.12",
+        "path":  "docs-content/telas/submenu-resultados-visao-geral-da-aplicacao.md"
     }
 ]

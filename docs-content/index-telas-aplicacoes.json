@@ -44,7 +44,8 @@
     {
         "slug":  "resultados",
         "nome":  "Resultados",
-        "descricao":  "Manuais e telas da aplicação Resultados"
+        "descricao":  "Manuais e telas da aplicação Resultados",
+        "manual_slug":  "submenu-resultados-visao-geral-da-aplicacao"
     },
     {
         "slug":  "retaguarda",
