@@ -77,9 +77,16 @@ async function loadBibliotecaNivel2() {
 
   try {
     const aplicacoes = await fetchJson("docs-content/index-telas-aplicacoes.json");
+    const appItem = aplicacoes.find(a => a.slug === aplicacao);
+    const manualSlug = pick(appItem, "manual_slug", "manualSlug");
+
+    if (manualSlug) {
+      window.location.href = "manual.html?tipo=tela&slug=" + encodeURIComponent(manualSlug);
+      return;
+    }
+
     const grupos = await fetchJson("docs-content/index-telas-grupos.json");
 
-    const appItem = aplicacoes.find(a => a.slug === aplicacao);
     if (titleEl) {
       const nomeApp = appItem ? pick(appItem, "nome") : aplicacao;
       titleEl.textContent = `Menus de ${nomeApp}`;

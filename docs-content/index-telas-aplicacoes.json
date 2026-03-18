@@ -2,7 +2,8 @@
     {
         "slug":  "autoatendimento",
         "nome":  "Autoatendimento",
-        "descricao":  "Manuais e telas da aplicação Autoatendimento"
+        "descricao":  "Manuais e telas da aplicação Autoatendimento",
+        "manual_slug":  "submenu-autoatendimento-visao-geral-da-aplicacao"
     },
     {
         "slug":  "integracao-cm",
