@@ -31,7 +31,8 @@
     {
         "slug":  "pdv",
         "nome":  "PDV",
-        "descricao":  "Manuais e telas da aplicação PDV"
+        "descricao":  "Manuais e telas da aplicação PDV",
+        "manual_slug":  "submenu-pdv-visao-geral-da-aplicacao"
     },
     {
         "slug":  "portal-do-socio",

@@ -3632,5 +3632,14 @@
         "módulo":  "Monitor de Impressão",
         "versão_minima":  "1.9.12",
         "path":  "docs-content/telas/submenu-monitor-de-impressao-visao-geral-da-aplicacao.md"
+    },
+    {
+        "grupo_slug":  "menu-pdv",
+        "slug":  "submenu-pdv-visao-geral-da-aplicacao",
+        "nome_tela":  "Visão geral da aplicação",
+        "menu":  "PDV",
+        "módulo":  "PDV",
+        "versão_minima":  "1.9.12",
+        "path":  "docs-content/telas/submenu-pdv-visao-geral-da-aplicacao.md"
     }
 ]
