@@ -25,7 +25,8 @@
     {
         "slug":  "monitor-de-impressao",
         "nome":  "Monitor de Impressão",
-        "descricao":  "Manuais e telas da aplicação Monitor de Impressão"
+        "descricao":  "Manuais e telas da aplicação Monitor de Impressão",
+        "manual_slug":  "submenu-monitor-de-impressao-visao-geral-da-aplicacao"
     },
     {
         "slug":  "pdv",

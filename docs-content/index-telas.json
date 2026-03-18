@@ -3623,5 +3623,14 @@
         "módulo":  "Monitor de Acesso",
         "versão_minima":  "1.9.12",
         "path":  "docs-content/telas/submenu-monitor-de-acesso-visao-geral-da-aplicacao.md"
+    },
+    {
+        "grupo_slug":  "menu-monitor-de-impressao",
+        "slug":  "submenu-monitor-de-impressao-visao-geral-da-aplicacao",
+        "nome_tela":  "Visão geral da aplicação",
+        "menu":  "Monitor de Impressão",
+        "módulo":  "Monitor de Impressão",
+        "versão_minima":  "1.9.12",
+        "path":  "docs-content/telas/submenu-monitor-de-impressao-visao-geral-da-aplicacao.md"
     }
 ]
