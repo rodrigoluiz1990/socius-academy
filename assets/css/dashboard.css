@@ -1,4 +1,4 @@
-﻿/* ===== DASHBOARD ===== */
+/* ===== DASHBOARD ===== */
 
 .dashboard {
   padding-left: 32px;
@@ -52,7 +52,7 @@
   background: linear-gradient(120deg, transparent, rgba(220,38,38,.15));
   opacity: 0;
   transition: opacity .3s ease;
-  pointer-events: none; /* â† ESSENCIAL */
+  pointer-events: none; /* <- ESSENCIAL */
 }
 
 .course-card:hover::before {
@@ -85,7 +85,7 @@
   font-weight: 600;
 }
 
-/* DESCRIÇÃO */
+/* DESCRI��O */
 .course-description {
   font-size: 14px;
   color: #cbd5e1;
@@ -185,6 +185,7 @@
   color: #334155;
   font-size: 14px;
 }
+
 
 
 

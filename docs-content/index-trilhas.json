@@ -1,13 +1,14 @@
-﻿[
+[
   {
     "codigo": "trilha-operador-caixa-n1",
     "slug": "operador-caixa-n1",
-    "nome": "Operador de Caixa â€“ Nível 1",
-    "público_alvo": "Operadores iniciantes",
+    "nome": "Operador de Caixa - N�vel 1",
+    "p�blico_alvo": "Operadores iniciantes",
     "nivel": "basico",
     "duracao_estimada_horas": 6,
     "path": "docs-content/trilhas/exemplo-trilha-operador-caixa-n1.md"
   }
 ]
+
 
 

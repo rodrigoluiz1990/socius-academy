@@ -1,4 +1,4 @@
-﻿function norm(value) {
+function norm(value) {
   return (value || "")
     .toString()
     .normalize("NFD")
@@ -49,6 +49,24 @@ function mapTelaItem(item) {
   };
 }
 
+function mapAplicacaoItem(item) {
+  const manualSlug = pick(item, "manual_slug", "manualSlug");
+  const appSlug = pick(item, "slug");
+  const targetUrl = manualSlug
+    ? `manual.html?tipo=tela&slug=${encodeURIComponent(manualSlug)}`
+    : `biblioteca2.html?tipo=tela&aplicacao=${encodeURIComponent(appSlug)}`;
+
+  return {
+    tipo: "aplicacao",
+    badge: "Aplicação",
+    titulo: pick(item, "nome", "slug"),
+    descricao: pick(item, "descricao", "descrição"),
+    aplicacao: pick(item, "nome", "slug"),
+    extra: [pick(item, "descricao", "descrição"), pick(item, "slug"), "aplicação"].filter(Boolean).join(" "),
+    url: targetUrl
+  };
+}
+
 function mapProcessoItem(item) {
   return {
     tipo: "processo",
@@ -77,11 +95,30 @@ function buildSearchText(item) {
   return norm([item.titulo, item.descricao, item.extra, item.aplicacao, item.badge, "aplicacao", "aplicação"].join(" "));
 }
 
+
+function normalizeToken(token) {
+  const t = norm(token).trim();
+  if (!t) return "";
+  if (t.length > 3 && t.endsWith("oes")) return `${t.slice(0, -3)}ao`;
+  if (t.length > 3 && t.endsWith("es")) return t.slice(0, -2);
+  if (t.length > 3 && t.endsWith("s")) return t.slice(0, -1);
+  return t;
+}
+
+function matchesQuery(searchable, query) {
+  const tokens = norm(query).split(/\s+/).filter(Boolean);
+  if (!tokens.length) return false;
+  return tokens.every(token => {
+    const base = normalizeToken(token);
+    return searchable.includes(token) || (base && searchable.includes(base));
+  });
+}
+
 function renderResults(container, results, query) {
   container.innerHTML = "";
 
   if (!query) {
-    container.innerHTML = '<p class="search-placeholder">Digite para pesquisar os conteúdos.</p>';
+    container.innerHTML = '<p class="search-placeholder">Digite para pesquisar os conte\u00fados.</p>';
     return;
   }
 
@@ -126,7 +163,8 @@ async function loadGlobalSearch() {
   if (!input || !resultsEl) return;
 
   try {
-    const [telas, processos, trilhas] = await Promise.all([
+    const [aplicacoes, telas, processos, trilhas] = await Promise.all([
+      fetchJson("docs-content/index-telas-aplicacoes.json").catch(() => []),
       fetchJson("docs-content/index-telas-submenus.json").catch(() => fetchJson("docs-content/index-telas.json")),
       fetchJson("docs-content/index-processos.json").catch(() => []),
       fetchJson("docs-content/index-trilhas.json").catch(() => [])
@@ -134,6 +172,7 @@ async function loadGlobalSearch() {
 
     const telasFiltradas = telas.filter(item => item.path && (pick(item, "tipo") || "").toLowerCase() !== "pasta");
     const items = [
+      ...aplicacoes.map(mapAplicacaoItem),
       ...telasFiltradas.map(mapTelaItem),
       ...processos.map(mapProcessoItem),
       ...trilhas.map(mapTrilhaItem)
@@ -145,7 +184,7 @@ async function loadGlobalSearch() {
         ? []
         : items
             .map(item => ({ item, searchable: buildSearchText(item) }))
-            .filter(x => x.searchable.includes(query))
+            .filter(x => matchesQuery(x.searchable, query))
             .slice(0, 60)
             .map(x => x.item);
 
@@ -169,4 +208,6 @@ async function loadGlobalSearch() {
 }
 
 loadGlobalSearch();
+
+
 

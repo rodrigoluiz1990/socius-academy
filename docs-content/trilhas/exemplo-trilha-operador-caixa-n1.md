@@ -1,8 +1,8 @@
-ï»¿---
+---
 tipo: trilha
 codigo: trilha-operador-caixa-n1
-nome: Operador de Caixa Ã¢â‚¬â€œ NÃ­vel 1
-pÃºblico_alvo: Operadores iniciantes
+nome: Operador de Caixa - Nível 1
+público_alvo: Operadores iniciantes
 nivel: basico
 duracao_estimada_horas: 6
 slug: operador-caixa-n1
@@ -10,36 +10,37 @@ slug: operador-caixa-n1
 
 ## Objetivo da Trilha
 
-Capacitar o operador de caixa a executar as principais operaÃ§Ãµes diÃ¡rias no sistema Socius Retaguarda.
+Capacitar o operador de caixa a executar as principais operações diárias no sistema Socius Retaguarda.
 
-## PrÃ©-requisitos Gerais
+## Pré-requisitos Gerais
 
-- Conhecimento bÃ¡sico de computadores.
-- NoÃ§Ãµes gerais de atendimento ao cliente.
+- Conhecimento básico de computadores.
+- Noções gerais de atendimento ao cliente.
 
-## Estrutura da Trilha (MÃ³dulos em Ordem)
+## Estrutura da Trilha (Módulos em Ordem)
 
-### MÃ³dulo 1 Ã¢â‚¬â€œ NavegaÃ§Ã£o BÃ¡sica
+### Módulo 1 - Navegação Básica
 
-- IntroduÃ§Ã£o ao sistema.
-- NavegaÃ§Ã£o de menus.
+- Introdução ao sistema.
+- Navegação de menus.
 
-### MÃ³dulo 2 Ã¢â‚¬â€œ Cadastros Essenciais
+### Módulo 2 - Cadastros Essenciais
 
 - [Cadastro de Cliente](../telas/exemplo-cadastro-cliente.md)
 
-### MÃ³dulo 3 Ã¢â‚¬â€œ OperaÃ§Ãµes DiÃ¡rias
+### Módulo 3 - Operações Diárias
 
 - [Venda de Consumo](../processos/exemplo-processo-venda-consumo.md)
 
-### MÃ³dulo 4 Ã¢â‚¬â€œ Fechamento e ConferÃªncia
+### Módulo 4 - Fechamento e Conferência
 
-- RevisÃ£o de relatÃ³rios de caixa.
+- Revisão de relatórios de caixa.
 
-## ExercÃ­cios / CenÃ¡rios PrÃ¡ticos Gerais
+## Exercícios / Cenários Práticos Gerais
 
 1. Realizar o cadastro de um cliente de teste.  
 2. Simular uma venda de consumo.  
 3. Executar um fechamento de caixa de exemplo.
+
 
 
