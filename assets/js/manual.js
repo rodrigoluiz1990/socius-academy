@@ -126,6 +126,7 @@ async function loadManual() {
 
     const html = renderMarkdown(body);
     document.getElementById("aula-conteudo").innerHTML = html;
+    await initPermissoesBlocos();
     buildIndice();
   } catch (err) {
     console.error(err);
@@ -241,6 +242,12 @@ function renderMarkdown(md) {
       return;
     }
 
+    if (line.trim() === "[PERMISSOES_RETGUARDA]") {
+      closeList();
+      out.push('<div data-permissoes-fonte="docs-content/permissoes/permissoes-retaguarda.json"></div>');
+      return;
+    }
+
     closeList();
     out.push(`<p>${inlineMarkdown(line)}</p>`);
   });
@@ -254,6 +261,99 @@ function inlineMarkdown(text) {
     .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
     .replace(/\*(.+?)\*/g, "<em>$1</em>")
     .replace(/`(.+?)`/g, "<code>$1</code>");
+}
+
+function normalizeText(value) {
+  return (value || "")
+    .toString()
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .trim();
+}
+
+function escapeHtml(value) {
+  return (value || "")
+    .toString()
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+function renderPermissoesRows(tbody, items) {
+  tbody.innerHTML = items
+    .map(item =>
+      `<tr>
+        <td>${escapeHtml(item.categoria)}</td>
+        <td>${escapeHtml(item.permissao)}</td>
+        <td>${escapeHtml(item.usado_em)}</td>
+      </tr>`
+    )
+    .join("");
+}
+
+async function initPermissoesBlocos() {
+  const containers = Array.from(document.querySelectorAll("[data-permissoes-fonte]"));
+  if (!containers.length) return;
+
+  for (const container of containers) {
+    const source = container.getAttribute("data-permissoes-fonte");
+    if (!source) continue;
+
+    container.innerHTML = `
+      <div class="permissoes-bloco">
+        <div class="permissoes-topo">
+          <input type="search" class="permissoes-busca" placeholder="Buscar permissão, categoria ou uso..." aria-label="Buscar permissões">
+          <span class="permissoes-contador"></span>
+        </div>
+        <div class="permissoes-tabela-wrap">
+          <table class="permissoes-tabela">
+            <thead>
+              <tr>
+                <th>Menu</th>
+                <th>Permissão (aba)</th>
+                <th>Onde é usada</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    `;
+
+    const input = container.querySelector(".permissoes-busca");
+    const contador = container.querySelector(".permissoes-contador");
+    const tbody = container.querySelector("tbody");
+
+    try {
+      const res = await fetch(source);
+      if (!res.ok) throw new Error("Falha ao carregar permissões.");
+      const allItems = await res.json();
+      const items = Array.isArray(allItems) ? allItems : [];
+
+      const applyFilter = () => {
+        const term = normalizeText(input.value);
+        const filtered = !term
+          ? items
+          : items.filter(item => {
+              const target = normalizeText(
+                `${item.categoria || ""} ${item.permissao || ""} ${item.usado_em || ""}`
+              );
+              return target.includes(term);
+            });
+
+        renderPermissoesRows(tbody, filtered);
+        contador.textContent = `${filtered.length} de ${items.length} permissões`;
+      };
+
+      input.addEventListener("input", applyFilter);
+      applyFilter();
+    } catch (err) {
+      console.error(err);
+      container.innerHTML = `<p>Não foi possível carregar o mapa de permissões.</p>`;
+    }
+  }
 }
 
 loadManual();
